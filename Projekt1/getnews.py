@@ -2,6 +2,9 @@
 from bs4 import BeautifulSoup
 import re
 import urllib.request
+import pycountry
+from countryinfo import CountryInfo
+from flashgeotext.geotext import GeoText
 
 month_name = ["January", "February", "March", "April", "May", "June", "July",
               "August", "September", "October", "November", "December"]
@@ -29,6 +32,7 @@ def parse_ul_tree(el, top_level=True):
     return all_links
 
 def parse_month(month=0, year=0):
+    print('Parsing news from Wikipedia')
     """
     Parse a description of events in one month of Wikipedia events.
     It can also be used to parse the current events.
@@ -62,6 +66,50 @@ def parse_month(month=0, year=0):
                             # Parse those events
                             events = parse_ul_tree(t)
                             print(events)
+                            print('Found countries: ', find_countries(events),'\n')
+
+
+def find_countries(events_list):
+    """
+    Check if the list of links contains countries and get their land area and population.
+    :param events_list: a list of links to check.
+    :return: a list of dictionaries with country names, land area, and population.
+    """
+    countries_info = []
+    found_countries = []
+
+    geotext = GeoText()
+    for event in events_list:
+        result = geotext.extract(input_text=event[1])
+        found_countries.extend(list(result['countries']))
+
+    found_countries = list(set(found_countries))
+
+    for country in found_countries:
+        area, population = get_country_info(country)
+        countries_info.append({
+            'name': country,
+            'area': str(area)+' km²',
+            'population': population
+        })
+    return countries_info
+
+
+def get_country_info(country_name):
+    """
+    Get the land area and population of a country using available libraries.
+    :param country_name: The name of the country.
+    :return: A tuple containing the land area and population.
+    """
+    country_info = CountryInfo(country_name)
+    if country_info:
+        try:
+            area = country_info.area()
+            population = country_info.population()
+            return area, population
+        except KeyError:
+            return 'N/A', 'N/A'
+    return 'N/A', 'N/A'
 
 
 if (__name__ == "__main__"):
@@ -72,3 +120,7 @@ if (__name__ == "__main__"):
         year = sys.argv[1]
         month = sys.argv[2]
     parse_month(month, year)
+
+
+
+

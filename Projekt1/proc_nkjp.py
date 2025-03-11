@@ -87,6 +87,12 @@ def get_next_morph(filename):
                 elif path[-1] == "f:base":
                     # Lemma
                     base = elem.text
+
+                #####################################
+                elif path[-3] == "f:disamb":
+                    disamb = elem.text
+                #####################################
+
             elif branch == "seg":
                 yield orth, interps, disamb
                 orth = ""
@@ -96,9 +102,11 @@ def get_next_morph(filename):
 
 if (__name__ == "__main__"):
     import sys
-    for setname in sys.argv[1:]:
+    input =  '$NKJP/010-2-000000001'
+    for setname in input:
         print(setname)
-        mm = get_next_morph(setname + "/ann_morphosyntax.xml")
+        mm = get_next_morph("C:/Users/micha/Desktop/Informatyka/PJN-Project/Projekt1/resources/ann_morphosyntax.xml")
+        # mm = get_next_morph(setname + "/ann_morphosyntax.xml")
         for m in mm:
             orth, interps, disamb = m
             print("orth=", orth, ", interps=", interps, ", disamb=", disamb,
