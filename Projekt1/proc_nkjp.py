@@ -108,7 +108,6 @@ def find_morf(input):
     cur_path = os.path.dirname(__file__)
     file_path = os.path.join(cur_path, 'resources', input, 'ann_morphosyntax.xml')
     mm = get_next_morph(file_path)
-    # mm = get_next_morph(setname + "/ann_morphosyntax.xml")
     for m in mm:
         orth, interps, disamb = m
         print("orth=", orth, ", interps=", interps, ", disamb=", disamb, sep='')

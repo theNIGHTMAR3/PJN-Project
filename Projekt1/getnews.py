@@ -2,9 +2,9 @@
 from bs4 import BeautifulSoup
 import re
 import urllib.request
-import pycountry
 from countryinfo import CountryInfo
 from flashgeotext.geotext import GeoText
+import wikipediaapi
 
 month_name = ["January", "February", "March", "April", "May", "June", "July",
               "August", "September", "October", "November", "December"]
@@ -77,13 +77,16 @@ def find_countries(events_list):
     """
     countries_info = []
     found_countries = []
+    found_cities = []
 
     geotext = GeoText()
     for event in events_list:
         result = geotext.extract(input_text=event[1])
         found_countries.extend(list(result['countries']))
+        found_cities.extend(list(result['cities']))
 
     found_countries = list(set(found_countries))
+    found_cities = list(set(found_cities))
 
     for country in found_countries:
         area, population = get_country_info(country)
@@ -92,6 +95,8 @@ def find_countries(events_list):
             'area': str(area)+' km²',
             'population': population
         })
+
+    print('CITIES: ',found_cities)
     return countries_info
 
 
@@ -120,6 +125,7 @@ if (__name__ == "__main__"):
         year = sys.argv[1]
         month = sys.argv[2]
     parse_month(month, year)
+
 
 
 

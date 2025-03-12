@@ -8,9 +8,9 @@ from pdfminer.layout import LTTextBoxHorizontal, LTChar
 from typing import Iterable, Any
 from pathlib import Path
 
-pdf_file = 'D20211805Lj.pdf'
-cur_path = os.path.dirname(__file__)
-pdf_file_path = os.path.join(cur_path, 'resources', pdf_file)
+# pdf_file = 'D20211805Lj.pdf'
+# cur_path = os.path.dirname(__file__)
+# pdf_file_path = os.path.join(cur_path, 'resources', pdf_file)
 
 def print_chapters(filename):
     """
@@ -22,9 +22,12 @@ def print_chapters(filename):
     print('Processing chapters from given file')
     print(filename)
 
+    cur_path = os.path.dirname(__file__)
+    pdf_file_path = os.path.join(cur_path, 'resources', filename)
+
     print(extract_title(pdf_file_path))
 
-    with pdfplumber.open(filename) as pdf:
+    with pdfplumber.open(pdf_file_path) as pdf:
         page_number = 1
         for p in pdf.pages:
             t = p.extract_text()
@@ -107,6 +110,6 @@ if (__name__ == "__main__"):
     # pages = extract_pages(path)
     # show_ltitem_hierarchy(pages)
 
-    print_chapters(pdf_file_path)
+    print_chapters('none')
 
 
