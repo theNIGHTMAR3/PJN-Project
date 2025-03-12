@@ -1,5 +1,7 @@
 #!/usr/bin/python3
+import os
 import xml.etree.ElementTree as ET
+import sys
 
 
 def tag_uri_and_name(elem):
@@ -20,7 +22,7 @@ def tag_uri_and_name(elem):
 def get_next_morph(filename):
     """
     Get the next word with all its annotations.
-    :param filename: file named ann_morphosyntax.xml in NKJP
+    :param filename: file named ann_morphosyntax.xml in $NKJP
     :return: a 3-tuple with the word, its possible interpretations,
     and the correct interpretation
     """
@@ -89,6 +91,7 @@ def get_next_morph(filename):
                     base = elem.text
 
                 #####################################
+                # 3 steps up
                 elif path[-3] == "f:disamb":
                     disamb = elem.text
                 #####################################
@@ -100,14 +103,37 @@ def get_next_morph(filename):
                 disamb = ""
 
 
+
+def find_morf(input):
+    cur_path = os.path.dirname(__file__)
+    file_path = os.path.join(cur_path, 'resources', input, 'ann_morphosyntax.xml')
+    mm = get_next_morph(file_path)
+    # mm = get_next_morph(setname + "/ann_morphosyntax.xml")
+    for m in mm:
+        orth, interps, disamb = m
+        print("orth=", orth, ", interps=", interps, ", disamb=", disamb, sep='')
+
+
+
 if (__name__ == "__main__"):
-    import sys
     input =  '$NKJP/010-2-000000001'
-    for setname in input:
-        print(setname)
-        mm = get_next_morph("C:/Users/micha/Desktop/Informatyka/PJN-Project/Projekt1/resources/ann_morphosyntax.xml")
-        # mm = get_next_morph(setname + "/ann_morphosyntax.xml")
-        for m in mm:
-            orth, interps, disamb = m
-            print("orth=", orth, ", interps=", interps, ", disamb=", disamb,
-                  sep='')
+    # for setname in input:
+    #     print(setname)
+    #     mm = get_next_morph("C:/Users/micha/Desktop/Informatyka/PJN-Project/Projekt1/resources/ann_morphosyntax.xml")
+    #     # mm = get_next_morph(setname + "/ann_morphosyntax.xml")
+    #     for m in mm:
+    #         orth, interps, disamb = m
+    #         print("orth=", orth, ", interps=", interps, ", disamb=", disamb,
+    #               sep='')
+
+    cur_path = os.path.dirname(__file__)
+    file_path = os.path.join(cur_path, 'resources', input,'ann_morphosyntax.xml')
+
+
+    print('START')
+    mm = get_next_morph(file_path)
+    # mm = get_next_morph(setname + "/ann_morphosyntax.xml")
+    for m in mm:
+        orth, interps, disamb = m
+        print("orth=", orth, ", interps=", interps, ", disamb=", disamb, sep='')
+

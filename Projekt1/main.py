@@ -4,9 +4,9 @@ import re
 
 from getnews import parse_month
 from ustawa import print_chapters
+from proc_nkjp import find_morf
 
 WORD = 'uczestnik'
-# WORD = r'\buczestnik\b'
 pdf_file = 'D20211805Lj.pdf'
 txt_file = 'D20211805Lj.txt'
 
@@ -59,4 +59,6 @@ if __name__ == "__main__":
     # KWIC_extended(WORD, txt_file_path)
     # parse_month(0,0)
     print_chapters(pdf_file_path)
+    # find_morf('$NKJP/010-2-000000001')
+
 

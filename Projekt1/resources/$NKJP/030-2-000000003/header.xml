@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en" xml:id="NKJP_1M_0302000000003">
+ <fileDesc>
+  <titleStmt>
+   <title>TEI P5 encoded version of sample(s) of "Błogosławiona wina"</title>
+  </titleStmt>
+  <extent nkjp:file="text.xml">
+   <num type="word" value="1095"/>
+  </extent>
+  <publicationStmt nkjp:subcorpus="one_million">
+   <availability status="free">
+    <p>See the licence agreement.</p>
+   </availability>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl xml:id="h_src-bibl">
+    <title xml:lang="pl">Błogosławiona wina</title>
+    <author>Zofia Kossak</author>
+    <date type="published" when="1996">1996</date>
+    <publisher>PAX</publisher>
+    <pubPlace>Warszawa</pubPlace>
+    <idno type="nkjp">PWN_0302000000003</idno>
+    <note type="text_origin">PWN Corpus</note>
+   </bibl>
+   <listBibl>
+    <bibl xml:id="h_1-bibl">
+     <ptr target="#txt_1-div"/>
+     <idno type="para">p206in3304</idno>
+    </bibl>
+    <bibl xml:id="h_2-bibl">
+     <ptr target="#txt_2-div"/>
+     <idno type="para">p7in72</idno>
+    </bibl>
+    <bibl xml:id="h_3-bibl">
+     <ptr target="#txt_3-div"/>
+     <idno type="para">p180in2933</idno>
+    </bibl>
+    <bibl xml:id="h_4-bibl">
+     <ptr target="#txt_4-div"/>
+     <idno type="para">p173in2839</idno>
+    </bibl>
+    <bibl xml:id="h_5-bibl">
+     <ptr target="#txt_5-div"/>
+     <idno type="para">p21in201</idno>
+    </bibl>
+    <bibl xml:id="h_6-bibl">
+     <ptr target="#txt_6-div"/>
+     <idno type="para">p216in3475</idno>
+    </bibl>
+    <bibl xml:id="h_7-bibl">
+     <ptr target="#txt_7-div"/>
+     <idno type="para">p333in5287</idno>
+    </bibl>
+    <bibl xml:id="h_8-bibl">
+     <ptr target="#txt_8-div"/>
+     <idno type="para">p169in2771</idno>
+    </bibl>
+    <bibl xml:id="h_9-bibl">
+     <ptr target="#txt_9-div"/>
+     <idno type="para">p288in4659</idno>
+    </bibl>
+    <bibl xml:id="h_10-bibl">
+     <ptr target="#txt_10-div"/>
+     <idno type="para">p269in4293</idno>
+    </bibl>
+    <bibl xml:id="h_11-bibl">
+     <ptr target="#txt_11-div"/>
+     <idno type="para">p54in765</idno>
+    </bibl>
+    <bibl xml:id="h_12-bibl">
+     <ptr target="#txt_12-div"/>
+     <idno type="para">p53in757</idno>
+    </bibl>
+    <bibl xml:id="h_13-bibl">
+     <ptr target="#txt_13-div"/>
+     <idno type="para">p294in4737</idno>
+    </bibl>
+    <bibl xml:id="h_14-bibl">
+     <ptr target="#txt_14-div"/>
+     <idno type="para">p357in5577</idno>
+    </bibl>
+    <bibl xml:id="h_15-bibl">
+     <ptr target="#txt_15-div"/>
+     <idno type="para">p257in4113</idno>
+    </bibl>
+    <bibl xml:id="h_16-bibl">
+     <ptr target="#txt_16-div"/>
+     <idno type="para">p89in1323</idno>
+    </bibl>
+    <bibl xml:id="h_17-bibl">
+     <ptr target="#txt_17-div"/>
+     <idno type="para">p51in738</idno>
+    </bibl>
+    <bibl xml:id="h_18-bibl">
+     <ptr target="#txt_18-div"/>
+     <idno type="para">p306in4867</idno>
+    </bibl>
+    <bibl xml:id="h_19-bibl">
+     <ptr target="#txt_19-div"/>
+     <idno type="para">p233in3696</idno>
+    </bibl>
+    <bibl xml:id="h_20-bibl">
+     <ptr target="#txt_20-div"/>
+     <idno type="para">p343in5377</idno>
+    </bibl>
+   </listBibl>
+  </sourceDesc>
+ </fileDesc>
+ <profileDesc>
+  <textClass>
+   <catRef scheme="#taxonomy-NKJP-type" target="#typ_lit"/>
+   <catRef scheme="#taxonomy-NKJP-channel" target="#kanal_ksiazka"/>
+  </textClass>
+ </profileDesc>
+ <revisionDesc xml:id="changelog_local">
+  <change who="#ldegorski" when="2010-02-18">Creation of text.xml from the corresponding pre_text.xml, by sampling.</change>
+  <change who="#sebastianz" when="2010-02-19">Manual correction of samples.</change>
+  <change who="#ldegorski" when="2010-02-20">Creation of header.xml based on the original header and text.xml, validation.</change>
+  <change who="#mlenart" when="2011-06-22">Added morphosyntax corrections done by syntax groups and words annotators</change>
+ </revisionDesc>
+</teiHeader>

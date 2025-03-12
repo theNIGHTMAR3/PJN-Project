@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0">
+ <xi:include href="NKJP_1M_header.xml"/>
+ <TEI>
+  <xi:include href="header.xml"/>
+  <text xml:id="txt_text" xml:lang="pl">
+   <body xml:id="txt_body">
+    <div xml:id="txt_1-div" decls="#h_1-bibl">
+     <ab n="p911in935of:PWN:030-2-000000002" xml:id="txt_1.1-ab">Gdy jej rogaty łeb ukazał się w chaszczach, Coto odetchnął i puścił się jej śladem, na nic nie zważając. Ale Hatora też nie pilnowała się żadnego szlaku: rżnęła prosto - łozy nie łozy, błoto nie błoto, ruczaj nie ruczaj.</ab>
+     <ab n="p912in936of:PWN:030-2-000000002" xml:id="txt_1.2-ab">Szczęściem, że była syta, więc się zbytnio do obroku nie kwapiła, boby jej nie sprostał.</ab>
+    </div>
+    <div xml:id="txt_2-div" decls="#h_2-bibl">
+     <ab n="p658in682of:PWN:030-2-000000002" xml:id="txt_2.1-ab">I zawrócił na rzekę.</ab>
+     <ab n="p659in683of:PWN:030-2-000000002" xml:id="txt_2.2-ab">Znowu toń była gładka, niebo błękitne, rozegrały się ptaki, zapachniało powietrze. Gdy przybili, koło chaty nie było śladu szału, tylko znak widomy został: rozdarta gromem od szczytu do korzeni brzoza u krynicy.</ab>
+     <ab n="p660in684of:PWN:030-2-000000002" xml:id="txt_2.3-ab">Łatana Skóra zarżała do nich ze stajenki i z rękawa swego wytknął pyszczek Kuba.</ab>
+    </div>
+    <div xml:id="txt_3-div" decls="#h_3-bibl">
+     <ab n="p2327in2364of:PWN:030-2-000000002" xml:id="txt_3.1-ab">Wyciągnęli się jak struny i z żywiołowym rozmachem zaśpiewali:</ab>
+     <ab n="p2328in2365of:PWN:030-2-000000002" xml:id="txt_3.2-ab">Jeszcze Polska nie zginęła...</ab>
+     <ab n="p2329in2366of:PWN:030-2-000000002" xml:id="txt_3.3-ab">Rwała się pieśń w zdławieniu wrażenia potężnego, w łzach, co znają tylko miłujący i mężni, i kwitła pieśń nad mogiłą, jakby proporzec biało-amarantowy, a cichy bór słuchał i dawne czasy wspominał.</ab>
+     <ab n="p2330in2367of:PWN:030-2-000000002" xml:id="txt_3.4-ab">Mogiła wyrosła, złocąc się z daleka, a obecni pożegnali ją ostatnią obrzędową pieśnią "Anioł Pański".</ab>
+    </div>
+    <div xml:id="txt_4-div" decls="#h_4-bibl">
+     <ab n="p2298in2335of:PWN:030-2-000000002" xml:id="txt_4.1-ab">Na długo przed zorzą wrócili z folwarku Odrowążów z deskami. Szczepański przyniósł narzędzia, i rano już drobna trumienka była gotowa.</ab>
+     <ab n="p2299in2336of:PWN:030-2-000000002" xml:id="txt_4.2-ab">Na posłanie z ziół i kwiatów ułożono kości i pokryto je szczątkami sztandaru. Po źdźble srebrnej nici wziął każdy na pamiątkę, a z grubego starego modlitewnika Odrowąż odczytał modlitwy.</ab>
+     <ab n="p2300in2337of:PWN:030-2-000000002" xml:id="txt_4.3-ab">Potem Rosomak podał mu strzelbę, a stary ją przyjął, jak święty spadek, i oddał Bartnikowi.</ab>
+    </div>
+    <div xml:id="txt_5-div" decls="#h_5-bibl">
+     <ab n="p95in103of:PWN:030-2-000000002" xml:id="txt_5.1-ab">Nie było pastucha i jego bata, nie było psów ani łańcucha w dusznej oborze, ani zdradliwych rogów zawistnych towarzyszek. Bo Hatora przez te lata straciła instynkt stadny i, skierowana przed dom, najkrótszym nawet pomrukiem nie pożegnała zimowej kompanii. Bez zapału, ale i bez protestu pozwoliła sobie nałożyć naszyjnik.</ab>
+    </div>
+    <div xml:id="txt_6-div" decls="#h_6-bibl">
+     <ab n="p2382in2419of:PWN:030-2-000000002" xml:id="txt_6.1-ab">Wracając z obchodu ku domowi, skręcił Rosomak na mogiłę Chorążego, i odśpiewali mu pieśni narodowe, a potem, milcząc, skierowali się do chaty.</ab>
+     <ab n="p2383in2420of:PWN:030-2-000000002" xml:id="txt_6.2-ab">Słońce gasło. Żurawie nie grały, chłodne mgły wstawały z bagien, długie cienie kładły gąszcze. Spotkali wracające z paszy swe bydlątka, i wyszedł na ich głosy ku nim żuraw chowany, radośnie witając.</ab>
+    </div>
+    <div xml:id="txt_7-div" decls="#h_7-bibl">
+     <ab n="p99in107of:PWN:030-2-000000002" xml:id="txt_7.1-ab">Po chwili wyszła na słoneczne podwórze klacz srokata, stąpając z rozwagą i ostrożnością. Pociągnęła Panterę do studni, napiła się do syta, a potem nie kierowana poszła ku wozowi.</ab>
+     <ab n="p100in108of:PWN:030-2-000000002" xml:id="txt_7.2-ab">Spróbowała smaku siana, poszukała na dnie worka z obrokiem, parsknęła, ziewnęła, przeciągnęła się i z rezygnacją podała głowę do chomąta.</ab>
+    </div>
+    <div xml:id="txt_8-div" decls="#h_8-bibl">
+     <ab n="p2052in2089of:PWN:030-2-000000002" xml:id="txt_8.1-ab">Nagle drgnęli i znieruchomieli w cieniu świerku. Gdzieś na prawo, w gąszczu coś się odezwało. Było to jakby pobekujące, głuche stęknięcie i trzask łamanych gałęzi.</ab>
+     <ab n="p2053in2090of:PWN:030-2-000000002" xml:id="txt_8.2-ab">Rosomak wziął za ramię Orlika i wsunął go za sobą pod nawisłe gałęzie. Niewidzialni zastygli w nieruchomości, w oczekiwaniu, w napięciu wzroku i słuchu.</ab>
+    </div>
+    <div xml:id="txt_9-div" decls="#h_9-bibl">
+     <ab n="p2057in2094of:PWN:030-2-000000002" xml:id="txt_9.1-ab">I nagle rozwarły się gąszcze, znikły, jakby zdmuchnięte wichrem, i na haliznę o dziesięć kroków przed nimi wynurzył się kształt potworny i fantastyczny.</ab>
+     <ab n="p2058in2095of:PWN:030-2-000000002" xml:id="txt_9.2-ab">Na razie Orlik nie mógł zrozumieć.</ab>
+     <ab n="p2059in2096of:PWN:030-2-000000002" xml:id="txt_9.3-ab">Zwierz to był czy ruchomy roślinny gąszcz?</ab>
+     <ab n="p2060in2097of:PWN:030-2-000000002" xml:id="txt_9.4-ab">Nogi tonęły w krzakach, a potworny łeb był jedną masą zieleni, oplątaną wokół kilkunastoramiennych rogów.</ab>
+    </div>
+    <div xml:id="txt_10-div" decls="#h_10-bibl">
+     <ab n="p1313in1342of:PWN:030-2-000000002" xml:id="txt_10.1-ab">Coto bawił się całą duszą. Pieśń po pieśni: ludowe, narodowe, kipiące krakowiaki i oberki, smętne rusińskie dumki płynęły z pełnych płuc, aż dygotały ściany chaty, aż im się śmiały oczy, pokraśniały twarze. Kuba skoczył na piec przerażony, Tupcio stoczył się z łóżka i ukrył w kąt; za płotem ukazały się, zapatrzone ze zdumieniem w okno, głowy Hatory i klaczy. A oni na przemian śpiewali i śmiali się z uciechy.</ab>
+    </div>
+    <div xml:id="txt_11-div" decls="#h_11-bibl">
+     <ab n="p193in217of:PWN:030-2-000000002" xml:id="txt_11.1-ab">Droga była bez kresu, bo błotne obszary zalane były wodą i płynąć można było kędy wola, wśród łóz ledwie zieleniejących i młodych pędów szuwarów. Na wodzie słał się "czarnygłów", ulubiona wiosenna pasza Hatory i klaczy, toteż je spotkał żerujące po brzuch w wodzie.</ab>
+     <ab n="p194in218of:PWN:030-2-000000002" xml:id="txt_11.2-ab">Podniosły łby, i rozmówili się "po leśnemu".</ab>
+    </div>
+    <div xml:id="txt_12-div" decls="#h_12-bibl">
+     <ab n="p1320in1349of:PWN:030-2-000000002" xml:id="txt_12.1-ab">Jak już zdziczał i stał się ostrożny na wzór tubylców puszczy, okazał to jego ruch, z jakim wiosłem się całą siłą odepchnął i ledwie się obejrzawszy, umknął. Mignęła mu jakaś głowa, wyrastająca nad chaszcze, i tyle.</ab>
+     <ab n="p1321in1350of:PWN:030-2-000000002" xml:id="txt_12.2-ab">Gdy wylądował i wszedł do izby z rybami, rzekł "Widziałem człowieka!" takim tonem, jakby mówił "widziałem hipopotama".</ab>
+    </div>
+    <div xml:id="txt_13-div" decls="#h_13-bibl">
+     <ab n="p246in270of:PWN:030-2-000000002" xml:id="txt_13.1-ab">Pantera sypiał w maluchnym alkierzyku za izbą, ale tej pierwszej nocy budził się co chwila, wyglądając ranka.</ab>
+     <ab n="p247in271of:PWN:030-2-000000002" xml:id="txt_13.2-ab">Zrazu z izby widział tylko rubinową lampkę przed obrazem, ale rychło otwór okienny począł się rozjaśniać nadchodzącym świtem, więc leżąc bezsennie, słuchał, kto się pierwszy obudzi.</ab>
+    </div>
+    <div xml:id="txt_14-div" decls="#h_14-bibl">
+     <ab n="p123in131of:PWN:030-2-000000002" xml:id="txt_14.1-ab">Uczepił się wśród tobołków Żuraw, przysiadł na drążku Pantera-woźnica, parsknęła ochoczo klacz, zabamboliła Hatora, i tabor ruszył.</ab>
+     <ab n="p124in132of:PWN:030-2-000000002" xml:id="txt_14.2-ab">Wyjechali za wrota, na drogę polną, wyboistą i błotnistą, spojrzeli w dal, na siniejącą linię borów; objął ich dech szerokiej przestrzeni, rozprężył płuca, barwą się wybił na lica, zapalił ogniem radości stęsknione źrenice.</ab>
+    </div>
+    <div xml:id="txt_15-div" decls="#h_15-bibl">
+     <ab n="p2170in2207of:PWN:030-2-000000002" xml:id="txt_15.1-ab">Jakoż szlak wyprowadził ich poza ostęp znowu na niezmierzoną bagien płaszczyznę.</ab>
+     <ab n="p2171in2208of:PWN:030-2-000000002" xml:id="txt_15.2-ab">Łosie poszły błotem na przełaj ku dalszym czerniejącym leśnym ostępom.</ab>
+     <ab n="p2172in2209of:PWN:030-2-000000002" xml:id="txt_15.3-ab">Ale gdy tak wynurzyli się z gąszczy, nagle na prawo, blisko porwało się stado żurawi z ogłuszającym wrzaskiem bojowym.</ab>
+    </div>
+    <div xml:id="txt_16-div" decls="#h_16-bibl">
+     <ab n="p66in74of:PWN:030-2-000000002" xml:id="txt_16.1-ab">Gorzej tym w lesie, jeśli struga wezbrała i pożywienia im dostarczyć nie można. Byle, na dobitkę niedoli, jędza mrozu nie wywlokła sobie w sukurs.</ab>
+     <ab n="p67in75of:PWN:030-2-000000002" xml:id="txt_16.2-ab">Drzewa wiosennej krwi są pełne, gałęzie nabrzmiałe, bolące, gdy tknąć. Trzeba ratować.</ab>
+     <ab n="p68in76of:PWN:030-2-000000002" xml:id="txt_16.3-ab">Puścili się we dwóch za rogatki, trafili na zagajnik śniegiem zawalony, jęli otrząsać biały całun.</ab>
+    </div>
+    <div xml:id="txt_17-div" decls="#h_17-bibl">
+     <ab n="p199in223of:PWN:030-2-000000002" xml:id="txt_17.1-ab">Chmary błotnego ptactwa rajcowały nad tą płytką wodą. Hryce, czajki, kuliki, bekasy wrzask czyniły weselny; miodem pachniały złote kiście łozowe, balsamem pękające brzozy i olszyny; wiosło zgarniało złote kaczeńce i kępy wodnej mięty, a słońce, cuda czyniące, śmiało się do swego dzieła.</ab>
+    </div>
+    <div xml:id="txt_18-div" decls="#h_18-bibl">
+     <ab n="p2317in2354of:PWN:030-2-000000002" xml:id="txt_18.1-ab">Mówisz nam: Bóg mi powierzył honor Polaków, Jemu go oddam!</ab>
+     <ab n="p2318in2355of:PWN:030-2-000000002" xml:id="txt_18.2-ab">Ze wszystkich rubieży Rzeczypospolitej, ze wszystkich walk o wolność i całość, przez wszystkie wieki jedno hasło słyszymy, panie Chorąży, i powtarzamy, jako pacierz ojczysty.</ab>
+     <ab n="p2319in2356of:PWN:030-2-000000002" xml:id="txt_18.3-ab">Stanie tu twoja mogiła, jako graniczny kopiec i jako gród do straży i obrony.</ab>
+     <ab n="p2320in2357of:PWN:030-2-000000002" xml:id="txt_18.4-ab">Utrzymamy go póki życie i oddamy następnej po nas młodzieży!</ab>
+     <ab n="p2321in2358of:PWN:030-2-000000002" xml:id="txt_18.5-ab">Mówisz i do nich, panie Chorąży, i, jako my, oni słyszą.</ab>
+    </div>
+   </body>
+  </text>
+ </TEI>
+</teiCorpus>

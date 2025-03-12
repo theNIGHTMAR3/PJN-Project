@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <xi:include href="NKJP_1M_header.xml"/>
+ <TEI>
+  <xi:include href="header.xml"/>
+  <text xml:lang="pl">
+   <body>
+    <!-- senses_1-p is akapit 12762 with instances (akapit_transzy-s) 25520, 25540 in batches (transza-s) 2553, 2555 resp. -->
+    <p corresp="ann_segmentation.xml#segm_1-p" xml:id="senses_1-p">
+     <s corresp="ann_segmentation.xml#segm_1.34-s" xml:id="senses_1.34-s">
+      <seg corresp="ann_segmentation.xml#segm_1.29-seg" xml:id="senses_1.29-seg">
+       <!-- wydało [166,6] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#wydac.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_1.54-s" corresp="ann_segmentation.xml#segm_1.54-s"/>
+    </p>
+    <!-- senses_2-p is akapit 12763 with instances (akapit_transzy-s) 25521, 25541 in batches (transza-s) 2553, 2555 resp. -->
+    <p xml:id="senses_4-p" corresp="ann_segmentation.xml#segm_4-p">
+     <s xml:id="senses_4.26-s" corresp="ann_segmentation.xml#segm_4.26-s"/>
+     <s xml:id="senses_4.54-s" corresp="ann_segmentation.xml#segm_4.54-s"/>
+    </p>
+    <p corresp="ann_segmentation.xml#segm_2-p" xml:id="senses_2-p">
+     <s corresp="ann_segmentation.xml#segm_2.41-s" xml:id="senses_2.41-s">
+      <seg corresp="ann_segmentation.xml#segm_2.20-seg" xml:id="senses_2.20-seg">
+       <!-- udało [121,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#udac.1" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_2.35-seg" xml:id="senses_2.35-seg">
+       <!-- prostej [197,7] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#prosty.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_2.55-s" corresp="ann_segmentation.xml#segm_2.55-s"/>
+    </p>
+    <!-- senses_3-p is akapit 12764 with instances (akapit_transzy-s) 25522, 25547 in batches (transza-s) 2553, 2556 resp. -->
+    <p corresp="ann_segmentation.xml#segm_3-p" xml:id="senses_3-p">
+     <s corresp="ann_segmentation.xml#segm_3.28-s" xml:id="senses_3.28-s">
+      <seg corresp="ann_segmentation.xml#segm_3.23-seg" xml:id="senses_3.23-seg">
+       <!-- dał [113,3] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#dac.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s corresp="ann_segmentation.xml#segm_3.48-s" xml:id="senses_3.48-s">
+      <seg corresp="ann_segmentation.xml#segm_3.41-seg" xml:id="senses_3.41-seg">
+       <!-- wynosić [200,7] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#wynosic.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s corresp="ann_segmentation.xml#segm_3.77-s" xml:id="senses_3.77-s">
+      <seg corresp="ann_segmentation.xml#segm_3.69-seg" xml:id="senses_3.69-seg">
+       <!-- brała [101,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#brac.4" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+    </p>
+    <!-- senses_5-p is akapit 12766 with instances (akapit_transzy-s) 25524, 25549 in batches (transza-s) 2553, 2556 resp. -->
+    <p xml:id="senses_9-p" corresp="ann_segmentation.xml#segm_9-p">
+     <s xml:id="senses_9.26-s" corresp="ann_segmentation.xml#segm_9.26-s"/>
+     <s xml:id="senses_9.33-s" corresp="ann_segmentation.xml#segm_9.33-s"/>
+     <s xml:id="senses_9.63-s" corresp="ann_segmentation.xml#segm_9.63-s"/>
+     <s xml:id="senses_9.71-s" corresp="ann_segmentation.xml#segm_9.71-s"/>
+    </p>
+    <p corresp="ann_segmentation.xml#segm_5-p" xml:id="senses_5-p">
+     <s xml:id="senses_5.9-s" corresp="ann_segmentation.xml#segm_5.9-s"/>
+     <s corresp="ann_segmentation.xml#segm_5.26-s" xml:id="senses_5.26-s">
+      <seg corresp="ann_segmentation.xml#segm_5.11-seg" xml:id="senses_5.11-seg">
+       <!-- samej [52,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#sam.3" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_5.47-s" corresp="ann_segmentation.xml#segm_5.47-s"/>
+     <s xml:id="senses_5.55-s" corresp="ann_segmentation.xml#segm_5.55-s"/>
+    </p>
+    <!-- senses_6-p is akapit 12767 with instances (akapit_transzy-s) 25525, 25550 in batches (transza-s) 2553, 2556 resp. -->
+    <p corresp="ann_segmentation.xml#segm_6-p" xml:id="senses_6-p">
+     <s xml:id="senses_6.6-s" corresp="ann_segmentation.xml#segm_6.6-s"/>
+     <s corresp="ann_segmentation.xml#segm_6.24-s" xml:id="senses_6.24-s">
+      <seg corresp="ann_segmentation.xml#segm_6.8-seg" xml:id="senses_6.8-seg">
+       <!-- razy [27,4] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#raz.2" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_6.17-seg" xml:id="senses_6.17-seg">
+       <!-- pokoje [88,6] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#pokoj.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s corresp="ann_segmentation.xml#segm_6.49-s" xml:id="senses_6.49-s">
+      <seg corresp="ann_segmentation.xml#segm_6.36-seg" xml:id="senses_6.36-seg">
+       <!-- wydawał [64,7] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#wydawac.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+    </p>
+    <!-- senses_7-p is akapit 12768 with instances (akapit_transzy-s) 25526, 25551 in batches (transza-s) 2553, 2556 resp. -->
+    <p xml:id="senses_14-p" corresp="ann_segmentation.xml#segm_14-p">
+     <s xml:id="senses_14.41-s" corresp="ann_segmentation.xml#segm_14.41-s"/>
+     <s xml:id="senses_14.62-s" corresp="ann_segmentation.xml#segm_14.62-s"/>
+    </p>
+    <p corresp="ann_segmentation.xml#segm_7-p" xml:id="senses_7-p">
+     <s corresp="ann_segmentation.xml#segm_7.25-s" xml:id="senses_7.25-s">
+      <seg corresp="ann_segmentation.xml#segm_7.13-seg" xml:id="senses_7.13-seg">
+       <!-- samą [73,4] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#sam.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s corresp="ann_segmentation.xml#segm_7.70-s" xml:id="senses_7.70-s">
+      <seg corresp="ann_segmentation.xml#segm_7.26-seg" xml:id="senses_7.26-seg">
+       <!-- Raz [154,3] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#raz.2" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_7.42-seg" xml:id="senses_7.42-seg">
+       <!-- razem [233,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#raz.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_7.77-s" corresp="ann_segmentation.xml#segm_7.77-s"/>
+    </p>
+    <p xml:id="senses_16-p" corresp="ann_segmentation.xml#segm_16-p">
+     <s xml:id="senses_16.16-s" corresp="ann_segmentation.xml#segm_16.16-s"/>
+     <s xml:id="senses_16.47-s" corresp="ann_segmentation.xml#segm_16.47-s"/>
+    </p>
+    <!-- senses_8-p is akapit 12769 with instances (akapit_transzy-s) 25527, 25542 in batches (transza-s) 2554, 2555 resp. -->
+    <p corresp="ann_segmentation.xml#segm_8-p" xml:id="senses_8-p">
+     <s corresp="ann_segmentation.xml#segm_8.30-s" xml:id="senses_8.30-s">
+      <seg corresp="ann_segmentation.xml#segm_8.22-seg" xml:id="senses_8.22-seg">
+       <!-- zostało [143,7] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#zostac.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_8.59-s" corresp="ann_segmentation.xml#segm_8.59-s"/>
+    </p>
+    <!-- senses_10-p is akapit 12771 with instances (akapit_transzy-s) 25529, 25544 in batches (transza-s) 2554, 2555 resp. -->
+    <p xml:id="senses_20-p" corresp="ann_segmentation.xml#segm_20-p">
+     <s xml:id="senses_20.35-s" corresp="ann_segmentation.xml#segm_20.35-s"/>
+     <s xml:id="senses_20.50-s" corresp="ann_segmentation.xml#segm_20.50-s"/>
+     <s xml:id="senses_20.71-s" corresp="ann_segmentation.xml#segm_20.71-s"/>
+    </p>
+    <p corresp="ann_segmentation.xml#segm_10-p" xml:id="senses_10-p">
+     <s corresp="ann_segmentation.xml#segm_10.23-s" xml:id="senses_10.23-s">
+      <seg corresp="ann_segmentation.xml#segm_10.9-seg" xml:id="senses_10.9-seg">
+       <!-- wyszła [47,6] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#wyjsc.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_10.36-s" corresp="ann_segmentation.xml#segm_10.36-s"/>
+     <s corresp="ann_segmentation.xml#segm_10.67-s" xml:id="senses_10.67-s">
+      <seg corresp="ann_segmentation.xml#segm_10.55-seg" xml:id="senses_10.55-seg">
+       <!-- raz [310,3] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#raz.2" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_10.57-seg" xml:id="senses_10.57-seg">
+       <!-- raz [317,3] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#raz.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+    </p>
+    <!-- senses_11-p is akapit 12772 with instances (akapit_transzy-s) 25530, 25545 in batches (transza-s) 2554, 2555 resp. -->
+    <p corresp="ann_segmentation.xml#segm_11-p" xml:id="senses_11-p">
+     <s corresp="ann_segmentation.xml#segm_11.14-s" xml:id="senses_11.14-s">
+      <seg corresp="ann_segmentation.xml#segm_11.4-seg" xml:id="senses_11.4-seg">
+       <!-- leżała [24,6] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#lezec.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_11.28-s" corresp="ann_segmentation.xml#segm_11.28-s"/>
+     <s xml:id="senses_11.39-s" corresp="ann_segmentation.xml#segm_11.39-s"/>
+     <s xml:id="senses_11.54-s" corresp="ann_segmentation.xml#segm_11.54-s"/>
+    </p>
+    <!-- senses_12-p is akapit 12773 with instances (akapit_transzy-s) 25531, 25546 in batches (transza-s) 2554, 2555 resp. -->
+    <p corresp="ann_segmentation.xml#segm_12-p" xml:id="senses_12-p">
+     <s corresp="ann_segmentation.xml#segm_12.36-s" xml:id="senses_12.36-s">
+      <seg corresp="ann_segmentation.xml#segm_12.4-seg" xml:id="senses_12.4-seg">
+       <!-- zdawało [19,7] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#zdawac.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s corresp="ann_segmentation.xml#segm_12.56-s" xml:id="senses_12.56-s">
+      <seg corresp="ann_segmentation.xml#segm_12.53-seg" xml:id="senses_12.53-seg">
+       <!-- stoją [262,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#stac.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+    </p>
+    <!-- senses_13-p is akapit 12774 with instances (akapit_transzy-s) 25532, 25552 in batches (transza-s) 2554, 2556 resp. -->
+    <p corresp="ann_segmentation.xml#segm_13-p" xml:id="senses_13-p">
+     <s xml:id="senses_13.12-s" corresp="ann_segmentation.xml#segm_13.12-s"/>
+     <s corresp="ann_segmentation.xml#segm_13.25-s" xml:id="senses_13.25-s">
+      <seg corresp="ann_segmentation.xml#segm_13.24-seg" xml:id="senses_13.24-seg">
+       <!-- kolej [118,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#kolej.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_13.45-s" corresp="ann_segmentation.xml#segm_13.45-s"/>
+     <s corresp="ann_segmentation.xml#segm_13.66-s" xml:id="senses_13.66-s">
+      <seg corresp="ann_segmentation.xml#segm_13.51-seg" xml:id="senses_13.51-seg">
+       <!-- zostać [273,6] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#zostac.3" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_13.60-seg" xml:id="senses_13.60-seg">
+       <!-- państwo [320,7] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#panstwo.1" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_13.65-seg" xml:id="senses_13.65-seg">
+       <!-- zająć [351,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#zajac.4" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+    </p>
+    <p xml:id="senses_28-p" corresp="ann_segmentation.xml#segm_28-p">
+     <s xml:id="senses_28.6-s" corresp="ann_segmentation.xml#segm_28.6-s"/>
+     <s xml:id="senses_28.22-s" corresp="ann_segmentation.xml#segm_28.22-s"/>
+     <s xml:id="senses_28.46-s" corresp="ann_segmentation.xml#segm_28.46-s"/>
+     <s xml:id="senses_28.64-s" corresp="ann_segmentation.xml#segm_28.64-s"/>
+    </p>
+    <!-- senses_15-p is akapit 12776 with instances (akapit_transzy-s) 25534, 25554 in batches (transza-s) 2554, 2556 resp. -->
+    <p corresp="ann_segmentation.xml#segm_15-p" xml:id="senses_15-p">
+     <s xml:id="senses_15.16-s" corresp="ann_segmentation.xml#segm_15.16-s"/>
+     <s xml:id="senses_15.24-s" corresp="ann_segmentation.xml#segm_15.24-s"/>
+     <s corresp="ann_segmentation.xml#segm_15.41-s" xml:id="senses_15.41-s">
+      <seg corresp="ann_segmentation.xml#segm_15.38-seg" xml:id="senses_15.38-seg">
+       <!-- objął [213,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#objac.2" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_15.39-seg" xml:id="senses_15.39-seg">
+       <!-- stanowisko [219,10] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#stanowisko.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_15.49-s" corresp="ann_segmentation.xml#segm_15.49-s"/>
+     <s corresp="ann_segmentation.xml#segm_15.80-s" xml:id="senses_15.80-s">
+      <seg corresp="ann_segmentation.xml#segm_15.62-seg" xml:id="senses_15.62-seg">
+       <!-- stanąwszy [349,9] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#stanac.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+    </p>
+    <!-- senses_17-p is akapit 12778 with instances (akapit_transzy-s) 25536, 25556 in batches (transza-s) 2554, 2556 resp. -->
+    <p corresp="ann_segmentation.xml#segm_17-p" xml:id="senses_17-p">
+     <s xml:id="senses_17.9-s" corresp="ann_segmentation.xml#segm_17.9-s"/>
+     <s corresp="ann_segmentation.xml#segm_17.42-s" xml:id="senses_17.42-s">
+      <seg corresp="ann_segmentation.xml#segm_17.36-seg" xml:id="senses_17.36-seg">
+       <!-- zdawało [191,7] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#zdawac.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_17.66-s" corresp="ann_segmentation.xml#segm_17.66-s"/>
+    </p>
+    <!-- senses_18-p is akapit 12779 with instances (akapit_transzy-s) 25557, 25577 in batches (transza-s) 2557, 2559 resp. -->
+    <p corresp="ann_segmentation.xml#segm_18-p" xml:id="senses_18-p">
+     <s corresp="ann_segmentation.xml#segm_18.61-s" xml:id="senses_18.61-s">
+      <seg corresp="ann_segmentation.xml#segm_18.58-seg" xml:id="senses_18.58-seg">
+       <!-- sprawie [274,7] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#sprawa.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+    </p>
+    <!-- senses_19-p is akapit 12780 with instances (akapit_transzy-s) 25558, 25578 in batches (transza-s) 2557, 2559 resp. -->
+    <p corresp="ann_segmentation.xml#segm_19-p" xml:id="senses_19-p">
+     <s corresp="ann_segmentation.xml#segm_19.27-s" xml:id="senses_19.27-s">
+      <seg corresp="ann_segmentation.xml#segm_19.2-seg" xml:id="senses_19.2-seg">
+       <!-- razie [3,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#raz.2" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_19.4-seg" xml:id="senses_19.4-seg">
+       <!-- sprawa [16,6] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#sprawa.1" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_19.18-seg" xml:id="senses_19.18-seg">
+       <!-- czuła [105,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#czuc.2" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_19.26-seg" xml:id="senses_19.26-seg">
+       <!-- sama [150,4] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#sam.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s corresp="ann_segmentation.xml#segm_19.47-s" xml:id="senses_19.47-s">
+      <seg corresp="ann_segmentation.xml#segm_19.29-seg" xml:id="senses_19.29-seg">
+       <!-- wydawał [164,7] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#wydawac.1" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_19.39-seg" xml:id="senses_19.39-seg">
+       <!-- rolę [228,4] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#rola.3" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+    </p>
+    <!-- senses_21-p is akapit 12782 with instances (akapit_transzy-s) 25560, 25580 in batches (transza-s) 2557, 2559 resp. -->
+    <p corresp="ann_segmentation.xml#segm_21-p" xml:id="senses_21-p">
+     <s xml:id="senses_21.30-s" corresp="ann_segmentation.xml#segm_21.30-s"/>
+     <s corresp="ann_segmentation.xml#segm_21.59-s" xml:id="senses_21.59-s">
+      <seg corresp="ann_segmentation.xml#segm_21.32-seg" xml:id="senses_21.32-seg">
+       <!-- wyszedł [7,7] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#wyjsc.1" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_21.52-seg" xml:id="senses_21.52-seg">
+       <!-- razie [120,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#raz.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+    </p>
+    <!-- senses_22-p is akapit 12783 with instances (akapit_transzy-s) 25561, 25581 in batches (transza-s) 2557, 2559 resp. -->
+    <p corresp="ann_segmentation.xml#segm_22-p" xml:id="senses_22-p">
+     <s xml:id="senses_22.9-s" corresp="ann_segmentation.xml#segm_22.9-s"/>
+     <s corresp="ann_segmentation.xml#segm_22.20-s" xml:id="senses_22.20-s">
+      <seg corresp="ann_segmentation.xml#segm_22.10-seg" xml:id="senses_22.10-seg">
+       <!-- Raz [40,3] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#raz.2" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_22.14-seg" xml:id="senses_22.14-seg">
+       <!-- droga [58,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#drogi.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_22.36-s" corresp="ann_segmentation.xml#segm_22.36-s"/>
+     <s corresp="ann_segmentation.xml#segm_22.56-s" xml:id="senses_22.56-s">
+      <seg corresp="ann_segmentation.xml#segm_22.39-seg" xml:id="senses_22.39-seg">
+       <!-- zdaje [6,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#zdawac.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+    </p>
+    <!-- senses_23-p is akapit 12784 with instances (akapit_transzy-s) 25562, 25587 in batches (transza-s) 2557, 2560 resp. -->
+    <p corresp="ann_segmentation.xml#segm_23-p" xml:id="senses_23-p">
+     <s xml:id="senses_23.5-s" corresp="ann_segmentation.xml#segm_23.5-s"/>
+     <s corresp="ann_segmentation.xml#segm_23.44-s" xml:id="senses_23.44-s">
+      <seg corresp="ann_segmentation.xml#segm_23.25-seg" xml:id="senses_23.25-seg">
+       <!-- światła [145,7] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#swiatlo.1" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_23.34-seg" xml:id="senses_23.34-seg">
+       <!-- ziemi [191,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#ziemia.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s corresp="ann_segmentation.xml#segm_23.67-s" xml:id="senses_23.67-s">
+      <seg corresp="ann_segmentation.xml#segm_23.54-seg" xml:id="senses_23.54-seg">
+       <!-- raz [296,3] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#raz.2" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_23.56-seg" xml:id="senses_23.56-seg">
+       <!-- raz [303,3] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#raz.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+    </p>
+    <!-- senses_24-p is akapit 12785 with instances (akapit_transzy-s) 25563, 25588 in batches (transza-s) 2557, 2560 resp. -->
+    <p corresp="ann_segmentation.xml#segm_24-p" xml:id="senses_24-p">
+     <s corresp="ann_segmentation.xml#segm_24.39-s" xml:id="senses_24.39-s">
+      <seg corresp="ann_segmentation.xml#segm_24.4-seg" xml:id="senses_24.4-seg">
+       <!-- sam [23,3] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#sam.1" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_24.16-seg" xml:id="senses_24.16-seg">
+       <!-- razu [86,4] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#raz.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s corresp="ann_segmentation.xml#segm_24.55-s" xml:id="senses_24.55-s">
+      <seg corresp="ann_segmentation.xml#segm_24.40-seg" xml:id="senses_24.40-seg">
+       <!-- Raz [228,3] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#raz.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_24.59-s" corresp="ann_segmentation.xml#segm_24.59-s"/>
+     <s xml:id="senses_24.76-s" corresp="ann_segmentation.xml#segm_24.76-s"/>
+    </p>
+    <!-- senses_25-p is akapit 12786 with instances (akapit_transzy-s) 25564, 25589 in batches (transza-s) 2557, 2560 resp. -->
+    <p corresp="ann_segmentation.xml#segm_25-p" xml:id="senses_25-p">
+     <s xml:id="senses_25.13-s" corresp="ann_segmentation.xml#segm_25.13-s"/>
+     <s xml:id="senses_25.30-s" corresp="ann_segmentation.xml#segm_25.30-s"/>
+     <s xml:id="senses_25.47-s" corresp="ann_segmentation.xml#segm_25.47-s"/>
+     <s xml:id="senses_25.57-s" corresp="ann_segmentation.xml#segm_25.57-s"/>
+     <s corresp="ann_segmentation.xml#segm_25.76-s" xml:id="senses_25.76-s">
+      <seg corresp="ann_segmentation.xml#segm_25.71-seg" xml:id="senses_25.71-seg">
+       <!-- kolei [69,5] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#kolej.2" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+    </p>
+    <!-- senses_26-p is akapit 12787 with instances (akapit_transzy-s) 25565, 25590 in batches (transza-s) 2557, 2560 resp. -->
+    <p corresp="ann_segmentation.xml#segm_26-p" xml:id="senses_26-p">
+     <s corresp="ann_segmentation.xml#segm_26.32-s" xml:id="senses_26.32-s">
+      <seg corresp="ann_segmentation.xml#segm_26.7-seg" xml:id="senses_26.7-seg">
+       <!-- stosowano [31,9] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#stosowac.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_26.49-s" corresp="ann_segmentation.xml#segm_26.49-s"/>
+     <s xml:id="senses_26.59-s" corresp="ann_segmentation.xml#segm_26.59-s"/>
+     <s corresp="ann_segmentation.xml#segm_26.80-s" xml:id="senses_26.80-s">
+      <seg corresp="ann_segmentation.xml#segm_26.75-seg" xml:id="senses_26.75-seg">
+       <!-- samego [223,6] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#sam.3" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+    </p>
+    <!-- senses_27-p is akapit 12788 with instances (akapit_transzy-s) 25566, 25591 in batches (transza-s) 2557, 2560 resp. -->
+    <p corresp="ann_segmentation.xml#segm_27-p" xml:id="senses_27-p">
+     <s corresp="ann_segmentation.xml#segm_27.25-s" xml:id="senses_27.25-s">
+      <seg corresp="ann_segmentation.xml#segm_27.5-seg" xml:id="senses_27.5-seg">
+       <!-- pola [24,4] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#pole.1" name="sense"/>
+       </fs>
+      </seg>
+      <seg corresp="ann_segmentation.xml#segm_27.9-seg" xml:id="senses_27.9-seg">
+       <!-- leżące [49,6] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#lezec.1" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s corresp="ann_segmentation.xml#segm_27.41-s" xml:id="senses_27.41-s">
+      <seg corresp="ann_segmentation.xml#segm_27.31-seg" xml:id="senses_27.31-seg">
+       <!-- stanąć [161,6] -->
+       <fs type="sense">
+        <f fVal="NKJP_WSI.xml#stanac.3" name="sense"/>
+       </fs>
+      </seg>
+     </s>
+     <s xml:id="senses_27.52-s" corresp="ann_segmentation.xml#segm_27.52-s"/>
+     <s xml:id="senses_27.66-s" corresp="ann_segmentation.xml#segm_27.66-s"/>
+     <s xml:id="senses_27.74-s" corresp="ann_segmentation.xml#segm_27.74-s"/>
+    </p>
+   </body>
+  </text>
+ </TEI>
+</teiCorpus>

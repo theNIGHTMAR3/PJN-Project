@@ -1,0 +1,3009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0">
+ <xi:include href="NKJP_1M_header.xml"/>
+ <TEI>
+  <xi:include href="header.xml"/>
+  <text xml:id="segm_text" xml:lang="pl">
+   <body xml:id="segm_body">
+    <!-- segm_1-p is akapit 12742 with instances (akapit_transzy-s) 25480, 25500 in batches (transza-s) 2549, 2551 resp. -->
+    <p corresp="text.xml#txt_1-div" xml:id="segm_1-p">
+     <s xml:id="segm_1.33-s">
+      <!-- Ponad -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,0,5)" xml:id="segm_1.1-seg"/>
+      <!-- tą -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,6,2)" xml:id="segm_1.2-seg"/>
+      <!-- falą -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,9,4)" xml:id="segm_1.3-seg"/>
+      <!-- ludzką -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,14,6)" xml:id="segm_1.4-seg"/>
+      <!-- zbitą -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,21,5)" xml:id="segm_1.5-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,27,1)" xml:id="segm_1.6-seg"/>
+      <!-- skłębioną -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,29,9)" xml:id="segm_1.7-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,38,1)" nkjp:nps="true" xml:id="segm_1.8-seg"/>
+      <!-- bolejącą -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,40,8)" xml:id="segm_1.9-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,48,1)" nkjp:nps="true" xml:id="segm_1.10-seg"/>
+      <!-- dziecinną -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,50,9)" xml:id="segm_1.11-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,59,1)" nkjp:nps="true" xml:id="segm_1.12-seg"/>
+      <!-- szaloną -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,61,7)" xml:id="segm_1.13-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,68,1)" nkjp:nps="true" xml:id="segm_1.14-seg"/>
+      <!-- ponad -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,70,5)" xml:id="segm_1.15-seg"/>
+      <!-- otchłanią -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,76,9)" xml:id="segm_1.16-seg"/>
+      <!-- bólu -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,86,4)" xml:id="segm_1.17-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,90,1)" nkjp:nps="true" xml:id="segm_1.18-seg"/>
+      <!-- wiary -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,92,5)" xml:id="segm_1.19-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,98,1)" xml:id="segm_1.20-seg"/>
+      <!-- nędzy -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,100,5)" xml:id="segm_1.21-seg"/>
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,106,1)" xml:id="segm_1.22-seg"/>
+      <!-- spoglądały -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,108,10)" xml:id="segm_1.23-seg"/>
+      <!-- oczy -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,119,4)" xml:id="segm_1.24-seg"/>
+      <!-- niezgłębione -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,124,12)" xml:id="segm_1.25-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,136,1)" nkjp:nps="true" xml:id="segm_1.26-seg"/>
+      <!-- miłosierne -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,138,10)" xml:id="segm_1.27-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,148,1)" nkjp:nps="true" xml:id="segm_1.28-seg"/>
+      <!-- ogarniające -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,150,11)" xml:id="segm_1.29-seg"/>
+      <!-- każdego -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,162,7)" xml:id="segm_1.30-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,169,1)" nkjp:nps="true" xml:id="segm_1.31-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,170,1)" nkjp:nps="true" xml:id="segm_1.32-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_1.1-ab,171,1)" nkjp:nps="true" xml:id="segm_1.33-seg"/>
+     </s>
+     <s xml:id="segm_1.83-s">
+      <!-- Tak -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,0,3)" xml:id="segm_1.34-seg"/>
+      <!-- oto -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,4,3)" xml:id="segm_1.35-seg"/>
+      <!-- dnia -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,8,4)" xml:id="segm_1.36-seg"/>
+      <!-- 15 -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,13,2)" xml:id="segm_1.37-seg"/>
+      <!-- września -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,16,8)" xml:id="segm_1.38-seg"/>
+      <!-- roku -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,25,4)" xml:id="segm_1.39-seg"/>
+      <!-- Pańskiego -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,30,9)" xml:id="segm_1.40-seg"/>
+      <!-- 1631 -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,40,4)" xml:id="segm_1.41-seg"/>
+      <!-- Madonna -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,45,7)" xml:id="segm_1.42-seg"/>
+      <!-- Gregoriańska -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,53,12)" xml:id="segm_1.43-seg"/>
+      <!-- di -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,66,2)" xml:id="segm_1.44-seg"/>
+      <!-- Guadelupe -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,69,9)" xml:id="segm_1.45-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,78,1)" nkjp:nps="true" xml:id="segm_1.46-seg"/>
+      <!-- zwana -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,80,5)" xml:id="segm_1.47-seg"/>
+      <!-- odtąd -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,86,5)" xml:id="segm_1.48-seg"/>
+      <!-- Matką -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,92,5)" xml:id="segm_1.49-seg"/>
+      <!-- Boską -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,98,5)" xml:id="segm_1.50-seg"/>
+      <!-- Kodeńską -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,104,8)" xml:id="segm_1.51-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,112,1)" nkjp:nps="true" xml:id="segm_1.52-seg"/>
+      <!-- obejmowała -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,114,10)" xml:id="segm_1.53-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,125,2)" xml:id="segm_1.54-seg"/>
+      <!-- długie -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,128,6)" xml:id="segm_1.55-seg"/>
+      <!-- wieki -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,135,5)" xml:id="segm_1.56-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,141,1)" xml:id="segm_1.57-seg"/>
+      <!-- miłosierne -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,143,10)" xml:id="segm_1.58-seg"/>
+      <!-- swe -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,154,3)" xml:id="segm_1.59-seg"/>
+      <!-- władanie -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,158,8)" xml:id="segm_1.60-seg"/>
+      <!-- Kodeń -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,167,5)" xml:id="segm_1.61-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,172,1)" nkjp:nps="true" xml:id="segm_1.62-seg"/>
+      <!-- a -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,174,1)" xml:id="segm_1.63-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,176,1)" xml:id="segm_1.64-seg"/>
+      <!-- nim -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,178,3)" xml:id="segm_1.65-seg"/>
+      <!-- całą -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,182,4)" xml:id="segm_1.66-seg"/>
+      <!-- Białoruś -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,187,8)" xml:id="segm_1.67-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,195,1)" nkjp:nps="true" xml:id="segm_1.68-seg"/>
+      <!-- Żmudź -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,197,5)" xml:id="segm_1.69-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,202,1)" nkjp:nps="true" xml:id="segm_1.70-seg"/>
+      <!-- Podlasie -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,204,8)" xml:id="segm_1.71-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,212,1)" nkjp:nps="true" xml:id="segm_1.72-seg"/>
+      <!-- Wołyń -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,214,5)" xml:id="segm_1.73-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,219,1)" nkjp:nps="true" xml:id="segm_1.74-seg"/>
+      <!-- Ziemię -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,221,6)" xml:id="segm_1.75-seg"/>
+      <!-- Brzeską -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,228,7)" xml:id="segm_1.76-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,235,1)" nkjp:nps="true" xml:id="segm_1.77-seg"/>
+      <!-- Bełzką -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,237,6)" xml:id="segm_1.78-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,244,1)" xml:id="segm_1.79-seg"/>
+      <!-- Chełmską -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,246,8)" xml:id="segm_1.80-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,254,1)" nkjp:nps="true" xml:id="segm_1.81-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,255,1)" nkjp:nps="true" xml:id="segm_1.82-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_1.2-ab,256,1)" nkjp:nps="true" xml:id="segm_1.83-seg"/>
+     </s>
+    </p>
+    <!-- segm_2-p is akapit 12743 with instances (akapit_transzy-s) 25481, 25501 in batches (transza-s) 2549, 2551 resp. -->
+    <p corresp="text.xml#txt_2-div" xml:id="segm_2-p">
+     <s xml:id="segm_2.61-s">
+      <!-- Nie -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,0,3)" xml:id="segm_2.1-seg"/>
+      <!-- lada -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,4,4)" xml:id="segm_2.2-seg"/>
+      <!-- zatem -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,9,5)" xml:id="segm_2.3-seg"/>
+      <!-- gratką -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,15,6)" xml:id="segm_2.4-seg"/>
+      <!-- dla -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,22,3)" xml:id="segm_2.5-seg"/>
+      <!-- pisarza -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,26,7)" xml:id="segm_2.6-seg"/>
+      <!-- katolickiego -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,34,12)" xml:id="segm_2.7-seg"/>
+      <!-- staje -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,47,5)" xml:id="segm_2.8-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,53,3)" xml:id="segm_2.9-seg"/>
+      <!-- fakt -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,57,4)" xml:id="segm_2.10-seg"/>
+      <!-- autentyczny -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,62,11)" xml:id="segm_2.11-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,73,1)" nkjp:nps="true" xml:id="segm_2.12-seg"/>
+      <!-- udokumentowany -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,75,14)" xml:id="segm_2.13-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,89,1)" nkjp:nps="true" xml:id="segm_2.14-seg"/>
+      <!-- dostatecznie -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,91,12)" xml:id="segm_2.15-seg"/>
+      <!-- dawny -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,104,5)" xml:id="segm_2.16-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,109,1)" nkjp:nps="true" xml:id="segm_2.17-seg"/>
+      <!-- by -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,111,2)" xml:id="segm_2.18-seg"/>
+      <!-- wynik -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,114,5)" xml:id="segm_2.19-seg"/>
+      <!-- był -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,120,3)" xml:id="segm_2.20-seg"/>
+      <!-- już -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,124,3)" xml:id="segm_2.21-seg"/>
+      <!-- przez -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,128,5)" xml:id="segm_2.22-seg"/>
+      <!-- historię -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,134,8)" xml:id="segm_2.23-seg"/>
+      <!-- osądzony -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,143,8)" xml:id="segm_2.24-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,152,1)" xml:id="segm_2.25-seg"/>
+      <!-- podsumowany -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,154,11)" xml:id="segm_2.26-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,165,1)" nkjp:nps="true" xml:id="segm_2.27-seg"/>
+      <!-- fakt -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,167,4)" xml:id="segm_2.28-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,171,1)" nkjp:nps="true" xml:id="segm_2.29-seg"/>
+      <!-- którego -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,173,7)" xml:id="segm_2.30-seg"/>
+      <!-- uczestnicy -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,181,10)" xml:id="segm_2.31-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,192,3)" xml:id="segm_2.32-seg"/>
+      <!-- byli -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,196,4)" xml:id="segm_2.33-seg"/>
+      <!-- świętymi -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,201,8)" xml:id="segm_2.34-seg"/>
+      <!-- bynajmniej -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,210,10)" xml:id="segm_2.35-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,220,1)" nkjp:nps="true" xml:id="segm_2.36-seg"/>
+      <!-- a -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,222,1)" xml:id="segm_2.37-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,224,1)" xml:id="segm_2.38-seg"/>
+      <!-- którym -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,226,6)" xml:id="segm_2.39-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,232,1)" nkjp:nps="true" xml:id="segm_2.40-seg"/>
+      <!-- jak -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,234,3)" xml:id="segm_2.41-seg"/>
+      <!-- to -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,238,2)" xml:id="segm_2.42-seg"/>
+      <!-- ma -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,241,2)" xml:id="segm_2.43-seg"/>
+      <!-- miejsce -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,244,7)" xml:id="segm_2.44-seg"/>
+      <!-- właśnie -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,252,7)" xml:id="segm_2.45-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,260,1)" xml:id="segm_2.46-seg"/>
+      <!-- dziejach -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,262,8)" xml:id="segm_2.47-seg"/>
+      <!-- Mikołaja -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,271,8)" xml:id="segm_2.48-seg"/>
+      <!-- Sapiehy -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,280,7)" xml:id="segm_2.49-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,287,1)" nkjp:nps="true" xml:id="segm_2.50-seg"/>
+      <!-- miłosierdzie -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,289,12)" xml:id="segm_2.51-seg"/>
+      <!-- Boże -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,302,4)" xml:id="segm_2.52-seg"/>
+      <!-- kreśliło -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,307,8)" xml:id="segm_2.53-seg"/>
+      <!-- swe -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,316,3)" xml:id="segm_2.54-seg"/>
+      <!-- ściegi -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,320,6)" xml:id="segm_2.55-seg"/>
+      <!-- nieomal -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,327,7)" xml:id="segm_2.56-seg"/>
+      <!-- widocznie -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,335,9)" xml:id="segm_2.57-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,345,2)" xml:id="segm_2.58-seg"/>
+      <!-- powierzchni -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,348,11)" xml:id="segm_2.59-seg"/>
+      <!-- doczesności -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,360,11)" xml:id="segm_2.60-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_2.1-ab,371,1)" nkjp:nps="true" xml:id="segm_2.61-seg"/>
+     </s>
+    </p>
+    <!-- segm_3-p is akapit 12744 with instances (akapit_transzy-s) 25482, 25507 in batches (transza-s) 2549, 2552 resp. -->
+    <p corresp="text.xml#txt_3-div" xml:id="segm_3-p">
+     <s xml:id="segm_3.8-s">
+      <!-- Z -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,0,1)" xml:id="segm_3.1-seg"/>
+      <!-- przełęczy -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,2,9)" xml:id="segm_3.2-seg"/>
+      <!-- weszli -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,12,6)" xml:id="segm_3.3-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,19,1)" xml:id="segm_3.4-seg"/>
+      <!-- dolinę -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,21,6)" xml:id="segm_3.5-seg"/>
+      <!-- przeciętą -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,28,9)" xml:id="segm_3.6-seg"/>
+      <!-- potokiem -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,38,8)" xml:id="segm_3.7-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,46,1)" nkjp:nps="true" xml:id="segm_3.8-seg"/>
+     </s>
+     <s xml:id="segm_3.20-s">
+      <!-- Tutaj -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,48,5)" xml:id="segm_3.9-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,53,1)" nkjp:nps="true" xml:id="segm_3.10-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,55,2)" xml:id="segm_3.11-seg"/>
+      <!-- ojczystej -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,58,9)" xml:id="segm_3.12-seg"/>
+      <!-- ziemi -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,68,5)" xml:id="segm_3.13-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,73,1)" nkjp:nps="true" xml:id="segm_3.14-seg"/>
+      <!-- stanęli -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,75,7)" xml:id="segm_3.15-seg"/>
+      <!-- znowu -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,83,5)" xml:id="segm_3.16-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,89,2)" xml:id="segm_3.17-seg"/>
+      <!-- dłuższy -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,92,7)" xml:id="segm_3.18-seg"/>
+      <!-- spoczynek -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,100,9)" xml:id="segm_3.19-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,109,1)" nkjp:nps="true" xml:id="segm_3.20-seg"/>
+     </s>
+     <s xml:id="segm_3.27-s">
+      <!-- W -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,111,1)" xml:id="segm_3.21-seg"/>
+      <!-- dolinie -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,113,7)" xml:id="segm_3.22-seg"/>
+      <!-- było -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,121,4)" xml:id="segm_3.23-seg"/>
+      <!-- zacisznie -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,126,9)" xml:id="segm_3.24-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,136,1)" xml:id="segm_3.25-seg"/>
+      <!-- dobrze -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,138,6)" xml:id="segm_3.26-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,144,1)" nkjp:nps="true" xml:id="segm_3.27-seg"/>
+     </s>
+     <s xml:id="segm_3.45-s">
+      <!-- W -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,146,1)" xml:id="segm_3.28-seg"/>
+      <!-- lasach -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,148,6)" xml:id="segm_3.29-seg"/>
+      <!-- pasły -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,155,5)" xml:id="segm_3.30-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,161,3)" xml:id="segm_3.31-seg"/>
+      <!-- krowy -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,165,5)" xml:id="segm_3.32-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,171,1)" xml:id="segm_3.33-seg"/>
+      <!-- owce -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,173,4)" xml:id="segm_3.34-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,177,1)" nkjp:nps="true" xml:id="segm_3.35-seg"/>
+      <!-- czasem -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,179,6)" xml:id="segm_3.36-seg"/>
+      <!-- ozwał -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,186,5)" xml:id="segm_3.37-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,192,3)" xml:id="segm_3.38-seg"/>
+      <!-- poryk -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,196,5)" xml:id="segm_3.39-seg"/>
+      <!-- niedźwiedzia -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,202,12)" xml:id="segm_3.40-seg"/>
+      <!-- lub -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,215,3)" xml:id="segm_3.41-seg"/>
+      <!-- gniewne -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,219,7)" xml:id="segm_3.42-seg"/>
+      <!-- parsknięcie -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,227,11)" xml:id="segm_3.43-seg"/>
+      <!-- rysia -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,239,5)" xml:id="segm_3.44-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,244,1)" nkjp:nps="true" xml:id="segm_3.45-seg"/>
+     </s>
+     <s xml:id="segm_3.62-s">
+      <!-- W -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,246,1)" xml:id="segm_3.46-seg"/>
+      <!-- dzień -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,248,5)" xml:id="segm_3.47-seg"/>
+      <!-- przychodziły -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,254,12)" xml:id="segm_3.48-seg"/>
+      <!-- pić -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,267,3)" xml:id="segm_3.49-seg"/>
+      <!-- wodę -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,271,4)" xml:id="segm_3.50-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,276,1)" xml:id="segm_3.51-seg"/>
+      <!-- potoku -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,278,6)" xml:id="segm_3.52-seg"/>
+      <!-- stada -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,285,5)" xml:id="segm_3.53-seg"/>
+      <!-- bydła -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,291,5)" xml:id="segm_3.54-seg"/>
+      <!-- pędzone -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,297,7)" xml:id="segm_3.55-seg"/>
+      <!-- przez -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,305,5)" xml:id="segm_3.56-seg"/>
+      <!-- czarnych -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,311,8)" xml:id="segm_3.57-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,319,1)" nkjp:nps="true" xml:id="segm_3.58-seg"/>
+      <!-- jaskrawo -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,321,8)" xml:id="segm_3.59-seg"/>
+      <!-- odzianych -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,330,9)" xml:id="segm_3.60-seg"/>
+      <!-- Hucułów -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,340,7)" xml:id="segm_3.61-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,347,1)" nkjp:nps="true" xml:id="segm_3.62-seg"/>
+     </s>
+     <s xml:id="segm_3.67-s">
+      <!-- Wieczorem -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,349,9)" xml:id="segm_3.63-seg"/>
+      <!-- jelenie -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,359,7)" xml:id="segm_3.64-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,367,1)" xml:id="segm_3.65-seg"/>
+      <!-- sarny -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,369,5)" xml:id="segm_3.66-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_3.1-ab,374,1)" nkjp:nps="true" xml:id="segm_3.67-seg"/>
+     </s>
+    </p>
+    <!-- segm_4-p is akapit 12745 with instances (akapit_transzy-s) 25483, 25508 in batches (transza-s) 2549, 2552 resp. -->
+    <p corresp="text.xml#txt_4-div" xml:id="segm_4-p">
+     <s xml:id="segm_4.39-s">
+      <!-- Gdy -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,0,3)" xml:id="segm_4.1-seg"/>
+      <!-- spętane -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,4,7)" xml:id="segm_4.2-seg"/>
+      <!-- konie -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,12,5)" xml:id="segm_4.3-seg"/>
+      <!-- pasły -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,18,5)" xml:id="segm_4.4-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,24,3)" xml:id="segm_4.5-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,28,2)" xml:id="segm_4.6-seg"/>
+      <!-- polanie -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,31,7)" xml:id="segm_4.7-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,38,1)" nkjp:nps="true" xml:id="segm_4.8-seg"/>
+      <!-- pachołcy -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,40,8)" xml:id="segm_4.9-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,49,1)" xml:id="segm_4.10-seg"/>
+      <!-- dworzanie -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,51,9)" xml:id="segm_4.11-seg"/>
+      <!-- spali -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,61,5)" xml:id="segm_4.12-seg"/>
+      <!-- smacznie -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,67,8)" xml:id="segm_4.13-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,76,2)" xml:id="segm_4.14-seg"/>
+      <!-- trawie -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,79,6)" xml:id="segm_4.15-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,85,1)" nkjp:nps="true" xml:id="segm_4.16-seg"/>
+      <!-- przy -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,87,4)" xml:id="segm_4.17-seg"/>
+      <!-- ogniu -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,92,5)" xml:id="segm_4.18-seg"/>
+      <!-- kucharczyk -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,98,10)" xml:id="segm_4.19-seg"/>
+      <!-- sprawiał -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,109,8)" xml:id="segm_4.20-seg"/>
+      <!-- świeżo -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,118,6)" xml:id="segm_4.21-seg"/>
+      <!-- upolowanego -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,125,11)" xml:id="segm_4.22-seg"/>
+      <!-- warchlaka -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,137,9)" xml:id="segm_4.23-seg"/>
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,147,1)" xml:id="segm_4.24-seg"/>
+      <!-- pan -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,149,3)" xml:id="segm_4.25-seg"/>
+      <!-- Sapieha -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,153,7)" xml:id="segm_4.26-seg"/>
+      <!-- siedział -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,161,8)" xml:id="segm_4.27-seg"/>
+      <!-- przed -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,170,5)" xml:id="segm_4.28-seg"/>
+      <!-- namiotem -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,176,8)" xml:id="segm_4.29-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,185,1)" xml:id="segm_4.30-seg"/>
+      <!-- rozmyślał -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,187,9)" xml:id="segm_4.31-seg"/>
+      <!-- nad -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,197,3)" xml:id="segm_4.32-seg"/>
+      <!-- drogą -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,201,5)" xml:id="segm_4.33-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,206,1)" nkjp:nps="true" xml:id="segm_4.34-seg"/>
+      <!-- którą -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,208,5)" xml:id="segm_4.35-seg"/>
+      <!-- teraz -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,214,5)" xml:id="segm_4.36-seg"/>
+      <!-- iść -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,220,3)" xml:id="segm_4.37-seg"/>
+      <!-- wypadnie -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,224,8)" xml:id="segm_4.38-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,232,1)" nkjp:nps="true" xml:id="segm_4.39-seg"/>
+     </s>
+     <s xml:id="segm_4.58-s">
+      <!-- Cesarz -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,234,6)" xml:id="segm_4.40-seg"/>
+      <!-- zaszczycał -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,241,10)" xml:id="segm_4.41-seg"/>
+      <!-- go -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,252,2)" xml:id="segm_4.42-seg"/>
+      <!-- swoją -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,255,5)" xml:id="segm_4.43-seg"/>
+      <!-- przyjaźnią -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,261,10)" xml:id="segm_4.44-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,271,1)" nkjp:nps="true" xml:id="segm_4.45-seg"/>
+      <!-- a -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,273,1)" xml:id="segm_4.46-seg"/>
+      <!-- niedawno -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,275,8)" xml:id="segm_4.47-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,283,1)" nkjp:nps="true" xml:id="segm_4.48-seg"/>
+      <!-- gdy -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,285,3)" xml:id="segm_4.49-seg"/>
+      <!-- do -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,289,2)" xml:id="segm_4.50-seg"/>
+      <!-- Rzymu -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,292,5)" xml:id="segm_4.51-seg"/>
+      <!-- chory -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,298,5)" xml:id="segm_4.52-seg"/>
+      <!-- jechał -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,304,6)" xml:id="segm_4.53-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,310,1)" nkjp:nps="true" xml:id="segm_4.54-seg"/>
+      <!-- obdarował -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,312,9)" xml:id="segm_4.55-seg"/>
+      <!-- złotym -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,322,6)" xml:id="segm_4.56-seg"/>
+      <!-- kluczem -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,329,7)" xml:id="segm_4.57-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,336,1)" nkjp:nps="true" xml:id="segm_4.58-seg"/>
+     </s>
+     <s xml:id="segm_4.80-s">
+      <!-- Papież -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,338,6)" xml:id="segm_4.59-seg"/>
+      <!-- niejednokrotnie -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,345,15)" xml:id="segm_4.60-seg"/>
+      <!-- naraził -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,361,7)" xml:id="segm_4.61-seg"/>
+      <!-- sobie -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,369,5)" xml:id="segm_4.62-seg"/>
+      <!-- cesarza -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,375,7)" xml:id="segm_4.63-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,382,1)" nkjp:nps="true" xml:id="segm_4.64-seg"/>
+      <!-- którego -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,384,7)" xml:id="segm_4.65-seg"/>
+      <!-- był -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,392,3)" xml:id="segm_4.66-seg"/>
+      <!-- wrogiem -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,396,7)" xml:id="segm_4.67-seg"/>
+      <!-- zaciętym -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,404,8)" xml:id="segm_4.68-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,412,1)" nkjp:nps="true" xml:id="segm_4.69-seg"/>
+      <!-- zatem -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,414,5)" xml:id="segm_4.70-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,420,2)" xml:id="segm_4.71-seg"/>
+      <!-- cesarskiej -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,423,10)" xml:id="segm_4.72-seg"/>
+      <!-- ziemi -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,434,5)" xml:id="segm_4.73-seg"/>
+      <!-- wojewoda -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,440,8)" xml:id="segm_4.74-seg"/>
+      <!-- mógł -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,449,4)" xml:id="segm_4.75-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,454,3)" xml:id="segm_4.76-seg"/>
+      <!-- chyba -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,458,5)" xml:id="segm_4.77-seg"/>
+      <!-- czuć -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,464,4)" xml:id="segm_4.78-seg"/>
+      <!-- bezpieczny -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,469,10)" xml:id="segm_4.79-seg"/>
+      <!-- ? -->
+      <seg corresp="text.xml#string-range(txt_4.1-ab,479,1)" nkjp:nps="true" xml:id="segm_4.80-seg"/>
+     </s>
+    </p>
+    <!-- segm_5-p is akapit 12746 with instances (akapit_transzy-s) 25484, 25509 in batches (transza-s) 2549, 2552 resp. -->
+    <p corresp="text.xml#txt_5-div" xml:id="segm_5-p">
+     <s xml:id="segm_5.41-s">
+      <!-- Był -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,0,3)" xml:id="segm_5.1-seg"/>
+      <!-- niegdyś -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,4,7)" xml:id="segm_5.2-seg"/>
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,12,1)" xml:id="segm_5.3-seg"/>
+      <!-- jak -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,14,3)" xml:id="segm_5.4-seg"/>
+      <!-- to -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,18,2)" xml:id="segm_5.5-seg"/>
+      <!-- mawiają -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,21,7)" xml:id="segm_5.6-seg"/>
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,29,1)" xml:id="segm_5.7-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,31,1)" xml:id="segm_5.8-seg"/>
+      <!-- do -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,33,2)" xml:id="segm_5.9-seg"/>
+      <!-- boju -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,36,4)" xml:id="segm_5.10-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,40,1)" nkjp:nps="true" xml:id="segm_5.11-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,42,1)" xml:id="segm_5.12-seg"/>
+      <!-- do -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,44,2)" xml:id="segm_5.13-seg"/>
+      <!-- znoju -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,47,5)" xml:id="segm_5.14-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,52,1)" nkjp:nps="true" xml:id="segm_5.15-seg"/>
+      <!-- do -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,54,2)" xml:id="segm_5.16-seg"/>
+      <!-- tańca -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,57,5)" xml:id="segm_5.17-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,63,1)" xml:id="segm_5.18-seg"/>
+      <!-- do -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,65,2)" xml:id="segm_5.19-seg"/>
+      <!-- różańca -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,68,7)" xml:id="segm_5.20-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,75,1)" nkjp:nps="true" xml:id="segm_5.21-seg"/>
+      <!-- umiał -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,77,5)" xml:id="segm_5.22-seg"/>
+      <!-- pić -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,83,3)" xml:id="segm_5.23-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,86,1)" nkjp:nps="true" xml:id="segm_5.24-seg"/>
+      <!-- umiał -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,88,5)" xml:id="segm_5.25-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,94,3)" xml:id="segm_5.26-seg"/>
+      <!-- bić -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,98,3)" xml:id="segm_5.27-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,101,1)" nkjp:nps="true" xml:id="segm_5.28-seg"/>
+      <!-- obecnie -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,103,7)" xml:id="segm_5.29-seg"/>
+      <!-- patrzył -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,111,7)" xml:id="segm_5.30-seg"/>
+      <!-- sam -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,119,3)" xml:id="segm_5.31-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,123,2)" xml:id="segm_5.32-seg"/>
+      <!-- siebie -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,126,6)" xml:id="segm_5.33-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,133,1)" xml:id="segm_5.34-seg"/>
+      <!-- obrzydzeniem -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,135,12)" xml:id="segm_5.35-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,147,1)" nkjp:nps="true" xml:id="segm_5.36-seg"/>
+      <!-- jak -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,149,3)" xml:id="segm_5.37-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,153,2)" xml:id="segm_5.38-seg"/>
+      <!-- zdechłe -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,156,7)" xml:id="segm_5.39-seg"/>
+      <!-- ścierwo -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,164,7)" xml:id="segm_5.40-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,171,1)" nkjp:nps="true" xml:id="segm_5.41-seg"/>
+     </s>
+     <s xml:id="segm_5.66-s">
+      <!-- Boleśnie -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,173,8)" xml:id="segm_5.42-seg"/>
+      <!-- odczuwał -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,182,8)" xml:id="segm_5.43-seg"/>
+      <!-- politowanie -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,191,11)" xml:id="segm_5.44-seg"/>
+      <!-- ukryte -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,203,6)" xml:id="segm_5.45-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,210,1)" xml:id="segm_5.46-seg"/>
+      <!-- oczach -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,212,6)" xml:id="segm_5.47-seg"/>
+      <!-- służby -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,219,6)" xml:id="segm_5.48-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,225,1)" nkjp:nps="true" xml:id="segm_5.49-seg"/>
+      <!-- rodziny -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,227,7)" xml:id="segm_5.50-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,234,1)" nkjp:nps="true" xml:id="segm_5.51-seg"/>
+      <!-- przyjaciół -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,236,10)" xml:id="segm_5.52-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,246,1)" nkjp:nps="true" xml:id="segm_5.53-seg"/>
+      <!-- politowanie -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,248,11)" xml:id="segm_5.54-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,259,1)" nkjp:nps="true" xml:id="segm_5.55-seg"/>
+      <!-- które -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,261,5)" xml:id="segm_5.56-seg"/>
+      <!-- za -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,267,2)" xml:id="segm_5.57-seg"/>
+      <!-- jego -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,270,4)" xml:id="segm_5.58-seg"/>
+      <!-- plecami -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,275,7)" xml:id="segm_5.59-seg"/>
+      <!-- przemieniało -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,283,12)" xml:id="segm_5.60-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,296,3)" xml:id="segm_5.61-seg"/>
+      <!-- zapewne -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,300,7)" xml:id="segm_5.62-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,308,1)" xml:id="segm_5.63-seg"/>
+      <!-- pogardliwe -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,310,10)" xml:id="segm_5.64-seg"/>
+      <!-- lekceważenie -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,321,12)" xml:id="segm_5.65-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_5.1-ab,333,1)" nkjp:nps="true" xml:id="segm_5.66-seg"/>
+     </s>
+    </p>
+    <!-- segm_6-p is akapit 12747 with instances (akapit_transzy-s) 25485, 25510 in batches (transza-s) 2549, 2552 resp. -->
+    <p corresp="text.xml#txt_6-div" xml:id="segm_6-p">
+     <s xml:id="segm_6.22-s">
+      <!-- Niechaj -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,0,7)" xml:id="segm_6.1-seg"/>
+      <!-- mnie -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,8,4)" xml:id="segm_6.2-seg"/>
+      <!-- Bóg -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,13,3)" xml:id="segm_6.3-seg"/>
+      <!-- zachowa -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,17,7)" xml:id="segm_6.4-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,24,1)" nkjp:nps="true" xml:id="segm_6.5-seg"/>
+      <!-- żeby -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,26,4)" xml:id="segm_6.6-seg"/>
+      <!-- m -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,30,1)" nkjp:nps="true" xml:id="segm_6.7-seg"/>
+      <!-- miał -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,32,4)" xml:id="segm_6.8-seg"/>
+      <!-- za -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,37,2)" xml:id="segm_6.9-seg"/>
+      <!-- tym -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,40,3)" xml:id="segm_6.10-seg"/>
+      <!-- przykładem -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,44,10)" xml:id="segm_6.11-seg"/>
+      <!-- do -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,55,2)" xml:id="segm_6.12-seg"/>
+      <!-- innej -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,58,5)" xml:id="segm_6.13-seg"/>
+      <!-- jakowej -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,64,7)" xml:id="segm_6.14-seg"/>
+      <!-- instytucji -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,72,10)" xml:id="segm_6.15-seg"/>
+      <!-- od -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,83,2)" xml:id="segm_6.16-seg"/>
+      <!-- wyroku -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,86,6)" xml:id="segm_6.17-seg"/>
+      <!-- Najdostojniejszego -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,93,18)" xml:id="segm_6.18-seg"/>
+      <!-- Majestatu -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,112,9)" xml:id="segm_6.19-seg"/>
+      <!-- Piotrowego -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,122,10)" xml:id="segm_6.20-seg"/>
+      <!-- apelować -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,133,8)" xml:id="segm_6.21-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,141,1)" nkjp:nps="true" xml:id="segm_6.22-seg"/>
+     </s>
+     <s xml:id="segm_6.61-s">
+      <!-- Zacytował -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,143,9)" xml:id="segm_6.23-seg"/>
+      <!-- em -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,152,2)" nkjp:nps="true" xml:id="segm_6.24-seg"/>
+      <!-- one -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,155,3)" xml:id="segm_6.25-seg"/>
+      <!-- fakta -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,159,5)" xml:id="segm_6.26-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,165,2)" xml:id="segm_6.27-seg"/>
+      <!-- dowód -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,168,5)" xml:id="segm_6.28-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,173,1)" nkjp:nps="true" xml:id="segm_6.29-seg"/>
+      <!-- że -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,175,2)" xml:id="segm_6.30-seg"/>
+      <!-- wziątek -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,178,7)" xml:id="segm_6.31-seg"/>
+      <!-- mój -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,186,3)" xml:id="segm_6.32-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,189,1)" nkjp:nps="true" xml:id="segm_6.33-seg"/>
+      <!-- choć -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,191,4)" xml:id="segm_6.34-seg"/>
+      <!-- karygodny -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,196,9)" xml:id="segm_6.35-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,205,1)" nkjp:nps="true" xml:id="segm_6.36-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,207,3)" xml:id="segm_6.37-seg"/>
+      <!-- był -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,211,3)" xml:id="segm_6.38-seg"/>
+      <!-- pierwszy -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,215,8)" xml:id="segm_6.39-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,223,1)" nkjp:nps="true" xml:id="segm_6.40-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,225,1)" xml:id="segm_6.41-seg"/>
+      <!-- jako -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,227,4)" xml:id="segm_6.42-seg"/>
+      <!-- tamte -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,232,5)" xml:id="segm_6.43-seg"/>
+      <!-- odpuszczenie -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,238,12)" xml:id="segm_6.44-seg"/>
+      <!-- otrzymały -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,251,9)" xml:id="segm_6.45-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,260,1)" nkjp:nps="true" xml:id="segm_6.46-seg"/>
+      <!-- tak -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,262,3)" xml:id="segm_6.47-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,266,1)" xml:id="segm_6.48-seg"/>
+      <!-- ja -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,268,2)" xml:id="segm_6.49-seg"/>
+      <!-- odpuszczenia -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,271,12)" xml:id="segm_6.50-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,284,3)" xml:id="segm_6.51-seg"/>
+      <!-- spodziewam -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,288,10)" xml:id="segm_6.52-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,299,1)" xml:id="segm_6.53-seg"/>
+      <!-- najpokorniej -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,301,12)" xml:id="segm_6.54-seg"/>
+      <!-- o -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,314,1)" xml:id="segm_6.55-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,316,3)" xml:id="segm_6.56-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,320,1)" xml:id="segm_6.57-seg"/>
+      <!-- synowskim -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,322,9)" xml:id="segm_6.58-seg"/>
+      <!-- posłuszeństwem -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,332,14)" xml:id="segm_6.59-seg"/>
+      <!-- błagam -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,347,6)" xml:id="segm_6.60-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_6.1-ab,353,1)" nkjp:nps="true" xml:id="segm_6.61-seg"/>
+     </s>
+    </p>
+    <!-- segm_7-p is akapit 12748 with instances (akapit_transzy-s) 25486, 25511 in batches (transza-s) 2549, 2552 resp. -->
+    <p corresp="text.xml#txt_7-div" xml:id="segm_7-p">
+     <s xml:id="segm_7.13-s">
+      <!-- Zacnością -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,0,9)" xml:id="segm_7.1-seg"/>
+      <!-- Twojej -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,10,6)" xml:id="segm_7.2-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,17,1)" xml:id="segm_7.3-seg"/>
+      <!-- miłością -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,19,8)" xml:id="segm_7.4-seg"/>
+      <!-- błogosławimy -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,28,12)" xml:id="segm_7.5-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,40,1)" nkjp:nps="true" xml:id="segm_7.6-seg"/>
+      <!-- Boskiej -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,42,7)" xml:id="segm_7.7-seg"/>
+      <!-- protekcji -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,50,9)" xml:id="segm_7.8-seg"/>
+      <!-- cały -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,60,4)" xml:id="segm_7.9-seg"/>
+      <!-- ród -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,65,3)" xml:id="segm_7.10-seg"/>
+      <!-- Twój -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,69,4)" xml:id="segm_7.11-seg"/>
+      <!-- polecając -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,74,9)" xml:id="segm_7.12-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,83,1)" nkjp:nps="true" xml:id="segm_7.13-seg"/>
+     </s>
+     <s xml:id="segm_7.42-s">
+      <!-- Dan -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,85,3)" xml:id="segm_7.14-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,89,1)" xml:id="segm_7.15-seg"/>
+      <!-- Rzymie -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,91,6)" xml:id="segm_7.16-seg"/>
+      <!-- u -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,98,1)" xml:id="segm_7.17-seg"/>
+      <!-- świętego -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,100,8)" xml:id="segm_7.18-seg"/>
+      <!-- Piotra -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,109,6)" xml:id="segm_7.19-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,115,1)" nkjp:nps="true" xml:id="segm_7.20-seg"/>
+      <!-- pod -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,117,3)" xml:id="segm_7.21-seg"/>
+      <!-- pieczęcią -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,121,9)" xml:id="segm_7.22-seg"/>
+      <!-- Rybołowa -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,131,8)" xml:id="segm_7.23-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,139,1)" nkjp:nps="true" xml:id="segm_7.24-seg"/>
+      <!-- dnia -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,141,4)" xml:id="segm_7.25-seg"/>
+      <!-- 3 -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,146,1)" xml:id="segm_7.26-seg"/>
+      <!-- maja -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,148,4)" xml:id="segm_7.27-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,152,1)" nkjp:nps="true" xml:id="segm_7.28-seg"/>
+      <!-- roku -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,154,4)" xml:id="segm_7.29-seg"/>
+      <!-- od -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,159,2)" xml:id="segm_7.30-seg"/>
+      <!-- Wcielenia -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,162,9)" xml:id="segm_7.31-seg"/>
+      <!-- Pańskiego -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,172,9)" xml:id="segm_7.32-seg"/>
+      <!-- tysiąc -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,182,6)" xml:id="segm_7.33-seg"/>
+      <!-- sześćset -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,189,8)" xml:id="segm_7.34-seg"/>
+      <!-- trzydziestego -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,198,13)" xml:id="segm_7.35-seg"/>
+      <!-- piątego -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,212,7)" xml:id="segm_7.36-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,219,1)" nkjp:nps="true" xml:id="segm_7.37-seg"/>
+      <!-- roku -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,221,4)" xml:id="segm_7.38-seg"/>
+      <!-- papiestwa -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,226,9)" xml:id="segm_7.39-seg"/>
+      <!-- Naszego -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,236,7)" xml:id="segm_7.40-seg"/>
+      <!-- dwunastego -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,244,10)" xml:id="segm_7.41-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_7.1-ab,254,1)" nkjp:nps="true" xml:id="segm_7.42-seg"/>
+     </s>
+     <s xml:id="segm_7.57-s">
+      <!-- Podpisał -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,0,8)" xml:id="segm_7.43-seg"/>
+      <!-- ręką -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,9,4)" xml:id="segm_7.44-seg"/>
+      <!-- własną -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,14,6)" xml:id="segm_7.45-seg"/>
+      <!-- : -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,20,1)" nkjp:nps="true" xml:id="segm_7.46-seg"/>
+      <!-- Urban -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,22,5)" xml:id="segm_7.47-seg"/>
+      <!-- VIII -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,28,4)" xml:id="segm_7.48-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,32,1)" nkjp:nps="true" xml:id="segm_7.49-seg"/>
+      <!-- biskup -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,34,6)" xml:id="segm_7.50-seg"/>
+      <!-- rzymski -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,41,7)" xml:id="segm_7.51-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,48,1)" nkjp:nps="true" xml:id="segm_7.52-seg"/>
+      <!-- Sługa -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,50,5)" xml:id="segm_7.53-seg"/>
+      <!-- sług -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,56,4)" xml:id="segm_7.54-seg"/>
+      <!-- Bożych -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,61,6)" xml:id="segm_7.55-seg"/>
+      <!-- " -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,67,1)" nkjp:nps="true" xml:id="segm_7.56-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_7.2-ab,68,1)" nkjp:nps="true" xml:id="segm_7.57-seg"/>
+     </s>
+    </p>
+    <!-- segm_8-p is akapit 12749 with instances (akapit_transzy-s) 25487, 25502 in batches (transza-s) 2550, 2551 resp. -->
+    <p corresp="text.xml#txt_8-div" xml:id="segm_8-p">
+     <s xml:id="segm_8.43-s">
+      <!-- Po -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,0,2)" xml:id="segm_8.1-seg"/>
+      <!-- drodze -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,3,6)" xml:id="segm_8.2-seg"/>
+      <!-- napotykano -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,10,10)" xml:id="segm_8.3-seg"/>
+      <!-- półnagich -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,21,9)" xml:id="segm_8.4-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,30,1)" nkjp:nps="true" xml:id="segm_8.5-seg"/>
+      <!-- dzikich -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,32,7)" xml:id="segm_8.6-seg"/>
+      <!-- pastuchów -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,40,9)" xml:id="segm_8.7-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,49,1)" nkjp:nps="true" xml:id="segm_8.8-seg"/>
+      <!-- o -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,51,1)" xml:id="segm_8.9-seg"/>
+      <!-- niczym -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,53,6)" xml:id="segm_8.10-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,60,3)" xml:id="segm_8.11-seg"/>
+      <!-- wiedzących -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,64,10)" xml:id="segm_8.12-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,74,1)" nkjp:nps="true" xml:id="segm_8.13-seg"/>
+      <!-- którzy -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,76,6)" xml:id="segm_8.14-seg"/>
+      <!-- szeroko -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,83,7)" xml:id="segm_8.15-seg"/>
+      <!-- otwartymi -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,91,9)" xml:id="segm_8.16-seg"/>
+      <!-- oczami -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,101,6)" xml:id="segm_8.17-seg"/>
+      <!-- patrzyli -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,108,8)" xml:id="segm_8.18-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,117,2)" xml:id="segm_8.19-seg"/>
+      <!-- przejeżdżających -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,120,16)" xml:id="segm_8.20-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,136,1)" nkjp:nps="true" xml:id="segm_8.21-seg"/>
+      <!-- a -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,138,1)" xml:id="segm_8.22-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,140,1)" xml:id="segm_8.23-seg"/>
+      <!-- godzinę -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,142,7)" xml:id="segm_8.24-seg"/>
+      <!-- później -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,150,7)" xml:id="segm_8.25-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,157,1)" nkjp:nps="true" xml:id="segm_8.26-seg"/>
+      <!-- zapytani -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,159,8)" xml:id="segm_8.27-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,167,1)" nkjp:nps="true" xml:id="segm_8.28-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,169,3)" xml:id="segm_8.29-seg"/>
+      <!-- umieli -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,173,6)" xml:id="segm_8.30-seg"/>
+      <!-- powiedzieć -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,180,10)" xml:id="segm_8.31-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,190,1)" nkjp:nps="true" xml:id="segm_8.32-seg"/>
+      <!-- czy -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,192,3)" xml:id="segm_8.33-seg"/>
+      <!-- widzieli -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,196,8)" xml:id="segm_8.34-seg"/>
+      <!-- żywych -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,205,6)" xml:id="segm_8.35-seg"/>
+      <!-- ludzi -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,212,5)" xml:id="segm_8.36-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,217,1)" nkjp:nps="true" xml:id="segm_8.37-seg"/>
+      <!-- czy -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,219,3)" xml:id="segm_8.38-seg"/>
+      <!-- gomon -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,223,5)" xml:id="segm_8.39-seg"/>
+      <!-- lub -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,229,3)" xml:id="segm_8.40-seg"/>
+      <!-- inne -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,233,4)" xml:id="segm_8.41-seg"/>
+      <!-- widziadło -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,238,9)" xml:id="segm_8.42-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,247,1)" nkjp:nps="true" xml:id="segm_8.43-seg"/>
+     </s>
+     <s xml:id="segm_8.81-s">
+      <!-- Mijali -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,249,6)" xml:id="segm_8.44-seg"/>
+      <!-- zapadłe -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,256,7)" xml:id="segm_8.45-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,263,1)" nkjp:nps="true" xml:id="segm_8.46-seg"/>
+      <!-- ubogie -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,265,6)" xml:id="segm_8.47-seg"/>
+      <!-- wioski -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,272,6)" xml:id="segm_8.48-seg"/>
+      <!-- górskie -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,279,7)" xml:id="segm_8.49-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,286,1)" nkjp:nps="true" xml:id="segm_8.50-seg"/>
+      <!-- gdzie -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,288,5)" xml:id="segm_8.51-seg"/>
+      <!-- ludność -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,294,7)" xml:id="segm_8.52-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,302,2)" xml:id="segm_8.53-seg"/>
+      <!-- ich -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,305,3)" xml:id="segm_8.54-seg"/>
+      <!-- widok -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,309,5)" xml:id="segm_8.55-seg"/>
+      <!-- chowała -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,315,7)" xml:id="segm_8.56-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,323,3)" xml:id="segm_8.57-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,327,1)" xml:id="segm_8.58-seg"/>
+      <!-- krzykiem -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,329,8)" xml:id="segm_8.59-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,337,1)" nkjp:nps="true" xml:id="segm_8.60-seg"/>
+      <!-- sądząc -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,339,6)" xml:id="segm_8.61-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,345,1)" nkjp:nps="true" xml:id="segm_8.62-seg"/>
+      <!-- że -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,347,2)" xml:id="segm_8.63-seg"/>
+      <!-- to -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,350,2)" xml:id="segm_8.64-seg"/>
+      <!-- któryś -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,353,6)" xml:id="segm_8.65-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,360,1)" xml:id="segm_8.66-seg"/>
+      <!-- sąsiednich -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,362,10)" xml:id="segm_8.67-seg"/>
+      <!-- baronów -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,373,7)" xml:id="segm_8.68-seg"/>
+      <!-- najeżdża -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,381,8)" xml:id="segm_8.69-seg"/>
+      <!-- włości -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,390,6)" xml:id="segm_8.70-seg"/>
+      <!-- drugiego -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,397,8)" xml:id="segm_8.71-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,405,1)" nkjp:nps="true" xml:id="segm_8.72-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,407,1)" xml:id="segm_8.73-seg"/>
+      <!-- do -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,409,2)" xml:id="segm_8.74-seg"/>
+      <!-- wieczora -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,412,8)" xml:id="segm_8.75-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,421,3)" xml:id="segm_8.76-seg"/>
+      <!-- opuszczała -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,425,10)" xml:id="segm_8.77-seg"/>
+      <!-- chat -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,436,4)" xml:id="segm_8.78-seg"/>
+      <!-- starannie -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,441,9)" xml:id="segm_8.79-seg"/>
+      <!-- zawartych -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,451,9)" xml:id="segm_8.80-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_8.1-ab,460,1)" nkjp:nps="true" xml:id="segm_8.81-seg"/>
+     </s>
+    </p>
+    <!-- segm_9-p is akapit 12750 with instances (akapit_transzy-s) 25488, 25503 in batches (transza-s) 2550, 2551 resp. -->
+    <p corresp="text.xml#txt_9-div" xml:id="segm_9-p">
+     <s xml:id="segm_9.26-s">
+      <!-- Aczkolwiek -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,0,10)" xml:id="segm_9.1-seg"/>
+      <!-- Andruszka -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,11,9)" xml:id="segm_9.2-seg"/>
+      <!-- spieszył -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,21,8)" xml:id="segm_9.3-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,29,1)" nkjp:nps="true" xml:id="segm_9.4-seg"/>
+      <!-- mając -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,31,5)" xml:id="segm_9.5-seg"/>
+      <!-- surowo -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,37,6)" xml:id="segm_9.6-seg"/>
+      <!-- nakazane -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,44,8)" xml:id="segm_9.7-seg"/>
+      <!-- powracać -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,53,8)" xml:id="segm_9.8-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,62,1)" xml:id="segm_9.9-seg"/>
+      <!-- końmi -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,64,5)" xml:id="segm_9.10-seg"/>
+      <!-- co -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,70,2)" xml:id="segm_9.11-seg"/>
+      <!-- rychlej -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,73,7)" xml:id="segm_9.12-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,80,1)" nkjp:nps="true" xml:id="segm_9.13-seg"/>
+      <!-- starczyło -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,82,9)" xml:id="segm_9.14-seg"/>
+      <!-- mu -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,92,2)" xml:id="segm_9.15-seg"/>
+      <!-- czasu -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,95,5)" xml:id="segm_9.16-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,100,1)" nkjp:nps="true" xml:id="segm_9.17-seg"/>
+      <!-- by -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,102,2)" xml:id="segm_9.18-seg"/>
+      <!-- opowiedzieć -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,105,11)" xml:id="segm_9.19-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,117,1)" xml:id="segm_9.20-seg"/>
+      <!-- czeladnej -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,119,9)" xml:id="segm_9.21-seg"/>
+      <!-- szczegóły -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,129,9)" xml:id="segm_9.22-seg"/>
+      <!-- pobytu -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,139,6)" xml:id="segm_9.23-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,146,1)" xml:id="segm_9.24-seg"/>
+      <!-- Kodniu -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,148,6)" xml:id="segm_9.25-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,154,1)" nkjp:nps="true" xml:id="segm_9.26-seg"/>
+     </s>
+     <s xml:id="segm_9.40-s">
+      <!-- Spragnionemu -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,156,12)" xml:id="segm_9.27-seg"/>
+      <!-- wiadomości -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,169,10)" xml:id="segm_9.28-seg"/>
+      <!-- o -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,180,1)" xml:id="segm_9.29-seg"/>
+      <!-- swej -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,182,4)" xml:id="segm_9.30-seg"/>
+      <!-- miłej -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,187,5)" xml:id="segm_9.31-seg"/>
+      <!-- Kacprowi -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,193,8)" xml:id="segm_9.32-seg"/>
+      <!-- powtórzył -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,202,9)" xml:id="segm_9.33-seg"/>
+      <!-- wszystko -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,212,8)" xml:id="segm_9.34-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,220,1)" nkjp:nps="true" xml:id="segm_9.35-seg"/>
+      <!-- co -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,222,2)" xml:id="segm_9.36-seg"/>
+      <!-- mu -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,225,2)" xml:id="segm_9.37-seg"/>
+      <!-- Kryska -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,228,6)" xml:id="segm_9.38-seg"/>
+      <!-- poleciła -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,235,8)" xml:id="segm_9.39-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,243,1)" nkjp:nps="true" xml:id="segm_9.40-seg"/>
+     </s>
+     <s xml:id="segm_9.57-s">
+      <!-- Oprócz -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,245,6)" xml:id="segm_9.41-seg"/>
+      <!-- zapewnień -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,252,9)" xml:id="segm_9.42-seg"/>
+      <!-- wiernego -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,262,8)" xml:id="segm_9.43-seg"/>
+      <!-- uczucia -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,271,7)" xml:id="segm_9.44-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,278,1)" nkjp:nps="true" xml:id="segm_9.45-seg"/>
+      <!-- znajdowała -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,280,10)" xml:id="segm_9.46-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,291,3)" xml:id="segm_9.47-seg"/>
+      <!-- tam -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,295,3)" xml:id="segm_9.48-seg"/>
+      <!-- również -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,299,7)" xml:id="segm_9.49-seg"/>
+      <!-- podsłuchana -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,307,11)" xml:id="segm_9.50-seg"/>
+      <!-- opinia -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,319,6)" xml:id="segm_9.51-seg"/>
+      <!-- wojewodziny -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,326,11)" xml:id="segm_9.52-seg"/>
+      <!-- o -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,338,1)" xml:id="segm_9.53-seg"/>
+      <!-- przyczynie -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,340,10)" xml:id="segm_9.54-seg"/>
+      <!-- choroby -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,351,7)" xml:id="segm_9.55-seg"/>
+      <!-- Anusi -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,359,5)" xml:id="segm_9.56-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_9.1-ab,364,1)" nkjp:nps="true" xml:id="segm_9.57-seg"/>
+     </s>
+    </p>
+    <!-- segm_10-p is akapit 12751 with instances (akapit_transzy-s) 25489, 25504 in batches (transza-s) 2550, 2551 resp. -->
+    <p corresp="text.xml#txt_10-div" xml:id="segm_10-p">
+     <s xml:id="segm_10.8-s">
+      <!-- Przyklękli -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,0,10)" xml:id="segm_10.1-seg"/>
+      <!-- pobożnie -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,11,8)" xml:id="segm_10.2-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,20,1)" xml:id="segm_10.3-seg"/>
+      <!-- weszli -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,22,6)" xml:id="segm_10.4-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,29,2)" xml:id="segm_10.5-seg"/>
+      <!-- stopnie -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,32,7)" xml:id="segm_10.6-seg"/>
+      <!-- ołtarza -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,40,7)" xml:id="segm_10.7-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,47,1)" nkjp:nps="true" xml:id="segm_10.8-seg"/>
+     </s>
+     <s xml:id="segm_10.20-s">
+      <!-- Kaźmierz -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,49,8)" xml:id="segm_10.9-seg"/>
+      <!-- oddał -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,58,5)" xml:id="segm_10.10-seg"/>
+      <!-- stryjowi -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,64,8)" xml:id="segm_10.11-seg"/>
+      <!-- latarnię -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,73,8)" xml:id="segm_10.12-seg"/>
+      <!-- ; -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,81,1)" nkjp:nps="true" xml:id="segm_10.13-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,83,2)" xml:id="segm_10.14-seg"/>
+      <!-- ziemi -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,86,5)" xml:id="segm_10.15-seg"/>
+      <!-- położył -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,92,7)" xml:id="segm_10.16-seg"/>
+      <!-- podłużny -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,100,8)" xml:id="segm_10.17-seg"/>
+      <!-- wąski -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,109,5)" xml:id="segm_10.18-seg"/>
+      <!-- przedmiot -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,115,9)" xml:id="segm_10.19-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,124,1)" nkjp:nps="true" xml:id="segm_10.20-seg"/>
+     </s>
+     <s xml:id="segm_10.45-s">
+      <!-- Przedmiot -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,126,9)" xml:id="segm_10.21-seg"/>
+      <!-- ten -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,136,3)" xml:id="segm_10.22-seg"/>
+      <!-- wydał -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,140,5)" xml:id="segm_10.23-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,146,3)" xml:id="segm_10.24-seg"/>
+      <!-- panu -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,150,4)" xml:id="segm_10.25-seg"/>
+      <!-- Sapieże -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,155,7)" xml:id="segm_10.26-seg"/>
+      <!-- znajomy -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,163,7)" xml:id="segm_10.27-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,170,1)" nkjp:nps="true" xml:id="segm_10.28-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,172,3)" xml:id="segm_10.29-seg"/>
+      <!-- mógł -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,176,4)" xml:id="segm_10.30-seg"/>
+      <!-- jednak -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,181,6)" xml:id="segm_10.31-seg"/>
+      <!-- poznać -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,188,6)" xml:id="segm_10.32-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,194,1)" nkjp:nps="true" xml:id="segm_10.33-seg"/>
+      <!-- co -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,196,2)" xml:id="segm_10.34-seg"/>
+      <!-- by -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,199,2)" xml:id="segm_10.35-seg"/>
+      <!-- to -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,202,2)" xml:id="segm_10.36-seg"/>
+      <!-- było -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,205,4)" xml:id="segm_10.37-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,210,1)" xml:id="segm_10.38-seg"/>
+      <!-- skąd -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,212,4)" xml:id="segm_10.39-seg"/>
+      <!-- mu -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,217,2)" xml:id="segm_10.40-seg"/>
+      <!-- jest -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,220,4)" xml:id="segm_10.41-seg"/>
+      <!-- znane -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,225,5)" xml:id="segm_10.42-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,230,1)" nkjp:nps="true" xml:id="segm_10.43-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,231,1)" nkjp:nps="true" xml:id="segm_10.44-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,232,1)" nkjp:nps="true" xml:id="segm_10.45-seg"/>
+     </s>
+     <s xml:id="segm_10.51-s">
+      <!-- Syn -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,234,3)" xml:id="segm_10.46-seg"/>
+      <!-- usiłował -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,238,8)" xml:id="segm_10.47-seg"/>
+      <!-- wejść -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,247,5)" xml:id="segm_10.48-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,253,2)" xml:id="segm_10.49-seg"/>
+      <!-- ołtarz -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,256,6)" xml:id="segm_10.50-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,262,1)" nkjp:nps="true" xml:id="segm_10.51-seg"/>
+     </s>
+     <s xml:id="segm_10.67-s">
+      <!-- Wspinając -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,264,9)" xml:id="segm_10.52-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,274,3)" xml:id="segm_10.53-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,277,1)" nkjp:nps="true" xml:id="segm_10.54-seg"/>
+      <!-- potrącił -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,279,8)" xml:id="segm_10.55-seg"/>
+      <!-- nogą -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,288,4)" xml:id="segm_10.56-seg"/>
+      <!-- ów -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,293,2)" xml:id="segm_10.57-seg"/>
+      <!-- kształt -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,296,7)" xml:id="segm_10.58-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,303,1)" nkjp:nps="true" xml:id="segm_10.59-seg"/>
+      <!-- który -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,305,5)" xml:id="segm_10.60-seg"/>
+      <!-- stoczył -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,311,7)" xml:id="segm_10.61-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,319,3)" xml:id="segm_10.62-seg"/>
+      <!-- ze -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,323,2)" xml:id="segm_10.63-seg"/>
+      <!-- stopni -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,326,6)" xml:id="segm_10.64-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,332,1)" nkjp:nps="true" xml:id="segm_10.65-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,333,1)" nkjp:nps="true" xml:id="segm_10.66-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_10.1-ab,334,1)" nkjp:nps="true" xml:id="segm_10.67-seg"/>
+     </s>
+    </p>
+    <!-- segm_11-p is akapit 12752 with instances (akapit_transzy-s) 25490, 25505 in batches (transza-s) 2550, 2551 resp. -->
+    <p corresp="text.xml#txt_11-div" xml:id="segm_11-p">
+     <s xml:id="segm_11.14-s">
+      <!-- A -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,0,1)" xml:id="segm_11.1-seg"/>
+      <!-- przecie -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,2,7)" xml:id="segm_11.2-seg"/>
+      <!-- widział -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,10,7)" xml:id="segm_11.3-seg"/>
+      <!-- em -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,17,2)" nkjp:nps="true" xml:id="segm_11.4-seg"/>
+      <!-- ich -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,20,3)" xml:id="segm_11.5-seg"/>
+      <!-- przy -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,24,4)" xml:id="segm_11.6-seg"/>
+      <!-- ogniu -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,29,5)" xml:id="segm_11.7-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,34,1)" nkjp:nps="true" xml:id="segm_11.8-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,35,1)" nkjp:nps="true" xml:id="segm_11.9-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,36,1)" nkjp:nps="true" xml:id="segm_11.10-seg"/>
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,38,1)" xml:id="segm_11.11-seg"/>
+      <!-- myślał -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,40,6)" xml:id="segm_11.12-seg"/>
+      <!-- wojewoda -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,47,8)" xml:id="segm_11.13-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,55,1)" nkjp:nps="true" xml:id="segm_11.14-seg"/>
+     </s>
+     <s xml:id="segm_11.27-s">
+      <!-- Nie -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,57,3)" xml:id="segm_11.15-seg"/>
+      <!-- mówił -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,61,5)" xml:id="segm_11.16-seg"/>
+      <!-- nic -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,67,3)" xml:id="segm_11.17-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,70,1)" nkjp:nps="true" xml:id="segm_11.18-seg"/>
+      <!-- pozwalając -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,72,10)" xml:id="segm_11.19-seg"/>
+      <!-- biernie -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,83,7)" xml:id="segm_11.20-seg"/>
+      <!-- przenosić -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,91,9)" xml:id="segm_11.21-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,101,3)" xml:id="segm_11.22-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,104,1)" nkjp:nps="true" xml:id="segm_11.23-seg"/>
+      <!-- układać -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,106,7)" xml:id="segm_11.24-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,113,1)" nkjp:nps="true" xml:id="segm_11.25-seg"/>
+      <!-- okrywać -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,115,7)" xml:id="segm_11.26-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,122,1)" nkjp:nps="true" xml:id="segm_11.27-seg"/>
+     </s>
+     <s xml:id="segm_11.45-s">
+      <!-- Spieszyli -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,124,9)" xml:id="segm_11.28-seg"/>
+      <!-- wszyscy -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,134,7)" xml:id="segm_11.29-seg"/>
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,142,1)" xml:id="segm_11.30-seg"/>
+      <!-- kanonik -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,144,7)" xml:id="segm_11.31-seg"/>
+      <!-- Boćkowski -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,152,9)" xml:id="segm_11.32-seg"/>
+      <!-- zalecał -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,162,7)" xml:id="segm_11.33-seg"/>
+      <!-- pośpiech -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,170,8)" xml:id="segm_11.34-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,178,1)" nkjp:nps="true" xml:id="segm_11.35-seg"/>
+      <!-- pozorując -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,180,9)" xml:id="segm_11.36-seg"/>
+      <!-- jego -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,190,4)" xml:id="segm_11.37-seg"/>
+      <!-- potrzebę -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,195,8)" xml:id="segm_11.38-seg"/>
+      <!-- względem -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,204,8)" xml:id="segm_11.39-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,213,2)" xml:id="segm_11.40-seg"/>
+      <!-- zdrowie -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,216,7)" xml:id="segm_11.41-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,224,1)" xml:id="segm_11.42-seg"/>
+      <!-- wygodę -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,226,6)" xml:id="segm_11.43-seg"/>
+      <!-- pana -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,233,4)" xml:id="segm_11.44-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,237,1)" nkjp:nps="true" xml:id="segm_11.45-seg"/>
+     </s>
+     <s xml:id="segm_11.59-s">
+      <!-- Boi -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,239,3)" xml:id="segm_11.46-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,243,3)" xml:id="segm_11.47-seg"/>
+      <!-- gorzej -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,247,6)" xml:id="segm_11.48-seg"/>
+      <!-- ode -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,254,3)" xml:id="segm_11.49-seg"/>
+      <!-- mnie -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,258,4)" xml:id="segm_11.50-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,262,1)" nkjp:nps="true" xml:id="segm_11.51-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,263,1)" nkjp:nps="true" xml:id="segm_11.52-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,264,1)" nkjp:nps="true" xml:id="segm_11.53-seg"/>
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,266,1)" xml:id="segm_11.54-seg"/>
+      <!-- snuł -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,268,4)" xml:id="segm_11.55-seg"/>
+      <!-- swe -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,273,3)" xml:id="segm_11.56-seg"/>
+      <!-- rozważania -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,277,10)" xml:id="segm_11.57-seg"/>
+      <!-- wojewoda -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,288,8)" xml:id="segm_11.58-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,296,1)" nkjp:nps="true" xml:id="segm_11.59-seg"/>
+     </s>
+     <s xml:id="segm_11.74-s">
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,298,1)" xml:id="segm_11.60-seg"/>
+      <!-- Boi -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,300,3)" xml:id="segm_11.61-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,304,3)" xml:id="segm_11.62-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,307,1)" nkjp:nps="true" xml:id="segm_11.63-seg"/>
+      <!-- choć -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,309,4)" xml:id="segm_11.64-seg"/>
+      <!-- kapłan -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,314,6)" xml:id="segm_11.65-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,321,1)" xml:id="segm_11.66-seg"/>
+      <!-- Chrystusowe -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,323,11)" xml:id="segm_11.67-seg"/>
+      <!-- Ciało -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,335,5)" xml:id="segm_11.68-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,341,1)" xml:id="segm_11.69-seg"/>
+      <!-- ręce -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,343,4)" xml:id="segm_11.70-seg"/>
+      <!-- bierze -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,348,6)" xml:id="segm_11.71-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,354,1)" nkjp:nps="true" xml:id="segm_11.72-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,355,1)" nkjp:nps="true" xml:id="segm_11.73-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,356,1)" nkjp:nps="true" xml:id="segm_11.74-seg"/>
+     </s>
+     <s xml:id="segm_11.79-s">
+      <!-- Boi -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,358,3)" xml:id="segm_11.75-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,362,3)" xml:id="segm_11.76-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,365,1)" nkjp:nps="true" xml:id="segm_11.77-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,366,1)" nkjp:nps="true" xml:id="segm_11.78-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,367,1)" nkjp:nps="true" xml:id="segm_11.79-seg"/>
+     </s>
+     <s xml:id="segm_11.87-s">
+      <!-- Jakże -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,369,5)" xml:id="segm_11.80-seg"/>
+      <!-- to -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,375,2)" xml:id="segm_11.81-seg"/>
+      <!-- może -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,378,4)" xml:id="segm_11.82-seg"/>
+      <!-- być -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,383,3)" xml:id="segm_11.83-seg"/>
+      <!-- ? -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,386,1)" nkjp:nps="true" xml:id="segm_11.84-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,387,1)" nkjp:nps="true" xml:id="segm_11.85-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,388,1)" nkjp:nps="true" xml:id="segm_11.86-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,389,1)" nkjp:nps="true" xml:id="segm_11.87-seg"/>
+     </s>
+     <s xml:id="segm_11.91-s">
+      <choice>
+       <!-- Czyjeż -->
+       <seg corresp="text.xml#string-range(txt_11.1-ab,391,6)" nkjp:rejected="true" xml:id="segm_11.88-seg"/>
+       <nkjp:paren>
+        <!-- Czyje -->
+        <seg corresp="text.xml#string-range(txt_11.1-ab,391,5)" xml:id="segm_12752.914181-seg"/>
+        <!-- ż -->
+        <seg corresp="text.xml#string-range(txt_11.1-ab,396,1)" nkjp:nps="true" xml:id="segm_12752.914182-seg"/>
+       </nkjp:paren>
+      </choice>
+      <!-- tu -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,398,2)" xml:id="segm_11.89-seg"/>
+      <!-- panowanie -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,401,9)" xml:id="segm_11.90-seg"/>
+      <!-- ? -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,410,1)" nkjp:nps="true" xml:id="segm_11.91-seg"/>
+     </s>
+     <s xml:id="segm_11.96-s">
+      <!-- Boga -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,412,4)" xml:id="segm_11.92-seg"/>
+      <!-- czy -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,417,3)" xml:id="segm_11.93-seg"/>
+      <!-- pogańskiego -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,421,11)" xml:id="segm_11.94-seg"/>
+      <!-- bałwana -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,433,7)" xml:id="segm_11.95-seg"/>
+      <!-- ? -->
+      <seg corresp="text.xml#string-range(txt_11.1-ab,440,1)" nkjp:nps="true" xml:id="segm_11.96-seg"/>
+     </s>
+    </p>
+    <!-- segm_12-p is akapit 12753 with instances (akapit_transzy-s) 25491, 25506 in batches (transza-s) 2550, 2551 resp. -->
+    <p corresp="text.xml#txt_12-div" xml:id="segm_12-p">
+     <s xml:id="segm_12.13-s">
+      <!-- Kanonik -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,0,7)" xml:id="segm_12.1-seg"/>
+      <!-- widocznie -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,8,9)" xml:id="segm_12.2-seg"/>
+      <!-- wie -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,18,3)" xml:id="segm_12.3-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,21,1)" nkjp:nps="true" xml:id="segm_12.4-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,22,1)" nkjp:nps="true" xml:id="segm_12.5-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,23,1)" nkjp:nps="true" xml:id="segm_12.6-seg"/>
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,25,1)" xml:id="segm_12.7-seg"/>
+      <!-- przemknęło -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,27,10)" xml:id="segm_12.8-seg"/>
+      <!-- panu -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,38,4)" xml:id="segm_12.9-seg"/>
+      <!-- Sapieże -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,43,7)" xml:id="segm_12.10-seg"/>
+      <!-- przez -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,51,5)" xml:id="segm_12.11-seg"/>
+      <!-- głowę -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,57,5)" xml:id="segm_12.12-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,62,1)" nkjp:nps="true" xml:id="segm_12.13-seg"/>
+     </s>
+     <s xml:id="segm_12.16-s">
+      <!-- Otworzył -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,64,8)" xml:id="segm_12.14-seg"/>
+      <!-- oczy -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,73,4)" xml:id="segm_12.15-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,77,1)" nkjp:nps="true" xml:id="segm_12.16-seg"/>
+     </s>
+     <s xml:id="segm_12.22-s">
+      <!-- Łowczy -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,79,6)" xml:id="segm_12.17-seg"/>
+      <!-- pochylił -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,86,8)" xml:id="segm_12.18-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,95,3)" xml:id="segm_12.19-seg"/>
+      <!-- nad -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,99,3)" xml:id="segm_12.20-seg"/>
+      <!-- nim -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,103,3)" xml:id="segm_12.21-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,106,1)" nkjp:nps="true" xml:id="segm_12.22-seg"/>
+     </s>
+     <s xml:id="segm_12.26-s">
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,108,1)" xml:id="segm_12.23-seg"/>
+      <!-- Wasza -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,110,5)" xml:id="segm_12.24-seg"/>
+      <!-- Dostojność -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,116,10)" xml:id="segm_12.25-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,126,1)" nkjp:nps="true" xml:id="segm_12.26-seg"/>
+     </s>
+     <s xml:id="segm_12.29-s">
+      <!-- Zadymka -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,128,7)" xml:id="segm_12.27-seg"/>
+      <!-- ustała -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,136,6)" xml:id="segm_12.28-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,142,1)" nkjp:nps="true" xml:id="segm_12.29-seg"/>
+     </s>
+     <s xml:id="segm_12.41-s">
+      <!-- Śnieg -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,144,5)" xml:id="segm_12.30-seg"/>
+      <!-- wali -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,150,4)" xml:id="segm_12.31-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,154,1)" nkjp:nps="true" xml:id="segm_12.32-seg"/>
+      <!-- ale -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,156,3)" xml:id="segm_12.33-seg"/>
+      <!-- sanie -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,160,5)" xml:id="segm_12.34-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,166,1)" xml:id="segm_12.35-seg"/>
+      <!-- ludźmi -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,168,6)" xml:id="segm_12.36-seg"/>
+      <!-- pójdą -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,175,5)" xml:id="segm_12.37-seg"/>
+      <!-- przodem -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,181,7)" xml:id="segm_12.38-seg"/>
+      <!-- przetrzeć -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,189,9)" xml:id="segm_12.39-seg"/>
+      <!-- drogę -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,199,5)" xml:id="segm_12.40-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,204,1)" nkjp:nps="true" xml:id="segm_12.41-seg"/>
+     </s>
+     <s xml:id="segm_12.47-s">
+      <!-- Nosze -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,206,5)" xml:id="segm_12.42-seg"/>
+      <!-- wysłali -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,212,7)" xml:id="segm_12.43-seg"/>
+      <!-- śmy -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,219,3)" nkjp:nps="true" xml:id="segm_12.44-seg"/>
+      <!-- grzecznie -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,223,9)" xml:id="segm_12.45-seg"/>
+      <!-- kożuchem -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,233,8)" xml:id="segm_12.46-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,241,1)" nkjp:nps="true" xml:id="segm_12.47-seg"/>
+     </s>
+     <s xml:id="segm_12.57-s">
+      <!-- Z -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,243,1)" xml:id="segm_12.48-seg"/>
+      <!-- noszami -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,245,7)" xml:id="segm_12.49-seg"/>
+      <!-- wniesiem -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,253,8)" xml:id="segm_12.50-seg"/>
+      <!-- Waszą -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,262,5)" xml:id="segm_12.51-seg"/>
+      <!-- Dostojność -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,268,10)" xml:id="segm_12.52-seg"/>
+      <!-- do -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,279,2)" xml:id="segm_12.53-seg"/>
+      <!-- karety -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,282,6)" xml:id="segm_12.54-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,288,1)" nkjp:nps="true" xml:id="segm_12.55-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,289,1)" nkjp:nps="true" xml:id="segm_12.56-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,290,1)" nkjp:nps="true" xml:id="segm_12.57-seg"/>
+     </s>
+     <s xml:id="segm_12.59-s">
+      <!-- Prokop -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,292,6)" xml:id="segm_12.58-seg"/>
+      <!-- ! -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,298,1)" nkjp:nps="true" xml:id="segm_12.59-seg"/>
+     </s>
+     <s xml:id="segm_12.61-s">
+      <!-- Iwaś -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,300,4)" xml:id="segm_12.60-seg"/>
+      <!-- ! -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,304,1)" nkjp:nps="true" xml:id="segm_12.61-seg"/>
+     </s>
+     <s xml:id="segm_12.65-s">
+      <!-- Gdzież -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,306,6)" xml:id="segm_12.62-seg"/>
+      <!-- wy -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,313,2)" xml:id="segm_12.63-seg"/>
+      <!-- ? -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,315,1)" nkjp:nps="true" xml:id="segm_12.64-seg"/>
+      <!-- ! -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,316,1)" nkjp:nps="true" xml:id="segm_12.65-seg"/>
+     </s>
+     <s xml:id="segm_12.85-s">
+      <!-- Obaj -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,318,4)" xml:id="segm_12.66-seg"/>
+      <!-- wezwani -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,323,7)" xml:id="segm_12.67-seg"/>
+      <!-- zjawili -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,331,7)" xml:id="segm_12.68-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,339,3)" xml:id="segm_12.69-seg"/>
+      <!-- natychmiast -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,343,11)" xml:id="segm_12.70-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,354,1)" nkjp:nps="true" xml:id="segm_12.71-seg"/>
+      <!-- przecierając -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,356,12)" xml:id="segm_12.72-seg"/>
+      <!-- oczy -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,369,4)" xml:id="segm_12.73-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,374,1)" xml:id="segm_12.74-seg"/>
+      <!-- wyjaśniając -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,376,11)" xml:id="segm_12.75-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,387,1)" nkjp:nps="true" xml:id="segm_12.76-seg"/>
+      <!-- że -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,389,2)" xml:id="segm_12.77-seg"/>
+      <!-- ułożywszy -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,392,9)" xml:id="segm_12.78-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,402,3)" xml:id="segm_12.79-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,406,1)" xml:id="segm_12.80-seg"/>
+      <!-- chlewie -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,408,7)" xml:id="segm_12.81-seg"/>
+      <!-- przy -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,416,4)" xml:id="segm_12.82-seg"/>
+      <!-- krowie -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,421,6)" xml:id="segm_12.83-seg"/>
+      <!-- zaspali -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,428,7)" xml:id="segm_12.84-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_12.1-ab,435,1)" nkjp:nps="true" xml:id="segm_12.85-seg"/>
+     </s>
+    </p>
+    <!-- segm_13-p is akapit 12754 with instances (akapit_transzy-s) 25492, 25512 in batches (transza-s) 2550, 2552 resp. -->
+    <p corresp="text.xml#txt_13-div" xml:id="segm_13-p">
+     <s xml:id="segm_13.5-s">
+      <!-- Ta -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,0,2)" xml:id="segm_13.1-seg"/>
+      <!-- wiadomość -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,3,9)" xml:id="segm_13.2-seg"/>
+      <!-- była -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,13,4)" xml:id="segm_13.3-seg"/>
+      <!-- ciosem -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,18,6)" xml:id="segm_13.4-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,24,1)" nkjp:nps="true" xml:id="segm_13.5-seg"/>
+     </s>
+     <s xml:id="segm_13.13-s">
+      <!-- Więc -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,26,4)" xml:id="segm_13.6-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,31,1)" xml:id="segm_13.7-seg"/>
+      <!-- o -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,33,1)" xml:id="segm_13.8-seg"/>
+      <!-- wykradzeniu -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,35,11)" xml:id="segm_13.9-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,47,3)" xml:id="segm_13.10-seg"/>
+      <!-- ma -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,51,2)" xml:id="segm_13.11-seg"/>
+      <!-- mowy -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,54,4)" xml:id="segm_13.12-seg"/>
+      <!-- ! -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,58,1)" nkjp:nps="true" xml:id="segm_13.13-seg"/>
+     </s>
+     <s xml:id="segm_13.25-s">
+      <!-- Jedyną -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,60,6)" xml:id="segm_13.14-seg"/>
+      <!-- nadzieją -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,67,8)" xml:id="segm_13.15-seg"/>
+      <!-- mogło -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,76,5)" xml:id="segm_13.16-seg"/>
+      <!-- być -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,82,3)" xml:id="segm_13.17-seg"/>
+      <!-- porwanie -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,86,8)" xml:id="segm_13.18-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,95,1)" xml:id="segm_13.19-seg"/>
+      <!-- drodze -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,97,6)" xml:id="segm_13.20-seg"/>
+      <!-- pomiędzy -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,104,8)" xml:id="segm_13.21-seg"/>
+      <!-- Kodniem -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,113,7)" xml:id="segm_13.22-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,121,1)" xml:id="segm_13.23-seg"/>
+      <!-- Łuckiem -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,123,7)" xml:id="segm_13.24-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,130,1)" nkjp:nps="true" xml:id="segm_13.25-seg"/>
+     </s>
+     <s xml:id="segm_13.30-s">
+      <!-- Nadzieja -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,132,8)" xml:id="segm_13.26-seg"/>
+      <!-- ta -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,141,2)" xml:id="segm_13.27-seg"/>
+      <!-- jakże -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,144,5)" xml:id="segm_13.28-seg"/>
+      <!-- słaba -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,150,5)" xml:id="segm_13.29-seg"/>
+      <!-- ! -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,155,1)" nkjp:nps="true" xml:id="segm_13.30-seg"/>
+     </s>
+     <s xml:id="segm_13.37-s">
+      <!-- Anusia -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,157,6)" xml:id="segm_13.31-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,164,3)" xml:id="segm_13.32-seg"/>
+      <!-- wyjedzie -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,168,8)" xml:id="segm_13.33-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,177,1)" xml:id="segm_13.34-seg"/>
+      <!-- zakonnicami -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,179,11)" xml:id="segm_13.35-seg"/>
+      <!-- samotrzeć -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,191,9)" xml:id="segm_13.36-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,200,1)" nkjp:nps="true" xml:id="segm_13.37-seg"/>
+     </s>
+     <s xml:id="segm_13.45-s">
+      <!-- Wojewoda -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,202,8)" xml:id="segm_13.38-seg"/>
+      <!-- doda -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,211,4)" xml:id="segm_13.39-seg"/>
+      <!-- jej -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,216,3)" xml:id="segm_13.40-seg"/>
+      <!-- dla -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,220,3)" xml:id="segm_13.41-seg"/>
+      <!-- splendoru -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,224,9)" xml:id="segm_13.42-seg"/>
+      <!-- nieszczupły -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,234,11)" xml:id="segm_13.43-seg"/>
+      <!-- taborek -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,246,7)" xml:id="segm_13.44-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,253,1)" nkjp:nps="true" xml:id="segm_13.45-seg"/>
+     </s>
+     <s xml:id="segm_13.56-s">
+      <!-- Daremnie -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,255,8)" xml:id="segm_13.46-seg"/>
+      <!-- próbować -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,264,8)" xml:id="segm_13.47-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,272,1)" nkjp:nps="true" xml:id="segm_13.48-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,274,3)" xml:id="segm_13.49-seg"/>
+      <!-- mając -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,278,5)" xml:id="segm_13.50-seg"/>
+      <!-- ze -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,284,2)" xml:id="segm_13.51-seg"/>
+      <!-- sobą -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,287,4)" xml:id="segm_13.52-seg"/>
+      <!-- kilkunastu -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,292,10)" xml:id="segm_13.53-seg"/>
+      <!-- tęgich -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,303,6)" xml:id="segm_13.54-seg"/>
+      <!-- zbrojnych -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,310,9)" xml:id="segm_13.55-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_13.1-ab,319,1)" nkjp:nps="true" xml:id="segm_13.56-seg"/>
+     </s>
+    </p>
+    <!-- segm_14-p is akapit 12755 with instances (akapit_transzy-s) 25493, 25513 in batches (transza-s) 2550, 2552 resp. -->
+    <p corresp="text.xml#txt_14-div" xml:id="segm_14-p">
+     <s xml:id="segm_14.25-s">
+      <!-- Tę -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,0,2)" xml:id="segm_14.1-seg"/>
+      <!-- chwałę -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,3,6)" xml:id="segm_14.2-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,9,1)" nkjp:nps="true" xml:id="segm_14.3-seg"/>
+      <!-- tę -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,11,2)" xml:id="segm_14.4-seg"/>
+      <!-- moc -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,14,3)" xml:id="segm_14.5-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,17,1)" nkjp:nps="true" xml:id="segm_14.6-seg"/>
+      <!-- ten -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,19,3)" xml:id="segm_14.7-seg"/>
+      <!-- czar -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,23,4)" xml:id="segm_14.8-seg"/>
+      <!-- macierzyński -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,28,12)" xml:id="segm_14.9-seg"/>
+      <!-- każdy -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,41,5)" xml:id="segm_14.10-seg"/>
+      <!-- człowiek -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,47,8)" xml:id="segm_14.11-seg"/>
+      <!-- ujrzy -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,56,5)" xml:id="segm_14.12-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,62,3)" xml:id="segm_14.13-seg"/>
+      <!-- przez -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,66,5)" xml:id="segm_14.14-seg"/>
+      <!-- wizerunek -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,72,9)" xml:id="segm_14.15-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,81,1)" nkjp:nps="true" xml:id="segm_14.16-seg"/>
+      <!-- lecz -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,83,4)" xml:id="segm_14.17-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,88,1)" xml:id="segm_14.18-seg"/>
+      <!-- rzeczywistości -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,90,14)" xml:id="segm_14.19-seg"/>
+      <!-- swojej -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,105,6)" xml:id="segm_14.20-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,111,1)" nkjp:nps="true" xml:id="segm_14.21-seg"/>
+      <!-- gdy -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,113,3)" xml:id="segm_14.22-seg"/>
+      <!-- będzie -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,117,6)" xml:id="segm_14.23-seg"/>
+      <!-- zbawiony -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,124,8)" xml:id="segm_14.24-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,132,1)" nkjp:nps="true" xml:id="segm_14.25-seg"/>
+     </s>
+     <s xml:id="segm_14.50-s">
+      <!-- Na -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,134,2)" xml:id="segm_14.26-seg"/>
+      <!-- to -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,137,2)" xml:id="segm_14.27-seg"/>
+      <!-- uprzytomnienie -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,140,14)" xml:id="segm_14.28-seg"/>
+      <!-- dusza -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,155,5)" xml:id="segm_14.29-seg"/>
+      <!-- pana -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,161,4)" xml:id="segm_14.30-seg"/>
+      <!-- Sapiehy -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,166,7)" xml:id="segm_14.31-seg"/>
+      <!-- wyszła -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,174,6)" xml:id="segm_14.32-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,181,1)" xml:id="segm_14.33-seg"/>
+      <!-- ciała -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,183,5)" xml:id="segm_14.34-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,189,1)" xml:id="segm_14.35-seg"/>
+      <!-- jęła -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,191,4)" xml:id="segm_14.36-seg"/>
+      <!-- prosić -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,196,6)" xml:id="segm_14.37-seg"/>
+      <!-- Boga -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,203,4)" xml:id="segm_14.38-seg"/>
+      <!-- o -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,208,1)" xml:id="segm_14.39-seg"/>
+      <!-- rychłą -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,210,6)" xml:id="segm_14.40-seg"/>
+      <!-- śmierć -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,217,6)" xml:id="segm_14.41-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,223,1)" nkjp:nps="true" xml:id="segm_14.42-seg"/>
+      <!-- by -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,225,2)" xml:id="segm_14.43-seg"/>
+      <!-- prędzej -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,228,7)" xml:id="segm_14.44-seg"/>
+      <!-- tego -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,236,4)" xml:id="segm_14.45-seg"/>
+      <!-- szczęścia -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,241,9)" xml:id="segm_14.46-seg"/>
+      <!-- dostąpić -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,251,8)" xml:id="segm_14.47-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,259,1)" nkjp:nps="true" xml:id="segm_14.48-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,260,1)" nkjp:nps="true" xml:id="segm_14.49-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_14.1-ab,261,1)" nkjp:nps="true" xml:id="segm_14.50-seg"/>
+     </s>
+    </p>
+    <!-- segm_15-p is akapit 12756 with instances (akapit_transzy-s) 25494, 25514 in batches (transza-s) 2550, 2552 resp. -->
+    <p corresp="text.xml#txt_15-div" xml:id="segm_15-p">
+     <s xml:id="segm_15.20-s">
+      <!-- " -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,0,1)" xml:id="segm_15.1-seg"/>
+      <!-- Pamiętaj -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,1,8)" nkjp:nps="true" xml:id="segm_15.2-seg"/>
+      <!-- tylko -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,10,5)" xml:id="segm_15.3-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,15,1)" nkjp:nps="true" xml:id="segm_15.4-seg"/>
+      <!-- że -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,17,2)" xml:id="segm_15.5-seg"/>
+      <!-- to -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,20,2)" xml:id="segm_15.6-seg"/>
+      <!-- Matka -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,23,5)" xml:id="segm_15.7-seg"/>
+      <!-- nasza -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,29,5)" xml:id="segm_15.8-seg"/>
+      <!-- " -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,34,1)" nkjp:nps="true" xml:id="segm_15.9-seg"/>
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,36,1)" xml:id="segm_15.10-seg"/>
+      <!-- stanęły -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,38,7)" xml:id="segm_15.11-seg"/>
+      <!-- znów -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,46,4)" xml:id="segm_15.12-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,51,1)" xml:id="segm_15.13-seg"/>
+      <!-- pamięci -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,53,7)" xml:id="segm_15.14-seg"/>
+      <!-- słowa -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,61,5)" xml:id="segm_15.15-seg"/>
+      <!-- sędziwego -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,67,9)" xml:id="segm_15.16-seg"/>
+      <!-- kardynała -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,77,9)" xml:id="segm_15.17-seg"/>
+      <!-- de -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,87,2)" xml:id="segm_15.18-seg"/>
+      <!-- Torres -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,90,6)" xml:id="segm_15.19-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,96,1)" nkjp:nps="true" xml:id="segm_15.20-seg"/>
+     </s>
+     <s xml:id="segm_15.31-s">
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,98,1)" xml:id="segm_15.21-seg"/>
+      <!-- Matko -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,100,5)" xml:id="segm_15.22-seg"/>
+      <!-- ! -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,105,1)" nkjp:nps="true" xml:id="segm_15.23-seg"/>
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,107,1)" xml:id="segm_15.24-seg"/>
+      <!-- zawołał -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,109,7)" xml:id="segm_15.25-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,116,1)" nkjp:nps="true" xml:id="segm_15.26-seg"/>
+      <!-- padając -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,118,7)" xml:id="segm_15.27-seg"/>
+      <!-- czołem -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,126,6)" xml:id="segm_15.28-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,133,2)" xml:id="segm_15.29-seg"/>
+      <!-- posadzkę -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,136,8)" xml:id="segm_15.30-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,144,1)" nkjp:nps="true" xml:id="segm_15.31-seg"/>
+     </s>
+     <s xml:id="segm_15.43-s">
+      <!-- Świeca -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,146,6)" xml:id="segm_15.32-seg"/>
+      <!-- wypadła -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,153,7)" xml:id="segm_15.33-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,161,1)" xml:id="segm_15.34-seg"/>
+      <!-- palców -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,163,6)" xml:id="segm_15.35-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,169,1)" nkjp:nps="true" xml:id="segm_15.36-seg"/>
+      <!-- potoczyła -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,171,9)" xml:id="segm_15.37-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,181,3)" xml:id="segm_15.38-seg"/>
+      <!-- po -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,185,2)" xml:id="segm_15.39-seg"/>
+      <!-- kamieniach -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,188,10)" xml:id="segm_15.40-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,199,1)" xml:id="segm_15.41-seg"/>
+      <!-- zgasła -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,201,6)" xml:id="segm_15.42-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,207,1)" nkjp:nps="true" xml:id="segm_15.43-seg"/>
+     </s>
+     <s xml:id="segm_15.55-s">
+      <!-- Pan -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,209,3)" xml:id="segm_15.44-seg"/>
+      <!-- Sapieha -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,213,7)" xml:id="segm_15.45-seg"/>
+      <!-- tego -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,221,4)" xml:id="segm_15.46-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,226,3)" xml:id="segm_15.47-seg"/>
+      <!-- zauważył -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,230,8)" xml:id="segm_15.48-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,238,1)" nkjp:nps="true" xml:id="segm_15.49-seg"/>
+      <!-- czując -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,240,6)" xml:id="segm_15.50-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,247,3)" xml:id="segm_15.51-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,251,1)" xml:id="segm_15.52-seg"/>
+      <!-- kręgu -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,253,5)" xml:id="segm_15.53-seg"/>
+      <!-- jasności -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,259,8)" xml:id="segm_15.54-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_15.1-ab,267,1)" nkjp:nps="true" xml:id="segm_15.55-seg"/>
+     </s>
+    </p>
+    <!-- segm_16-p is akapit 12757 with instances (akapit_transzy-s) 25495, 25515 in batches (transza-s) 2550, 2552 resp. -->
+    <p corresp="text.xml#txt_16-div" xml:id="segm_16-p">
+     <s xml:id="segm_16.16-s">
+      <!-- Nie -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,0,3)" xml:id="segm_16.1-seg"/>
+      <!-- dziw -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,4,4)" xml:id="segm_16.2-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,8,1)" nkjp:nps="true" xml:id="segm_16.3-seg"/>
+      <!-- że -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,10,2)" xml:id="segm_16.4-seg"/>
+      <!-- ogarnięty -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,13,9)" xml:id="segm_16.5-seg"/>
+      <!-- tymi -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,23,4)" xml:id="segm_16.6-seg"/>
+      <!-- myślami -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,28,7)" xml:id="segm_16.7-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,36,3)" xml:id="segm_16.8-seg"/>
+      <!-- słyszał -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,40,7)" xml:id="segm_16.9-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,47,1)" nkjp:nps="true" xml:id="segm_16.10-seg"/>
+      <!-- co -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,49,2)" xml:id="segm_16.11-seg"/>
+      <!-- do -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,52,2)" xml:id="segm_16.12-seg"/>
+      <!-- ń -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,54,1)" nkjp:nps="true" xml:id="segm_16.13-seg"/>
+      <!-- mówili -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,56,6)" xml:id="segm_16.14-seg"/>
+      <!-- prałaci -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,63,7)" xml:id="segm_16.15-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,70,1)" nkjp:nps="true" xml:id="segm_16.16-seg"/>
+     </s>
+     <s xml:id="segm_16.32-s">
+      <!-- Zdumiał -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,72,7)" xml:id="segm_16.17-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,80,3)" xml:id="segm_16.18-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,83,1)" nkjp:nps="true" xml:id="segm_16.19-seg"/>
+      <!-- gdy -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,85,3)" xml:id="segm_16.20-seg"/>
+      <!-- schody -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,89,6)" xml:id="segm_16.21-seg"/>
+      <!-- wywiodły -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,96,8)" xml:id="segm_16.22-seg"/>
+      <!-- ich -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,105,3)" xml:id="segm_16.23-seg"/>
+      <!-- nagle -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,109,5)" xml:id="segm_16.24-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,115,1)" xml:id="segm_16.25-seg"/>
+      <!-- mroku -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,117,5)" xml:id="segm_16.26-seg"/>
+      <!-- murów -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,123,5)" xml:id="segm_16.27-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,129,2)" xml:id="segm_16.28-seg"/>
+      <!-- taras -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,132,5)" xml:id="segm_16.29-seg"/>
+      <!-- zalany -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,138,6)" xml:id="segm_16.30-seg"/>
+      <!-- słońcem -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,145,7)" xml:id="segm_16.31-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,152,1)" nkjp:nps="true" xml:id="segm_16.32-seg"/>
+     </s>
+     <s xml:id="segm_16.39-s">
+      <!-- Kardynał -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,154,8)" xml:id="segm_16.33-seg"/>
+      <!-- padrone -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,163,7)" xml:id="segm_16.34-seg"/>
+      <!-- szedł -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,171,5)" xml:id="segm_16.35-seg"/>
+      <!-- już -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,177,3)" xml:id="segm_16.36-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,181,2)" xml:id="segm_16.37-seg"/>
+      <!-- spotkanie -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,184,9)" xml:id="segm_16.38-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,193,1)" nkjp:nps="true" xml:id="segm_16.39-seg"/>
+     </s>
+     <s xml:id="segm_16.51-s">
+      <!-- Należało -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,195,8)" xml:id="segm_16.40-seg"/>
+      <!-- wziąć -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,204,5)" xml:id="segm_16.41-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,210,3)" xml:id="segm_16.42-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,214,1)" xml:id="segm_16.43-seg"/>
+      <!-- kupę -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,216,4)" xml:id="segm_16.44-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,221,1)" xml:id="segm_16.45-seg"/>
+      <!-- bez -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,223,3)" xml:id="segm_16.46-seg"/>
+      <!-- błędu -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,227,5)" xml:id="segm_16.47-seg"/>
+      <!-- wypowiedzieć -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,233,12)" xml:id="segm_16.48-seg"/>
+      <!-- przygotowaną -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,246,12)" xml:id="segm_16.49-seg"/>
+      <!-- orację -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,259,6)" xml:id="segm_16.50-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_16.1-ab,265,1)" nkjp:nps="true" xml:id="segm_16.51-seg"/>
+     </s>
+    </p>
+    <!-- segm_17-p is akapit 12758 with instances (akapit_transzy-s) 25496, 25516 in batches (transza-s) 2550, 2552 resp. -->
+    <p corresp="text.xml#txt_17-div" xml:id="segm_17-p">
+     <s xml:id="segm_17.7-s">
+      <!-- Palący -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,0,6)" xml:id="segm_17.1-seg"/>
+      <!-- wstyd -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,7,5)" xml:id="segm_17.2-seg"/>
+      <!-- zagórował -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,13,9)" xml:id="segm_17.3-seg"/>
+      <!-- nad -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,23,3)" xml:id="segm_17.4-seg"/>
+      <!-- uczuciem -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,27,8)" xml:id="segm_17.5-seg"/>
+      <!-- lęku -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,36,4)" xml:id="segm_17.6-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,40,1)" nkjp:nps="true" xml:id="segm_17.7-seg"/>
+     </s>
+     <s xml:id="segm_17.17-s">
+      <!-- Któż -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,42,4)" xml:id="segm_17.8-seg"/>
+      <!-- winien -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,47,6)" xml:id="segm_17.9-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,53,1)" nkjp:nps="true" xml:id="segm_17.10-seg"/>
+      <!-- któż -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,55,4)" xml:id="segm_17.11-seg"/>
+      <!-- odpowiada -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,60,9)" xml:id="segm_17.12-seg"/>
+      <!-- za -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,70,2)" xml:id="segm_17.13-seg"/>
+      <!-- podobny -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,73,7)" xml:id="segm_17.14-seg"/>
+      <!-- stan -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,81,4)" xml:id="segm_17.15-seg"/>
+      <!-- rzeczy -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,86,6)" xml:id="segm_17.16-seg"/>
+      <!-- ? -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,92,1)" nkjp:nps="true" xml:id="segm_17.17-seg"/>
+     </s>
+     <s xml:id="segm_17.38-s">
+      <!-- Czyż -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,94,4)" xml:id="segm_17.18-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,99,3)" xml:id="segm_17.19-seg"/>
+      <!-- on -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,103,2)" xml:id="segm_17.20-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,105,1)" nkjp:nps="true" xml:id="segm_17.21-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,107,1)" xml:id="segm_17.22-seg"/>
+      <!-- dziada -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,109,6)" xml:id="segm_17.23-seg"/>
+      <!-- pradziada -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,116,9)" xml:id="segm_17.24-seg"/>
+      <!-- dziedzic -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,126,8)" xml:id="segm_17.25-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,135,1)" xml:id="segm_17.26-seg"/>
+      <!-- pan -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,137,3)" xml:id="segm_17.27-seg"/>
+      <!-- tej -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,141,3)" xml:id="segm_17.28-seg"/>
+      <!-- ziemi -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,145,5)" xml:id="segm_17.29-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,150,1)" nkjp:nps="true" xml:id="segm_17.30-seg"/>
+      <!-- obowiązany -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,152,10)" xml:id="segm_17.31-seg"/>
+      <!-- dbać -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,163,4)" xml:id="segm_17.32-seg"/>
+      <!-- o -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,168,1)" xml:id="segm_17.33-seg"/>
+      <!-- dusze -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,170,5)" xml:id="segm_17.34-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,176,1)" xml:id="segm_17.35-seg"/>
+      <!-- ciała -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,178,5)" xml:id="segm_17.36-seg"/>
+      <!-- poddanych -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,184,9)" xml:id="segm_17.37-seg"/>
+      <!-- ? -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,193,1)" nkjp:nps="true" xml:id="segm_17.38-seg"/>
+     </s>
+     <s xml:id="segm_17.51-s">
+      <!-- Jakżeż -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,195,6)" xml:id="segm_17.39-seg"/>
+      <!-- znał -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,202,4)" xml:id="segm_17.40-seg"/>
+      <!-- tę -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,207,2)" xml:id="segm_17.41-seg"/>
+      <!-- własną -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,210,6)" xml:id="segm_17.42-seg"/>
+      <!-- dziedzinę -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,217,9)" xml:id="segm_17.43-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,226,1)" nkjp:nps="true" xml:id="segm_17.44-seg"/>
+      <!-- skoro -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,228,5)" xml:id="segm_17.45-seg"/>
+      <!-- podobne -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,234,7)" xml:id="segm_17.46-seg"/>
+      <!-- odkrycie -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,242,8)" xml:id="segm_17.47-seg"/>
+      <!-- było -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,251,4)" xml:id="segm_17.48-seg"/>
+      <!-- możliwe -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,256,7)" xml:id="segm_17.49-seg"/>
+      <!-- ? -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,263,1)" nkjp:nps="true" xml:id="segm_17.50-seg"/>
+      <!-- ! -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,264,1)" nkjp:nps="true" xml:id="segm_17.51-seg"/>
+     </s>
+     <s xml:id="segm_17.64-s">
+      <!-- I -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,266,1)" xml:id="segm_17.52-seg"/>
+      <!-- jakże -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,268,5)" xml:id="segm_17.53-seg"/>
+      <!-- straszna -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,274,8)" xml:id="segm_17.54-seg"/>
+      <!-- jest -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,283,4)" xml:id="segm_17.55-seg"/>
+      <!-- rzeczywistość -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,288,13)" xml:id="segm_17.56-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,301,1)" nkjp:nps="true" xml:id="segm_17.57-seg"/>
+      <!-- gdy -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,303,3)" xml:id="segm_17.58-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,307,1)" xml:id="segm_17.59-seg"/>
+      <!-- nią -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,309,3)" xml:id="segm_17.60-seg"/>
+      <!-- głębiej -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,313,7)" xml:id="segm_17.61-seg"/>
+      <!-- wzrok -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,321,5)" xml:id="segm_17.62-seg"/>
+      <!-- zapuścić -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,327,8)" xml:id="segm_17.63-seg"/>
+      <!-- ! -->
+      <seg corresp="text.xml#string-range(txt_17.1-ab,335,1)" nkjp:nps="true" xml:id="segm_17.64-seg"/>
+     </s>
+    </p>
+    <!-- segm_18-p is akapit 12759 with instances (akapit_transzy-s) 25517, 25537 in batches (transza-s) 2553, 2555 resp. -->
+    <p corresp="text.xml#txt_18-div" xml:id="segm_18-p">
+     <s xml:id="segm_18.9-s">
+      <!-- Marszałek -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,0,9)" xml:id="segm_18.1-seg"/>
+      <!-- sejmowy -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,10,7)" xml:id="segm_18.2-seg"/>
+      <!-- zamilkł -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,18,7)" xml:id="segm_18.3-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,26,1)" xml:id="segm_18.4-seg"/>
+      <!-- spojrzał -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,28,8)" xml:id="segm_18.5-seg"/>
+      <!-- wyczekująco -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,37,11)" xml:id="segm_18.6-seg"/>
+      <!-- po -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,49,2)" xml:id="segm_18.7-seg"/>
+      <!-- obecnych -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,52,8)" xml:id="segm_18.8-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,60,1)" nkjp:nps="true" xml:id="segm_18.9-seg"/>
+     </s>
+     <s xml:id="segm_18.28-s">
+      <!-- Lecz -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,62,4)" xml:id="segm_18.10-seg"/>
+      <!-- oni -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,67,3)" xml:id="segm_18.11-seg"/>
+      <!-- milczeli -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,71,8)" xml:id="segm_18.12-seg"/>
+      <!-- również -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,80,7)" xml:id="segm_18.13-seg"/>
+      <!-- ogarnięci -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,88,9)" xml:id="segm_18.14-seg"/>
+      <!-- właściwą -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,98,8)" xml:id="segm_18.15-seg"/>
+      <!-- powszechności -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,107,13)" xml:id="segm_18.16-seg"/>
+      <!-- niechęcią -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,121,9)" xml:id="segm_18.17-seg"/>
+      <!-- do -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,131,2)" xml:id="segm_18.18-seg"/>
+      <!-- wyjawienia -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,134,10)" xml:id="segm_18.19-seg"/>
+      <!-- swej -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,145,4)" xml:id="segm_18.20-seg"/>
+      <!-- opinii -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,150,6)" xml:id="segm_18.21-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,156,1)" nkjp:nps="true" xml:id="segm_18.22-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,158,3)" xml:id="segm_18.23-seg"/>
+      <!-- poznawszy -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,162,9)" xml:id="segm_18.24-seg"/>
+      <!-- wprzód -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,172,6)" xml:id="segm_18.25-seg"/>
+      <!-- opinii -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,179,6)" xml:id="segm_18.26-seg"/>
+      <!-- drugich -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,186,7)" xml:id="segm_18.27-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,193,1)" nkjp:nps="true" xml:id="segm_18.28-seg"/>
+     </s>
+     <s xml:id="segm_18.37-s">
+      <!-- Niech -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,195,5)" xml:id="segm_18.29-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,201,3)" xml:id="segm_18.30-seg"/>
+      <!-- kto -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,205,3)" xml:id="segm_18.31-seg"/>
+      <!-- inny -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,209,4)" xml:id="segm_18.32-seg"/>
+      <!-- pierwszy -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,214,8)" xml:id="segm_18.33-seg"/>
+      <!-- wypowie -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,223,7)" xml:id="segm_18.34-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,230,1)" nkjp:nps="true" xml:id="segm_18.35-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,231,1)" nkjp:nps="true" xml:id="segm_18.36-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,232,1)" nkjp:nps="true" xml:id="segm_18.37-seg"/>
+     </s>
+     <s xml:id="segm_18.49-s">
+      <!-- Sprzeciw -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,234,8)" xml:id="segm_18.38-seg"/>
+      <!-- będzie -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,243,6)" xml:id="segm_18.39-seg"/>
+      <!-- trudny -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,250,6)" xml:id="segm_18.40-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,256,1)" nkjp:nps="true" xml:id="segm_18.41-seg"/>
+      <!-- bo -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,258,2)" xml:id="segm_18.42-seg"/>
+      <!-- Miłościwemu -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,261,11)" xml:id="segm_18.43-seg"/>
+      <!-- bardzo -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,273,6)" xml:id="segm_18.44-seg"/>
+      <!-- widać -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,280,5)" xml:id="segm_18.45-seg"/>
+      <!-- zależy -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,286,6)" xml:id="segm_18.46-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,293,2)" xml:id="segm_18.47-seg"/>
+      <!-- palatynównie -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,296,12)" xml:id="segm_18.48-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,308,1)" nkjp:nps="true" xml:id="segm_18.49-seg"/>
+     </s>
+     <s xml:id="segm_18.56-s">
+      <!-- Aż -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,310,2)" xml:id="segm_18.50-seg"/>
+      <!-- króla -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,313,5)" xml:id="segm_18.51-seg"/>
+      <!-- angielskiego -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,319,12)" xml:id="segm_18.52-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,332,1)" xml:id="segm_18.53-seg"/>
+      <!-- flotą -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,334,5)" xml:id="segm_18.54-seg"/>
+      <!-- wysuwa -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,340,6)" xml:id="segm_18.55-seg"/>
+      <!-- ! -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,346,1)" nkjp:nps="true" xml:id="segm_18.56-seg"/>
+     </s>
+     <s xml:id="segm_18.69-s">
+      <!-- Jak -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,348,3)" xml:id="segm_18.57-seg"/>
+      <!-- gdyby -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,352,5)" xml:id="segm_18.58-seg"/>
+      <!-- flota -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,358,5)" xml:id="segm_18.59-seg"/>
+      <!-- brytyjska -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,364,9)" xml:id="segm_18.60-seg"/>
+      <!-- mogła -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,374,5)" xml:id="segm_18.61-seg"/>
+      <!-- co -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,380,2)" xml:id="segm_18.62-seg"/>
+      <!-- pomóc -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,383,5)" xml:id="segm_18.63-seg"/>
+      <!-- przeciw -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,389,7)" xml:id="segm_18.64-seg"/>
+      <!-- Moskwie -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,397,7)" xml:id="segm_18.65-seg"/>
+      <!-- lub -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,405,3)" xml:id="segm_18.66-seg"/>
+      <!-- Wysokiej -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,409,8)" xml:id="segm_18.67-seg"/>
+      <!-- Porcie -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,418,6)" xml:id="segm_18.68-seg"/>
+      <!-- ! -->
+      <seg corresp="text.xml#string-range(txt_18.1-ab,424,1)" nkjp:nps="true" xml:id="segm_18.69-seg"/>
+     </s>
+    </p>
+    <!-- segm_19-p is akapit 12760 with instances (akapit_transzy-s) 25518, 25538 in batches (transza-s) 2553, 2555 resp. -->
+    <p corresp="text.xml#txt_19-div" xml:id="segm_19-p">
+     <s xml:id="segm_19.26-s">
+      <!-- Odwrócił -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,0,8)" xml:id="segm_19.1-seg"/>
+      <!-- głowę -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,9,5)" xml:id="segm_19.2-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,14,1)" nkjp:nps="true" xml:id="segm_19.3-seg"/>
+      <!-- by -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,16,2)" xml:id="segm_19.4-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,19,3)" xml:id="segm_19.5-seg"/>
+      <!-- widziano -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,23,8)" xml:id="segm_19.6-seg"/>
+      <!-- łez -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,32,3)" xml:id="segm_19.7-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,35,1)" nkjp:nps="true" xml:id="segm_19.8-seg"/>
+      <!-- które -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,37,5)" xml:id="segm_19.9-seg"/>
+      <!-- stanęły -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,43,7)" xml:id="segm_19.10-seg"/>
+      <!-- mu -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,51,2)" xml:id="segm_19.11-seg"/>
+      <!-- w -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,54,1)" xml:id="segm_19.12-seg"/>
+      <!-- oczach -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,56,6)" xml:id="segm_19.13-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,63,2)" xml:id="segm_19.14-seg"/>
+      <!-- samą -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,66,4)" xml:id="segm_19.15-seg"/>
+      <!-- myśl -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,71,4)" xml:id="segm_19.16-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,75,1)" nkjp:nps="true" xml:id="segm_19.17-seg"/>
+      <!-- że -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,77,2)" xml:id="segm_19.18-seg"/>
+      <!-- przyjdzie -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,80,9)" xml:id="segm_19.19-seg"/>
+      <!-- własnymi -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,90,8)" xml:id="segm_19.20-seg"/>
+      <!-- rękoma -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,99,6)" xml:id="segm_19.21-seg"/>
+      <!-- Madonnę -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,106,7)" xml:id="segm_19.22-seg"/>
+      <!-- z -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,114,1)" xml:id="segm_19.23-seg"/>
+      <!-- ołtarza -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,116,7)" xml:id="segm_19.24-seg"/>
+      <!-- wyjmować -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,124,8)" xml:id="segm_19.25-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,132,1)" nkjp:nps="true" xml:id="segm_19.26-seg"/>
+     </s>
+     <s xml:id="segm_19.32-s">
+      <!-- - -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,134,1)" xml:id="segm_19.27-seg"/>
+      <!-- Setka -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,136,5)" xml:id="segm_19.28-seg"/>
+      <!-- cudów -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,142,5)" xml:id="segm_19.29-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,147,1)" nkjp:nps="true" xml:id="segm_19.30-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,148,1)" nkjp:nps="true" xml:id="segm_19.31-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,149,1)" nkjp:nps="true" xml:id="segm_19.32-seg"/>
+     </s>
+     <s xml:id="segm_19.35-s">
+      <!-- Nie -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,151,3)" xml:id="segm_19.33-seg"/>
+      <!-- przelewki -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,155,9)" xml:id="segm_19.34-seg"/>
+      <!-- ! -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,164,1)" nkjp:nps="true" xml:id="segm_19.35-seg"/>
+     </s>
+     <s xml:id="segm_19.43-s">
+      <!-- Rozumiem -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,166,8)" xml:id="segm_19.36-seg"/>
+      <!-- twoją -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,175,5)" xml:id="segm_19.37-seg"/>
+      <!-- żałość -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,181,6)" xml:id="segm_19.38-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,187,1)" nkjp:nps="true" xml:id="segm_19.39-seg"/>
+      <!-- Mikołaju -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,189,8)" xml:id="segm_19.40-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,197,1)" nkjp:nps="true" xml:id="segm_19.41-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,198,1)" nkjp:nps="true" xml:id="segm_19.42-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,199,1)" nkjp:nps="true" xml:id="segm_19.43-seg"/>
+     </s>
+     <s xml:id="segm_19.62-s">
+      <!-- Boć -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,201,3)" xml:id="segm_19.44-seg"/>
+      <!-- to -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,205,2)" xml:id="segm_19.45-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,208,3)" xml:id="segm_19.46-seg"/>
+      <!-- tylko -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,212,5)" xml:id="segm_19.47-seg"/>
+      <!-- wielkie -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,218,7)" xml:id="segm_19.48-seg"/>
+      <!-- profita -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,226,7)" xml:id="segm_19.49-seg"/>
+      <!-- dla -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,234,3)" xml:id="segm_19.50-seg"/>
+      <!-- wiary -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,238,5)" xml:id="segm_19.51-seg"/>
+      <!-- świętej -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,244,7)" xml:id="segm_19.52-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,251,1)" nkjp:nps="true" xml:id="segm_19.53-seg"/>
+      <!-- ale -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,253,3)" xml:id="segm_19.54-seg"/>
+      <!-- i -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,257,1)" xml:id="segm_19.55-seg"/>
+      <!-- dla -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,259,3)" xml:id="segm_19.56-seg"/>
+      <!-- Kodnia -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,263,6)" xml:id="segm_19.57-seg"/>
+      <!-- splendor -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,270,8)" xml:id="segm_19.58-seg"/>
+      <!-- niemały -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,279,7)" xml:id="segm_19.59-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,286,1)" nkjp:nps="true" xml:id="segm_19.60-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,287,1)" nkjp:nps="true" xml:id="segm_19.61-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,288,1)" nkjp:nps="true" xml:id="segm_19.62-seg"/>
+     </s>
+     <s xml:id="segm_19.69-s">
+      <!-- Szkoda -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,290,6)" xml:id="segm_19.63-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,297,3)" xml:id="segm_19.64-seg"/>
+      <!-- go -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,301,2)" xml:id="segm_19.65-seg"/>
+      <!-- pozbyć -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,304,6)" xml:id="segm_19.66-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,310,1)" nkjp:nps="true" xml:id="segm_19.67-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,311,1)" nkjp:nps="true" xml:id="segm_19.68-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,312,1)" nkjp:nps="true" xml:id="segm_19.69-seg"/>
+     </s>
+     <s xml:id="segm_19.73-s">
+      <!-- Szkoda -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,314,6)" xml:id="segm_19.70-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,320,1)" nkjp:nps="true" xml:id="segm_19.71-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,321,1)" nkjp:nps="true" xml:id="segm_19.72-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,322,1)" nkjp:nps="true" xml:id="segm_19.73-seg"/>
+     </s>
+     <s xml:id="segm_19.81-s">
+      <!-- Ale -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,324,3)" xml:id="segm_19.74-seg"/>
+      <!-- głową -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,328,5)" xml:id="segm_19.75-seg"/>
+      <!-- muru -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,334,4)" xml:id="segm_19.76-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,339,3)" xml:id="segm_19.77-seg"/>
+      <!-- przebijesz -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,343,10)" xml:id="segm_19.78-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,353,1)" nkjp:nps="true" xml:id="segm_19.79-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,354,1)" nkjp:nps="true" xml:id="segm_19.80-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,355,1)" nkjp:nps="true" xml:id="segm_19.81-seg"/>
+     </s>
+     <s xml:id="segm_19.86-s">
+      <!-- Musisz -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,357,6)" xml:id="segm_19.82-seg"/>
+      <!-- oddać -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,364,5)" xml:id="segm_19.83-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,369,1)" nkjp:nps="true" xml:id="segm_19.84-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,370,1)" nkjp:nps="true" xml:id="segm_19.85-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_19.1-ab,371,1)" nkjp:nps="true" xml:id="segm_19.86-seg"/>
+     </s>
+    </p>
+    <!-- segm_20-p is akapit 12761 with instances (akapit_transzy-s) 25519, 25539 in batches (transza-s) 2553, 2555 resp. -->
+    <p corresp="text.xml#txt_20-div" xml:id="segm_20-p">
+     <s xml:id="segm_20.4-s">
+      <!-- Dziewczyna -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,0,10)" xml:id="segm_20.1-seg"/>
+      <!-- milknie -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,11,7)" xml:id="segm_20.2-seg"/>
+      <!-- zakłopotana -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,19,11)" xml:id="segm_20.3-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,30,1)" nkjp:nps="true" xml:id="segm_20.4-seg"/>
+     </s>
+     <s xml:id="segm_20.18-s">
+      <!-- Nikomu -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,32,6)" xml:id="segm_20.5-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,38,1)" nkjp:nps="true" xml:id="segm_20.6-seg"/>
+      <!-- nikomu -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,40,6)" xml:id="segm_20.7-seg"/>
+      <!-- nie -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,47,3)" xml:id="segm_20.8-seg"/>
+      <!-- potrafi -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,51,7)" xml:id="segm_20.9-seg"/>
+      <!-- wypowiedzieć -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,59,12)" xml:id="segm_20.10-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,71,1)" nkjp:nps="true" xml:id="segm_20.11-seg"/>
+      <!-- co -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,73,2)" xml:id="segm_20.12-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,76,3)" xml:id="segm_20.13-seg"/>
+      <!-- jej -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,80,3)" xml:id="segm_20.14-seg"/>
+      <!-- po -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,84,2)" xml:id="segm_20.15-seg"/>
+      <!-- głowie -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,87,6)" xml:id="segm_20.16-seg"/>
+      <!-- snuje -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,94,5)" xml:id="segm_20.17-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,99,1)" nkjp:nps="true" xml:id="segm_20.18-seg"/>
+     </s>
+     <s xml:id="segm_20.41-s">
+      <!-- Jednej -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,101,6)" xml:id="segm_20.19-seg"/>
+      <!-- siostrze -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,108,8)" xml:id="segm_20.20-seg"/>
+      <!-- Placydzie -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,117,9)" xml:id="segm_20.21-seg"/>
+      <!-- mogła -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,127,5)" xml:id="segm_20.22-seg"/>
+      <!-- by -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,132,2)" nkjp:nps="true" xml:id="segm_20.23-seg"/>
+      <!-- się -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,135,3)" xml:id="segm_20.24-seg"/>
+      <!-- zwierzyć -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,139,8)" xml:id="segm_20.25-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,147,1)" nkjp:nps="true" xml:id="segm_20.26-seg"/>
+      <!-- ale -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,149,3)" xml:id="segm_20.27-seg"/>
+      <!-- siostra -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,153,7)" xml:id="segm_20.28-seg"/>
+      <!-- Placyda -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,161,7)" xml:id="segm_20.29-seg"/>
+      <!-- odjechała -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,169,9)" xml:id="segm_20.30-seg"/>
+      <!-- do -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,179,2)" xml:id="segm_20.31-seg"/>
+      <!-- Łucka -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,182,5)" xml:id="segm_20.32-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,187,1)" nkjp:nps="true" xml:id="segm_20.33-seg"/>
+      <!-- błogosławiąc -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,189,12)" xml:id="segm_20.34-seg"/>
+      <!-- ją -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,202,2)" xml:id="segm_20.35-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,204,1)" nkjp:nps="true" xml:id="segm_20.36-seg"/>
+      <!-- Anusię -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,206,6)" xml:id="segm_20.37-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,212,1)" nkjp:nps="true" xml:id="segm_20.38-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,214,2)" xml:id="segm_20.39-seg"/>
+      <!-- odjezdnym -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,217,9)" xml:id="segm_20.40-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,226,1)" nkjp:nps="true" xml:id="segm_20.41-seg"/>
+     </s>
+     <s xml:id="segm_20.48-s">
+      <!-- Obdarował -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,228,9)" xml:id="segm_20.42-seg"/>
+      <!-- pan -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,238,3)" xml:id="segm_20.43-seg"/>
+      <!-- ojciec -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,242,6)" xml:id="segm_20.44-seg"/>
+      <!-- klasztor -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,249,8)" xml:id="segm_20.45-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,257,1)" nkjp:nps="true" xml:id="segm_20.46-seg"/>
+      <!-- obdarował -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,259,9)" xml:id="segm_20.47-seg"/>
+      <!-- ! -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,268,1)" nkjp:nps="true" xml:id="segm_20.48-seg"/>
+     </s>
+     <s xml:id="segm_20.55-s">
+      <!-- Cztery -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,270,6)" xml:id="segm_20.49-seg"/>
+      <!-- kowane -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,277,6)" xml:id="segm_20.50-seg"/>
+      <!-- wozy -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,284,4)" xml:id="segm_20.51-seg"/>
+      <!-- pojechały -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,289,9)" xml:id="segm_20.52-seg"/>
+      <!-- za -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,299,2)" xml:id="segm_20.53-seg"/>
+      <!-- siostrami -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,302,9)" xml:id="segm_20.54-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,311,1)" nkjp:nps="true" xml:id="segm_20.55-seg"/>
+     </s>
+     <s xml:id="segm_20.62-s">
+      <!-- Będzie -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,313,6)" xml:id="segm_20.56-seg"/>
+      <!-- matka -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,320,5)" xml:id="segm_20.57-seg"/>
+      <!-- Agnieszka -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,326,9)" xml:id="segm_20.58-seg"/>
+      <!-- kontenta -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,336,8)" xml:id="segm_20.59-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,344,1)" nkjp:nps="true" xml:id="segm_20.60-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,345,1)" nkjp:nps="true" xml:id="segm_20.61-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,346,1)" nkjp:nps="true" xml:id="segm_20.62-seg"/>
+     </s>
+     <s xml:id="segm_20.79-s">
+      <!-- Zadowolona -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,348,10)" xml:id="segm_20.63-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,358,1)" nkjp:nps="true" xml:id="segm_20.64-seg"/>
+      <!-- że -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,360,2)" xml:id="segm_20.65-seg"/>
+      <!-- może -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,363,4)" xml:id="segm_20.66-seg"/>
+      <!-- zwrócić -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,368,7)" xml:id="segm_20.67-seg"/>
+      <!-- uwagę -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,376,5)" xml:id="segm_20.68-seg"/>
+      <!-- narzeczonego -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,382,12)" xml:id="segm_20.69-seg"/>
+      <!-- na -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,395,2)" xml:id="segm_20.70-seg"/>
+      <!-- inny -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,398,4)" xml:id="segm_20.71-seg"/>
+      <!-- temat -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,403,5)" xml:id="segm_20.72-seg"/>
+      <!-- , -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,408,1)" nkjp:nps="true" xml:id="segm_20.73-seg"/>
+      <!-- Anusia -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,410,6)" xml:id="segm_20.74-seg"/>
+      <!-- zaczęła -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,417,7)" xml:id="segm_20.75-seg"/>
+      <!-- wyliczać -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,425,8)" xml:id="segm_20.76-seg"/>
+      <!-- te -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,434,2)" xml:id="segm_20.77-seg"/>
+      <!-- dary -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,437,4)" xml:id="segm_20.78-seg"/>
+      <!-- . -->
+      <seg corresp="text.xml#string-range(txt_20.1-ab,441,1)" nkjp:nps="true" xml:id="segm_20.79-seg"/>
+     </s>
+    </p>
+   </body>
+  </text>
+ </TEI>
+</teiCorpus>

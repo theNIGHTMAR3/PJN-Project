@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0">
+ <xi:include href="NKJP_1M_header.xml"/>
+ <TEI>
+  <xi:include href="header.xml"/>
+  <text xml:id="txt_text" xml:lang="pl">
+   <body xml:id="txt_body">
+    <div xml:id="txt_1-div" decls="#h_1-bibl">
+     <ab n="p206in3304of:PWN:030-2-000000003" xml:id="txt_1.1-ab">Ponad tą falą ludzką zbitą i skłębioną, bolejącą, dziecinną, szaloną, ponad otchłanią bólu, wiary i nędzy - spoglądały oczy niezgłębione, miłosierne, ogarniające każdego...</ab>
+     <ab n="p207in3308of:PWN:030-2-000000003" xml:id="txt_1.2-ab">Tak oto dnia 15 września roku Pańskiego 1631 Madonna Gregoriańska di Guadelupe, zwana odtąd Matką Boską Kodeńską, obejmowała na długie wieki w miłosierne swe władanie Kodeń, a z nim całą Białoruś, Żmudź, Podlasie, Wołyń, Ziemię Brzeską, Bełzką i Chełmską...</ab>
+    </div>
+    <div xml:id="txt_2-div" decls="#h_2-bibl">
+     <ab n="p7in72of:PWN:030-2-000000003" xml:id="txt_2.1-ab">Nie lada zatem gratką dla pisarza katolickiego staje się fakt autentyczny, udokumentowany, dostatecznie dawny, by wynik był już przez historię osądzony i podsumowany, fakt, którego uczestnicy nie byli świętymi bynajmniej, a w którym, jak to ma miejsce właśnie w dziejach Mikołaja Sapiehy, miłosierdzie Boże kreśliło swe ściegi nieomal widocznie na powierzchni doczesności.</ab>
+    </div>
+    <div xml:id="txt_3-div" decls="#h_3-bibl">
+     <ab n="p180in2933of:PWN:030-2-000000003" xml:id="txt_3.1-ab">Z przełęczy weszli w dolinę przeciętą potokiem. Tutaj, na ojczystej ziemi, stanęli znowu na dłuższy spoczynek. W dolinie było zacisznie i dobrze. W lasach pasły się krowy i owce, czasem ozwał się poryk niedźwiedzia lub gniewne parsknięcie rysia. W dzień przychodziły pić wodę z potoku stada bydła pędzone przez czarnych, jaskrawo odzianych Hucułów. Wieczorem jelenie i sarny.</ab>
+    </div>
+    <div xml:id="txt_4-div" decls="#h_4-bibl">
+     <ab n="p173in2839of:PWN:030-2-000000003" xml:id="txt_4.1-ab">Gdy spętane konie pasły się na polanie, pachołcy i dworzanie spali smacznie na trawie, przy ogniu kucharczyk sprawiał świeżo upolowanego warchlaka - pan Sapieha siedział przed namiotem i rozmyślał nad drogą, którą teraz iść wypadnie. Cesarz zaszczycał go swoją przyjaźnią, a niedawno, gdy do Rzymu chory jechał, obdarował złotym kluczem. Papież niejednokrotnie naraził sobie cesarza, którego był wrogiem zaciętym, zatem na cesarskiej ziemi wojewoda mógł się chyba czuć bezpieczny?</ab>
+    </div>
+    <div xml:id="txt_5-div" decls="#h_5-bibl">
+     <ab n="p21in201of:PWN:030-2-000000003" xml:id="txt_5.1-ab">Był niegdyś - jak to mawiają - i do boju, i do znoju, do tańca i do różańca, umiał pić, umiał się bić, obecnie patrzył sam na siebie z obrzydzeniem, jak na zdechłe ścierwo. Boleśnie odczuwał politowanie ukryte w oczach służby, rodziny, przyjaciół, politowanie, które za jego plecami przemieniało się zapewne w pogardliwe lekceważenie.</ab>
+    </div>
+    <div xml:id="txt_6-div" decls="#h_6-bibl">
+     <ab n="p216in3475of:PWN:030-2-000000003" xml:id="txt_6.1-ab">Niechaj mnie Bóg zachowa, żebym miał za tym przykładem do innej jakowej instytucji od wyroku Najdostojniejszego Majestatu Piotrowego apelować. Zacytowałem one fakta na dowód, że wziątek mój, choć karygodny, nie był pierwszy, i jako tamte odpuszczenie otrzymały, tak i ja odpuszczenia się spodziewam i najpokorniej o nie z synowskim posłuszeństwem błagam.</ab>
+    </div>
+    <div xml:id="txt_7-div" decls="#h_7-bibl">
+     <ab n="p333in5287of:PWN:030-2-000000003" xml:id="txt_7.1-ab">Zacnością Twojej z miłością błogosławimy, Boskiej protekcji cały ród Twój polecając. Dan w Rzymie u świętego Piotra, pod pieczęcią Rybołowa, dnia 3 maja, roku od Wcielenia Pańskiego tysiąc sześćset trzydziestego piątego, roku papiestwa Naszego dwunastego.</ab>
+     <ab n="p334in5292of:PWN:030-2-000000003" xml:id="txt_7.2-ab">Podpisał ręką własną: Urban VIII, biskup rzymski, Sługa sług Bożych".</ab>
+    </div>
+    <div xml:id="txt_8-div" decls="#h_8-bibl">
+     <ab n="p169in2771of:PWN:030-2-000000003" xml:id="txt_8.1-ab">Po drodze napotykano półnagich, dzikich pastuchów, o niczym nie wiedzących, którzy szeroko otwartymi oczami patrzyli na przejeżdżających, a w godzinę później, zapytani, nie umieli powiedzieć, czy widzieli żywych ludzi, czy gomon lub inne widziadło. Mijali zapadłe, ubogie wioski górskie, gdzie ludność na ich widok chowała się z krzykiem, sądząc, że to któryś z sąsiednich baronów najeżdża włości drugiego, i do wieczora nie opuszczała chat starannie zawartych.</ab>
+    </div>
+    <div xml:id="txt_9-div" decls="#h_9-bibl">
+     <ab n="p288in4659of:PWN:030-2-000000003" xml:id="txt_9.1-ab">Aczkolwiek Andruszka spieszył, mając surowo nakazane powracać z końmi co rychlej, starczyło mu czasu, by opowiedzieć w czeladnej szczegóły pobytu w Kodniu. Spragnionemu wiadomości o swej miłej Kacprowi powtórzył wszystko, co mu Kryska poleciła. Oprócz zapewnień wiernego uczucia, znajdowała się tam również podsłuchana opinia wojewodziny o przyczynie choroby Anusi.</ab>
+    </div>
+    <div xml:id="txt_10-div" decls="#h_10-bibl">
+     <ab n="p269in4293of:PWN:030-2-000000003" xml:id="txt_10.1-ab">Przyklękli pobożnie i weszli na stopnie ołtarza. Kaźmierz oddał stryjowi latarnię; na ziemi położył podłużny wąski przedmiot. Przedmiot ten wydał się panu Sapieże znajomy, nie mógł jednak poznać, co by to było i skąd mu jest znane... Syn usiłował wejść na ołtarz. Wspinając się, potrącił nogą ów kształt, który stoczył się ze stopni...</ab>
+    </div>
+    <div xml:id="txt_11-div" decls="#h_11-bibl">
+     <ab n="p54in765of:PWN:030-2-000000003" xml:id="txt_11.1-ab">A przecie widziałem ich przy ogniu... - myślał wojewoda. Nie mówił nic, pozwalając biernie przenosić się, układać, okrywać. Spieszyli wszyscy - kanonik Boćkowski zalecał pośpiech, pozorując jego potrzebę względem na zdrowie i wygodę pana. Boi się gorzej ode mnie... - snuł swe rozważania wojewoda. - Boi się, choć kapłan i Chrystusowe Ciało w ręce bierze... Boi się... Jakże to może być?... Czyjeż tu panowanie? Boga czy pogańskiego bałwana?</ab>
+    </div>
+    <div xml:id="txt_12-div" decls="#h_12-bibl">
+     <ab n="p53in757of:PWN:030-2-000000003" xml:id="txt_12.1-ab">Kanonik widocznie wie... - przemknęło panu Sapieże przez głowę. Otworzył oczy. Łowczy pochylił się nad nim. - Wasza Dostojność. Zadymka ustała. Śnieg wali, ale sanie z ludźmi pójdą przodem przetrzeć drogę. Nosze wysłaliśmy grzecznie kożuchem. Z noszami wniesiem Waszą Dostojność do karety... Prokop! Iwaś! Gdzież wy?! Obaj wezwani zjawili się natychmiast, przecierając oczy i wyjaśniając, że ułożywszy się w chlewie przy krowie zaspali.</ab>
+    </div>
+    <div xml:id="txt_13-div" decls="#h_13-bibl">
+     <ab n="p294in4737of:PWN:030-2-000000003" xml:id="txt_13.1-ab">Ta wiadomość była ciosem. Więc i o wykradzeniu nie ma mowy! Jedyną nadzieją mogło być porwanie w drodze pomiędzy Kodniem i Łuckiem. Nadzieja ta jakże słaba! Anusia nie wyjedzie z zakonnicami samotrzeć. Wojewoda doda jej dla splendoru nieszczupły taborek. Daremnie próbować, nie mając ze sobą kilkunastu tęgich zbrojnych.</ab>
+    </div>
+    <div xml:id="txt_14-div" decls="#h_14-bibl">
+     <ab n="p357in5577of:PWN:030-2-000000003" xml:id="txt_14.1-ab">Tę chwałę, tę moc, ten czar macierzyński każdy człowiek ujrzy nie przez wizerunek, lecz w rzeczywistości swojej, gdy będzie zbawiony. Na to uprzytomnienie dusza pana Sapiehy wyszła z ciała i jęła prosić Boga o rychłą śmierć, by prędzej tego szczęścia dostąpić...</ab>
+    </div>
+    <div xml:id="txt_15-div" decls="#h_15-bibl">
+     <ab n="p257in4113of:PWN:030-2-000000003" xml:id="txt_15.1-ab">"Pamiętaj tylko, że to Matka nasza" - stanęły znów w pamięci słowa sędziwego kardynała de Torres. - Matko! - zawołał, padając czołem na posadzkę. Świeca wypadła z palców, potoczyła się po kamieniach i zgasła. Pan Sapieha tego nie zauważył, czując się w kręgu jasności.</ab>
+    </div>
+    <div xml:id="txt_16-div" decls="#h_16-bibl">
+     <ab n="p89in1323of:PWN:030-2-000000003" xml:id="txt_16.1-ab">Nie dziw, że ogarnięty tymi myślami nie słyszał, co doń mówili prałaci. Zdumiał się, gdy schody wywiodły ich nagle z mroku murów na taras zalany słońcem. Kardynał padrone szedł już na spotkanie. Należało wziąć się w kupę i bez błędu wypowiedzieć przygotowaną orację.</ab>
+    </div>
+    <div xml:id="txt_17-div" decls="#h_17-bibl">
+     <ab n="p51in738of:PWN:030-2-000000003" xml:id="txt_17.1-ab">Palący wstyd zagórował nad uczuciem lęku. Któż winien, któż odpowiada za podobny stan rzeczy? Czyż nie on, z dziada pradziada dziedzic i pan tej ziemi, obowiązany dbać o dusze i ciała poddanych? Jakżeż znał tę własną dziedzinę, skoro podobne odkrycie było możliwe?! I jakże straszna jest rzeczywistość, gdy w nią głębiej wzrok zapuścić!</ab>
+    </div>
+    <div xml:id="txt_18-div" decls="#h_18-bibl">
+     <ab n="p306in4867of:PWN:030-2-000000003" xml:id="txt_18.1-ab">Marszałek sejmowy zamilkł i spojrzał wyczekująco po obecnych. Lecz oni milczeli również ogarnięci właściwą powszechności niechęcią do wyjawienia swej opinii, nie poznawszy wprzód opinii drugich. Niech się kto inny pierwszy wypowie... Sprzeciw będzie trudny, bo Miłościwemu bardzo widać zależy na palatynównie. Aż króla angielskiego z flotą wysuwa! Jak gdyby flota brytyjska mogła co pomóc przeciw Moskwie lub Wysokiej Porcie!</ab>
+    </div>
+    <div xml:id="txt_19-div" decls="#h_19-bibl">
+     <ab n="p233in3696of:PWN:030-2-000000003" xml:id="txt_19.1-ab">Odwrócił głowę, by nie widziano łez, które stanęły mu w oczach na samą myśl, że przyjdzie własnymi rękoma Madonnę z ołtarza wyjmować. - Setka cudów... Nie przelewki! Rozumiem twoją żałość, Mikołaju... Boć to nie tylko wielkie profita dla wiary świętej, ale i dla Kodnia splendor niemały... Szkoda się go pozbyć... Szkoda... Ale głową muru nie przebijesz... Musisz oddać...</ab>
+    </div>
+    <div xml:id="txt_20-div" decls="#h_20-bibl">
+     <ab n="p343in5377of:PWN:030-2-000000003" xml:id="txt_20.1-ab">Dziewczyna milknie zakłopotana. Nikomu, nikomu nie potrafi wypowiedzieć, co się jej po głowie snuje. Jednej siostrze Placydzie mogłaby się zwierzyć, ale siostra Placyda odjechała do Łucka, błogosławiąc ją, Anusię, na odjezdnym. Obdarował pan ojciec klasztor, obdarował! Cztery kowane wozy pojechały za siostrami. Będzie matka Agnieszka kontenta... Zadowolona, że może zwrócić uwagę narzeczonego na inny temat, Anusia zaczęła wyliczać te dary.</ab>
+    </div>
+   </body>
+  </text>
+ </TEI>
+</teiCorpus>

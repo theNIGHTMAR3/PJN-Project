@@ -22,10 +22,7 @@ def print_chapters(filename):
     print('Processing chapters from given file')
     print(filename)
 
-    title = extract_title(pdf_file_path)
-    if title:
-        print({title})
-
+    print(extract_title(pdf_file_path))
 
     with pdfplumber.open(filename) as pdf:
         page_number = 1
@@ -33,9 +30,8 @@ def print_chapters(filename):
             t = p.extract_text()
             for line in t.split('\n'):
                 match = re.match(r'^(Tytuł|Część|Księga|Dział|Rozdział|Oddział)\W(\w*)', line, re.M | re.I)
-                if match:
-                    if match.group(1)[0].isupper() and (match.group(2)[0].isupper() or match.group(2)[0].isdigit()):
-                        print(match.group(1), match.group(2), 'strona', page_number)
+                if match and (match.group(1)[0].isupper() and (match.group(2)[0].isupper() or match.group(2)[0].isdigit())):
+                    print(match.group(1), match.group(2), 'strona', page_number)
             page_number += 1
 
 
@@ -107,8 +103,6 @@ def get_optional_text(o: Any) -> str:
 
 
 if (__name__ == "__main__"):
-
-
     # path = Path('resources/D20211805Lj.pdf').expanduser()
     # pages = extract_pages(path)
     # show_ltitem_hierarchy(pages)

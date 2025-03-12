@@ -1,0 +1,2847 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<teiCorpus xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0">
+  <xi:include href="NKJP_1M_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text xml:lang="pl">
+      <body>
+        <p xml:id="named_1-p" corresp="ann_morphosyntax.xml#morph_1-p">
+          <s xml:id="named_1.34-s" corresp="ann_morphosyntax.xml#morph_1.34-s">
+            <seg xml:id="named_1.34-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="placeName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="settlement"/>
+                </f>
+                <f name="orth">
+                  <string>Serbinowa</string>
+                </f>
+                <f name="base">
+                  <string>Serbinów</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_1.18-seg"/>
+            </seg>
+            <seg xml:id="named_1.34-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbary</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_1.34-s_n2"/>
+            </seg>
+            <seg xml:id="named_1.34-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbary</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_1.23-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_1.54-s" corresp="ann_morphosyntax.xml#morph_1.54-s">
+            <seg xml:id="named_1.54-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Niechciców</string>
+                </f>
+                <f name="base">
+                  <string>Niechcicowie</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_1.54-s_n1"/>
+            </seg>
+            <seg xml:id="named_1.54-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Niechciców</string>
+                </f>
+                <f name="base">
+                  <string>Niechcicowie</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_1.44-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_2-p" corresp="ann_morphosyntax.xml#morph_2-p">
+          <s xml:id="named_2.41-s" corresp="ann_morphosyntax.xml#morph_2.41-s">
+            <seg xml:id="named_2.41-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_2.41-s_n2"/>
+            </seg>
+            <seg xml:id="named_2.41-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_2.3-seg"/>
+            </seg>
+            <seg xml:id="named_2.41-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Hipolit Niechcic</string>
+                </f>
+                <f name="base">
+                  <string>Hipolit Niechcic</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_2.41-s_n4"/>
+              <ptr target="named_2.41-s_n5"/>
+            </seg>
+            <seg xml:id="named_2.41-s_n4">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Hipolit</string>
+                </f>
+                <f name="base">
+                  <string>Hipolit</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_2.9-seg"/>
+            </seg>
+            <seg xml:id="named_2.41-s_n5">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Niechcic</string>
+                </f>
+                <f name="base">
+                  <string>Niechcic</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_2.10-seg"/>
+            </seg>
+            <seg xml:id="named_2.41-s_n6">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Adriana</string>
+                </f>
+                <f name="base">
+                  <string>Adrian</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_2.41-s_n7"/>
+            </seg>
+            <seg xml:id="named_2.41-s_n7">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Adriana</string>
+                </f>
+                <f name="base">
+                  <string>Adrian</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_2.40-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_2.55-s" corresp="ann_morphosyntax.xml#morph_2.55-s">
+            <seg xml:id="named_2.55-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bolesława Krzywoustego</string>
+                </f>
+                <f name="base">
+                  <string>Bolesław Krzywousty</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_2.55-s_n2"/>
+              <ptr target="named_2.55-s_n3"/>
+            </seg>
+            <seg xml:id="named_2.55-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bolesława</string>
+                </f>
+                <f name="base">
+                  <string>Bolesław</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_2.53-seg"/>
+            </seg>
+            <seg xml:id="named_2.55-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="addName"/>
+                </f>
+                <f name="orth">
+                  <string>Krzywoustego</string>
+                </f>
+                <f name="base">
+                  <string>Krzywousty</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_2.54-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_3-p" corresp="ann_morphosyntax.xml#morph_3-p">
+          <s xml:id="named_3.28-s" corresp="ann_morphosyntax.xml#morph_3.28-s">
+            <seg xml:id="named_3.28-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_3.28-s_n2"/>
+            </seg>
+            <seg xml:id="named_3.28-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_3.15-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_3.48-s" corresp="ann_morphosyntax.xml#morph_3.48-s">
+            <seg xml:id="named_3.48-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_3.48-s_n2"/>
+            </seg>
+            <seg xml:id="named_3.48-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_3.29-seg"/>
+            </seg>
+            <seg xml:id="named_3.48-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Ludwiczce</string>
+                </f>
+                <f name="base">
+                  <string>Ludwiczka</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_3.48-s_n4"/>
+            </seg>
+            <seg xml:id="named_3.48-s_n4">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Ludwiczce</string>
+                </f>
+                <f name="base">
+                  <string>Ludwiczka</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_3.36-seg"/>
+            </seg>
+            <seg xml:id="named_3.48-s_n5">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bylisi</string>
+                </f>
+                <f name="base">
+                  <string>Bylisia</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_3.48-s_n6"/>
+            </seg>
+            <seg xml:id="named_3.48-s_n6">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bylisi</string>
+                </f>
+                <f name="base">
+                  <string>Bylisia</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_3.38-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_3.77-s" corresp="ann_morphosyntax.xml#morph_3.77-s">
+            <seg xml:id="named_3.77-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bylisię</string>
+                </f>
+                <f name="base">
+                  <string>Bylisia</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_3.77-s_n2"/>
+            </seg>
+            <seg xml:id="named_3.77-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bylisię</string>
+                </f>
+                <f name="base">
+                  <string>Bylisia</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_3.66-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_4-p" corresp="ann_morphosyntax.xml#morph_4-p">
+          <s xml:id="named_4.26-s" corresp="ann_morphosyntax.xml#morph_4.26-s"/>
+          <s xml:id="named_4.54-s" corresp="ann_morphosyntax.xml#morph_4.54-s">
+            <seg xml:id="named_4.54-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbarę</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_4.54-s_n2"/>
+            </seg>
+            <seg xml:id="named_4.54-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbarę</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_4.32-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_5-p" corresp="ann_morphosyntax.xml#morph_5-p">
+          <s xml:id="named_5.9-s" corresp="ann_morphosyntax.xml#morph_5.9-s">
+            <seg xml:id="named_5.9-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_5.9-s_n2"/>
+            </seg>
+            <seg xml:id="named_5.9-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_5.1-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_5.26-s" corresp="ann_morphosyntax.xml#morph_5.26-s"/>
+          <s xml:id="named_5.47-s" corresp="ann_morphosyntax.xml#morph_5.47-s">
+            <seg xml:id="named_5.47-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Boże</string>
+                </f>
+                <f name="base">
+                  <string>Bóg</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_5.30-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_5.55-s" corresp="ann_morphosyntax.xml#morph_5.55-s"/>
+        </p>
+        <p xml:id="named_6-p" corresp="ann_morphosyntax.xml#morph_6-p">
+          <s xml:id="named_6.6-s" corresp="ann_morphosyntax.xml#morph_6.6-s"/>
+          <s xml:id="named_6.24-s" corresp="ann_morphosyntax.xml#morph_6.24-s"/>
+          <s xml:id="named_6.49-s" corresp="ann_morphosyntax.xml#morph_6.49-s">
+            <seg xml:id="named_6.49-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_6.49-s_n2"/>
+            </seg>
+            <seg xml:id="named_6.49-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_6.28-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_7-p" corresp="ann_morphosyntax.xml#morph_7-p">
+          <s xml:id="named_7.25-s" corresp="ann_morphosyntax.xml#morph_7.25-s">
+            <seg xml:id="named_7.25-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_7.25-s_n2"/>
+            </seg>
+            <seg xml:id="named_7.25-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_7.2-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_7.70-s" corresp="ann_morphosyntax.xml#morph_7.70-s"/>
+          <s xml:id="named_7.77-s" corresp="ann_morphosyntax.xml#morph_7.77-s"/>
+        </p>
+        <p xml:id="named_8-p" corresp="ann_morphosyntax.xml#morph_8-p">
+          <s xml:id="named_8.30-s" corresp="ann_morphosyntax.xml#morph_8.30-s">
+            <seg xml:id="named_8.30-s_n6">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Modrzejewskiej</string>
+                </f>
+                <f name="base">
+                  <string>Modrzejewska</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_8.30-s_n5"/>
+            </seg>
+            <seg xml:id="named_8.30-s_n5">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Modrzejewskiej</string>
+                </f>
+                <f name="base">
+                  <string>Modrzejewska</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_8.8-seg"/>
+            </seg>
+            <seg xml:id="named_8.30-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="geogName"/>
+                </f>
+                <f name="orth">
+                  <string>Ameryce</string>
+                </f>
+                <f name="base">
+                  <string>Ameryka</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_8.10-seg"/>
+            </seg>
+            <seg xml:id="named_8.30-s_n7">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Litwosa</string>
+                </f>
+                <f name="base">
+                  <string>Litwos</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_8.30-s_n8"/>
+            </seg>
+            <seg xml:id="named_8.30-s_n8">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="addName"/>
+                </f>
+                <f name="orth">
+                  <string>Litwosa</string>
+                </f>
+                <f name="base">
+                  <string>Litwos</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_8.14-seg"/>
+            </seg>
+            <seg xml:id="named_8.30-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Henryk Sienkiewicz</string>
+                </f>
+                <f name="base">
+                  <string>Henryk Sienkiewicz</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_8.30-s_n3"/>
+              <ptr target="named_8.30-s_n4"/>
+            </seg>
+            <seg xml:id="named_8.30-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Henryk</string>
+                </f>
+                <f name="base">
+                  <string>Henryk</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_8.19-seg"/>
+            </seg>
+            <seg xml:id="named_8.30-s_n4">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Sienkiewicz</string>
+                </f>
+                <f name="base">
+                  <string>Sienkiewicz</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_8.20-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_8.59-s" corresp="ann_morphosyntax.xml#morph_8.59-s">
+            <seg xml:id="named_8.59-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Michalina</string>
+                </f>
+                <f name="base">
+                  <string>Michalina</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_8.59-s_n2"/>
+            </seg>
+            <seg xml:id="named_8.59-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Michalina</string>
+                </f>
+                <f name="base">
+                  <string>Michalina</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_8.39-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_9-p" corresp="ann_morphosyntax.xml#morph_9-p">
+          <s xml:id="named_9.26-s" corresp="ann_morphosyntax.xml#morph_9.26-s">
+            <seg xml:id="named_9.26-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_9.26-s_n2"/>
+            </seg>
+            <seg xml:id="named_9.26-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_9.4-seg"/>
+            </seg>
+            <seg xml:id="named_9.26-s_n5">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Julianowi</string>
+                </f>
+                <f name="base">
+                  <string>Julian</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_9.26-s_n6"/>
+            </seg>
+            <seg xml:id="named_9.26-s_n6">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Julianowi</string>
+                </f>
+                <f name="base">
+                  <string>Julian</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_9.9-seg"/>
+            </seg>
+            <seg xml:id="named_9.26-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Michalina</string>
+                </f>
+                <f name="base">
+                  <string>Michalina</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_9.26-s_n4"/>
+            </seg>
+            <seg xml:id="named_9.26-s_n4">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Michalina</string>
+                </f>
+                <f name="base">
+                  <string>Michalina</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_9.13-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_9.33-s" corresp="ann_morphosyntax.xml#morph_9.33-s"/>
+          <s xml:id="named_9.63-s" corresp="ann_morphosyntax.xml#morph_9.63-s"/>
+          <s xml:id="named_9.71-s" corresp="ann_morphosyntax.xml#morph_9.71-s">
+            <seg xml:id="named_9.71-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbarze</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_9.71-s_n2"/>
+            </seg>
+            <seg xml:id="named_9.71-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbarze</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_9.66-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_10-p" corresp="ann_morphosyntax.xml#morph_10-p">
+          <s xml:id="named_10.23-s" corresp="ann_morphosyntax.xml#morph_10.23-s">
+            <seg xml:id="named_10.23-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_10.23-s_n2"/>
+            </seg>
+            <seg xml:id="named_10.23-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_10.6-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_10.36-s" corresp="ann_morphosyntax.xml#morph_10.36-s">
+            <seg xml:id="named_10.36-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Agnisia</string>
+                </f>
+                <f name="base">
+                  <string>Agnisia</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_10.36-s_n2"/>
+            </seg>
+            <seg xml:id="named_10.36-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Agnisia</string>
+                </f>
+                <f name="base">
+                  <string>Agnisia</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_10.24-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_10.67-s" corresp="ann_morphosyntax.xml#morph_10.67-s">
+            <seg xml:id="named_10.67-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Emilka</string>
+                </f>
+                <f name="base">
+                  <string>Emilka</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_10.67-s_n2"/>
+            </seg>
+            <seg xml:id="named_10.67-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Emilka</string>
+                </f>
+                <f name="base">
+                  <string>Emilka</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_10.37-seg"/>
+            </seg>
+            <seg xml:id="named_10.67-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Tomasz</string>
+                </f>
+                <f name="base">
+                  <string>Tomasz</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_10.67-s_n4"/>
+            </seg>
+            <seg xml:id="named_10.67-s_n4">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Tomasz</string>
+                </f>
+                <f name="base">
+                  <string>Tomasz</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_10.47-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_11-p" corresp="ann_morphosyntax.xml#morph_11-p">
+          <s xml:id="named_11.14-s" corresp="ann_morphosyntax.xml#morph_11.14-s">
+            <seg xml:id="named_11.14-s_n4">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Adamowa Ostrzeńska</string>
+                </f>
+                <f name="base">
+                  <string>Adamowa Ostrzeńska</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_11.14-s_n1"/>
+              <ptr target="named_11.14-s_n3"/>
+            </seg>
+            <seg xml:id="named_11.14-s_n1">
+              <fs type="named">
+                <f name="derived">
+                  <fs type="derivation">
+                    <f name="derivType">
+                      <symbol value="relAdj"/>
+                    </f>
+                    <f name="derivedFrom">
+                      <string>Adam</string>
+                    </f>
+                  </fs>
+                </f>
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="addName"/>
+                </f>
+                <f name="orth">
+                  <string>Adamowa</string>
+                </f>
+                <f name="base">
+                  <string>Adamowa</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_11.2-seg"/>
+            </seg>
+            <seg xml:id="named_11.14-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Ostrzeńska</string>
+                </f>
+                <f name="base">
+                  <string>Ostrzeńska</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_11.3-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_11.28-s" corresp="ann_morphosyntax.xml#morph_11.28-s"/>
+          <s xml:id="named_11.39-s" corresp="ann_morphosyntax.xml#morph_11.39-s"/>
+          <s xml:id="named_11.54-s" corresp="ann_morphosyntax.xml#morph_11.54-s"/>
+        </p>
+        <p xml:id="named_12-p" corresp="ann_morphosyntax.xml#morph_12-p">
+          <s xml:id="named_12.36-s" corresp="ann_morphosyntax.xml#morph_12.36-s">
+            <seg xml:id="named_12.36-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbarze</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_12.36-s_n2"/>
+            </seg>
+            <seg xml:id="named_12.36-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbarze</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_12.3-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_12.56-s" corresp="ann_morphosyntax.xml#morph_12.56-s"/>
+        </p>
+        <p xml:id="named_13-p" corresp="ann_morphosyntax.xml#morph_13-p">
+          <s xml:id="named_13.12-s" corresp="ann_morphosyntax.xml#morph_13.12-s">
+            <seg xml:id="named_13.12-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbary</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_13.12-s_n2"/>
+            </seg>
+            <seg xml:id="named_13.12-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbary</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_13.6-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_13.25-s" corresp="ann_morphosyntax.xml#morph_13.25-s"/>
+          <s xml:id="named_13.45-s" corresp="ann_morphosyntax.xml#morph_13.45-s">
+            <seg xml:id="named_13.45-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="placeName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="settlement"/>
+                </f>
+                <f name="orth">
+                  <string>Krępy</string>
+                </f>
+                <f name="base">
+                  <string>Krępa</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_13.38-seg"/>
+            </seg>
+            <seg xml:id="named_13.45-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="time"/>
+                </f>
+                <f name="orth">
+                  <string>siódmej</string>
+                </f>
+                <f name="when">
+                  <string>07:00:00</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_13.42-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_13.66-s" corresp="ann_morphosyntax.xml#morph_13.66-s">
+            <seg xml:id="named_13.66-s_n5">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Ładowie</string>
+                </f>
+                <f name="base">
+                  <string>Ładowie</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_13.66-s_n4"/>
+            </seg>
+            <seg xml:id="named_13.66-s_n4">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Ładowie</string>
+                </f>
+                <f name="base">
+                  <string>Ładowie</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_13.46-seg"/>
+            </seg>
+            <seg xml:id="named_13.66-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Hipolit Niechcic</string>
+                </f>
+                <f name="base">
+                  <string>Hipolit Niechcic</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_13.66-s_n2"/>
+              <ptr target="named_13.66-s_n3"/>
+            </seg>
+            <seg xml:id="named_13.66-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Hipolit</string>
+                </f>
+                <f name="base">
+                  <string>Hipolit</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_13.48-seg"/>
+            </seg>
+            <seg xml:id="named_13.66-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Niechcic</string>
+                </f>
+                <f name="base">
+                  <string>Niechcic</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_13.49-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_14-p" corresp="ann_morphosyntax.xml#morph_14-p">
+          <s xml:id="named_14.41-s" corresp="ann_morphosyntax.xml#morph_14.41-s">
+            <seg xml:id="named_14.41-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="placeName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="country"/>
+                </f>
+                <f name="orth">
+                  <string>Polskę</string>
+                </f>
+                <f name="base">
+                  <string>Polska</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_14.10-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_14.62-s" corresp="ann_morphosyntax.xml#morph_14.62-s"/>
+        </p>
+        <p xml:id="named_15-p" corresp="ann_morphosyntax.xml#morph_15-p">
+          <s xml:id="named_15.16-s" corresp="ann_morphosyntax.xml#morph_15.16-s">
+            <seg xml:id="named_15.16-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_15.16-s_n2"/>
+            </seg>
+            <seg xml:id="named_15.16-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_15.1-seg"/>
+            </seg>
+            <seg xml:id="named_15.16-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_15.16-s_n4"/>
+            </seg>
+            <seg xml:id="named_15.16-s_n4">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_15.10-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_15.24-s" corresp="ann_morphosyntax.xml#morph_15.24-s"/>
+          <s xml:id="named_15.41-s" corresp="ann_morphosyntax.xml#morph_15.41-s">
+            <seg xml:id="named_15.41-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Adam Ostrzeński</string>
+                </f>
+                <f name="base">
+                  <string>Adam Ostrzeński</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_15.41-s_n2"/>
+              <ptr target="named_15.41-s_n3"/>
+            </seg>
+            <seg xml:id="named_15.41-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Adam</string>
+                </f>
+                <f name="base">
+                  <string>Adam</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_15.32-seg"/>
+            </seg>
+            <seg xml:id="named_15.41-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Ostrzeński</string>
+                </f>
+                <f name="base">
+                  <string>Ostrzeński</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_15.33-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_15.49-s" corresp="ann_morphosyntax.xml#morph_15.49-s"/>
+          <s xml:id="named_15.80-s" corresp="ann_morphosyntax.xml#morph_15.80-s">
+            <seg xml:id="named_15.80-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Adam Ostrzeński</string>
+                </f>
+                <f name="base">
+                  <string>Adam Ostrzeński</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_15.80-s_n2"/>
+              <ptr target="named_15.80-s_n3"/>
+            </seg>
+            <seg xml:id="named_15.80-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Adam</string>
+                </f>
+                <f name="base">
+                  <string>Adam</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_15.50-seg"/>
+            </seg>
+            <seg xml:id="named_15.80-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Ostrzeński</string>
+                </f>
+                <f name="base">
+                  <string>Ostrzeński</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_15.51-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_16-p" corresp="ann_morphosyntax.xml#morph_16-p">
+          <s xml:id="named_16.16-s" corresp="ann_morphosyntax.xml#morph_16.16-s">
+            <seg xml:id="named_16.16-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_16.16-s_n2"/>
+            </seg>
+            <seg xml:id="named_16.16-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_16.5-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_16.47-s" corresp="ann_morphosyntax.xml#morph_16.47-s"/>
+        </p>
+        <p xml:id="named_17-p" corresp="ann_morphosyntax.xml#morph_17-p">
+          <s xml:id="named_17.9-s" corresp="ann_morphosyntax.xml#morph_17.9-s">
+            <seg xml:id="named_17.9-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="placeName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="settlement"/>
+                </f>
+                <f name="orth">
+                  <string>Warszawie</string>
+                </f>
+                <f name="base">
+                  <string>Warszawa</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_17.2-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_17.42-s" corresp="ann_morphosyntax.xml#morph_17.42-s"/>
+          <s xml:id="named_17.66-s" corresp="ann_morphosyntax.xml#morph_17.66-s">
+            <seg xml:id="named_17.66-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="geogName"/>
+                </f>
+                <f name="orth">
+                  <string>Marszałkowskiej</string>
+                </f>
+                <f name="base">
+                  <string>Marszałkowska</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_17.45-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_18-p" corresp="ann_morphosyntax.xml#morph_18-p">
+          <s xml:id="named_18.61-s" corresp="ann_morphosyntax.xml#morph_18.61-s">
+            <seg xml:id="named_18.61-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="placeName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="settlement"/>
+                </f>
+                <f name="orth">
+                  <string>Jarost</string>
+                </f>
+                <f name="base">
+                  <string>Jarosty</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_18.19-seg"/>
+            </seg>
+            <seg xml:id="named_18.61-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="placeName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="settlement"/>
+                </f>
+                <f name="orth">
+                  <string>Krępy</string>
+                </f>
+                <f name="base">
+                  <string>Krępa</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_18.25-seg"/>
+            </seg>
+            <seg xml:id="named_18.61-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="placeName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="settlement"/>
+                </f>
+                <f name="orth">
+                  <string>Jarosty</string>
+                </f>
+                <f name="base">
+                  <string>Jarosty</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_18.41-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_19-p" corresp="ann_morphosyntax.xml#morph_19-p">
+          <s xml:id="named_19.27-s" corresp="ann_morphosyntax.xml#morph_19.27-s"/>
+          <s xml:id="named_19.47-s" corresp="ann_morphosyntax.xml#morph_19.47-s">
+            <seg xml:id="named_19.47-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_19.47-s_n2"/>
+            </seg>
+            <seg xml:id="named_19.47-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_19.28-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_20-p" corresp="ann_morphosyntax.xml#morph_20-p">
+          <s xml:id="named_20.35-s" corresp="ann_morphosyntax.xml#morph_20.35-s">
+            <seg xml:id="named_20.35-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_20.35-s_n2"/>
+            </seg>
+            <seg xml:id="named_20.35-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_20.1-seg"/>
+            </seg>
+            <seg xml:id="named_20.35-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="placeName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="settlement"/>
+                </f>
+                <f name="orth">
+                  <string>Serbinowie</string>
+                </f>
+                <f name="base">
+                  <string>Serbinów</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_20.6-seg"/>
+            </seg>
+            <seg xml:id="named_20.35-s_n5">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Lalicki</string>
+                </f>
+                <f name="base">
+                  <string>Lalicki</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_20.35-s_n4"/>
+            </seg>
+            <seg xml:id="named_20.35-s_n4">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Lalicki</string>
+                </f>
+                <f name="base">
+                  <string>Lalicki</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_20.24-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_20.50-s" corresp="ann_morphosyntax.xml#morph_20.50-s">
+            <seg xml:id="named_20.50-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumiła</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_20.50-s_n2"/>
+            </seg>
+            <seg xml:id="named_20.50-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumiła</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_20.49-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_20.71-s" corresp="ann_morphosyntax.xml#morph_20.71-s"/>
+        </p>
+        <p xml:id="named_21-p" corresp="ann_morphosyntax.xml#morph_21-p">
+          <s xml:id="named_21.30-s" corresp="ann_morphosyntax.xml#morph_21.30-s">
+            <seg xml:id="named_21.30-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_21.30-s_n2"/>
+            </seg>
+            <seg xml:id="named_21.30-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_21.1-seg"/>
+            </seg>
+            <seg xml:id="named_21.30-s_n4">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Lalickim</string>
+                </f>
+                <f name="base">
+                  <string>Lalicki</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_21.30-s_n3"/>
+            </seg>
+            <seg xml:id="named_21.30-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Lalickim</string>
+                </f>
+                <f name="base">
+                  <string>Lalicki</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_21.7-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_21.59-s" corresp="ann_morphosyntax.xml#morph_21.59-s">
+            <seg xml:id="named_21.59-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_21.59-s_n2"/>
+            </seg>
+            <seg xml:id="named_21.59-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_21.39-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_22-p" corresp="ann_morphosyntax.xml#morph_22-p">
+          <s xml:id="named_22.9-s" corresp="ann_morphosyntax.xml#morph_22.9-s"/>
+          <s xml:id="named_22.20-s" corresp="ann_morphosyntax.xml#morph_22.20-s">
+            <seg xml:id="named_22.20-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Jan Łada</string>
+                </f>
+                <f name="base">
+                  <string>Jan Łada</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_22.20-s_n2"/>
+              <ptr target="named_22.20-s_n3"/>
+            </seg>
+            <seg xml:id="named_22.20-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Jan</string>
+                </f>
+                <f name="base">
+                  <string>Jan</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_22.18-seg"/>
+            </seg>
+            <seg xml:id="named_22.20-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Łada</string>
+                </f>
+                <f name="base">
+                  <string>Łada</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_22.19-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_22.36-s" corresp="ann_morphosyntax.xml#morph_22.36-s"/>
+          <s xml:id="named_22.56-s" corresp="ann_morphosyntax.xml#morph_22.56-s"/>
+        </p>
+        <p xml:id="named_23-p" corresp="ann_morphosyntax.xml#morph_23-p">
+          <s xml:id="named_23.5-s" corresp="ann_morphosyntax.xml#morph_23.5-s"/>
+          <s xml:id="named_23.44-s" corresp="ann_morphosyntax.xml#morph_23.44-s"/>
+          <s xml:id="named_23.67-s" corresp="ann_morphosyntax.xml#morph_23.67-s"/>
+        </p>
+        <p xml:id="named_24-p" corresp="ann_morphosyntax.xml#morph_24-p">
+          <s xml:id="named_24.39-s" corresp="ann_morphosyntax.xml#morph_24.39-s">
+            <seg xml:id="named_24.39-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Piotruś</string>
+                </f>
+                <f name="base">
+                  <string>Piotruś</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_24.39-s_n4"/>
+            </seg>
+            <seg xml:id="named_24.39-s_n4">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Piotruś</string>
+                </f>
+                <f name="base">
+                  <string>Piotruś</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_24.2-seg"/>
+            </seg>
+            <seg xml:id="named_24.39-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_24.39-s_n2"/>
+            </seg>
+            <seg xml:id="named_24.39-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_24.12-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_24.55-s" corresp="ann_morphosyntax.xml#morph_24.55-s">
+            <seg xml:id="named_24.55-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_24.55-s_n2"/>
+            </seg>
+            <seg xml:id="named_24.55-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_24.47-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_24.59-s" corresp="ann_morphosyntax.xml#morph_24.59-s"/>
+          <s xml:id="named_24.76-s" corresp="ann_morphosyntax.xml#morph_24.76-s"/>
+        </p>
+        <p xml:id="named_25-p" corresp="ann_morphosyntax.xml#morph_25-p">
+          <s xml:id="named_25.13-s" corresp="ann_morphosyntax.xml#morph_25.13-s">
+            <seg xml:id="named_25.13-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumiła Niechcica</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił Niechcic</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_25.13-s_n2"/>
+              <ptr target="named_25.13-s_n3"/>
+            </seg>
+            <seg xml:id="named_25.13-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumiła</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_25.11-seg"/>
+            </seg>
+            <seg xml:id="named_25.13-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Niechcica</string>
+                </f>
+                <f name="base">
+                  <string>Niechcic</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_25.12-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_25.30-s" corresp="ann_morphosyntax.xml#morph_25.30-s"/>
+          <s xml:id="named_25.47-s" corresp="ann_morphosyntax.xml#morph_25.47-s"/>
+          <s xml:id="named_25.57-s" corresp="ann_morphosyntax.xml#morph_25.57-s"/>
+          <s xml:id="named_25.76-s" corresp="ann_morphosyntax.xml#morph_25.76-s">
+            <seg xml:id="named_25.76-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_25.76-s_n2"/>
+            </seg>
+            <seg xml:id="named_25.76-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_25.73-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_26-p" corresp="ann_morphosyntax.xml#morph_26-p">
+          <s xml:id="named_26.32-s" corresp="ann_morphosyntax.xml#morph_26.32-s"/>
+          <s xml:id="named_26.49-s" corresp="ann_morphosyntax.xml#morph_26.49-s"/>
+          <s xml:id="named_26.59-s" corresp="ann_morphosyntax.xml#morph_26.59-s">
+            <seg xml:id="named_26.59-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Niechcicowie</string>
+                </f>
+                <f name="base">
+                  <string>Niechcicowie</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_26.59-s_n2"/>
+            </seg>
+            <seg xml:id="named_26.59-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Niechcicowie</string>
+                </f>
+                <f name="base">
+                  <string>Niechcicowie</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_26.50-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_26.80-s" corresp="ann_morphosyntax.xml#morph_26.80-s">
+            <seg xml:id="named_26.80-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_26.80-s_n2"/>
+            </seg>
+            <seg xml:id="named_26.80-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbara</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_26.69-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_27-p" corresp="ann_morphosyntax.xml#morph_27-p">
+          <s xml:id="named_27.25-s" corresp="ann_morphosyntax.xml#morph_27.25-s">
+            <seg xml:id="named_27.25-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="placeName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="settlement"/>
+                </f>
+                <f name="orth">
+                  <string>Serbinowa</string>
+                </f>
+                <f name="base">
+                  <string>Serbinów</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_27.6-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_27.41-s" corresp="ann_morphosyntax.xml#morph_27.41-s"/>
+          <s xml:id="named_27.52-s" corresp="ann_morphosyntax.xml#morph_27.52-s"/>
+          <s xml:id="named_27.66-s" corresp="ann_morphosyntax.xml#morph_27.66-s"/>
+          <s xml:id="named_27.74-s" corresp="ann_morphosyntax.xml#morph_27.74-s">
+            <seg xml:id="named_27.74-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Barbarę</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_27.74-s_n2"/>
+            </seg>
+            <seg xml:id="named_27.74-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Barbarę</string>
+                </f>
+                <f name="base">
+                  <string>Barbara</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_27.70-seg"/>
+            </seg>
+          </s>
+        </p>
+        <p xml:id="named_28-p" corresp="ann_morphosyntax.xml#morph_28-p">
+          <s xml:id="named_28.6-s" corresp="ann_morphosyntax.xml#morph_28.6-s">
+            <seg xml:id="named_28.6-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumiła Niechcica</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił Niechcic</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_28.6-s_n2"/>
+              <ptr target="named_28.6-s_n3"/>
+            </seg>
+            <seg xml:id="named_28.6-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumiła</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_28.4-seg"/>
+            </seg>
+            <seg xml:id="named_28.6-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="surname"/>
+                </f>
+                <f name="orth">
+                  <string>Niechcica</string>
+                </f>
+                <f name="base">
+                  <string>Niechcic</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_28.5-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_28.22-s" corresp="ann_morphosyntax.xml#morph_28.22-s">
+            <seg xml:id="named_28.22-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił Adrian</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił Adrian</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_28.22-s_n2"/>
+              <ptr target="named_28.22-s_n3"/>
+            </seg>
+            <seg xml:id="named_28.22-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_28.7-seg"/>
+            </seg>
+            <seg xml:id="named_28.22-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Adrian</string>
+                </f>
+                <f name="base">
+                  <string>Adrian</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_28.8-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_28.46-s" corresp="ann_morphosyntax.xml#morph_28.46-s">
+            <seg xml:id="named_28.46-s_n3">
+              <fs type="named">
+                <f name="derived">
+                  <fs type="derivation">
+                    <f name="derivType">
+                      <symbol value="relAdj"/>
+                    </f>
+                    <f name="derivedFrom">
+                      <string>Bóg</string>
+                    </f>
+                  </fs>
+                </f>
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bożą</string>
+                </f>
+                <f name="base">
+                  <string>Boży</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_28.36-seg"/>
+            </seg>
+            <seg xml:id="named_28.46-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Florentyny</string>
+                </f>
+                <f name="base">
+                  <string>Florentyna</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_28.46-s_n2"/>
+            </seg>
+            <seg xml:id="named_28.46-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Florentyny</string>
+                </f>
+                <f name="base">
+                  <string>Florentyna</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_28.41-seg"/>
+            </seg>
+          </s>
+          <s xml:id="named_28.64-s" corresp="ann_morphosyntax.xml#morph_28.64-s">
+            <seg xml:id="named_28.64-s_n2">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="named_28.64-s_n3"/>
+            </seg>
+            <seg xml:id="named_28.64-s_n3">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="persName"/>
+                </f>
+                <f name="subtype">
+                  <symbol value="forename"/>
+                </f>
+                <f name="orth">
+                  <string>Bogumił</string>
+                </f>
+                <f name="base">
+                  <string>Bogumił</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_28.47-seg"/>
+            </seg>
+            <seg xml:id="named_28.64-s_n1">
+              <fs type="named">
+                <f name="type">
+                  <symbol value="date"/>
+                </f>
+                <f name="orth">
+                  <string>1863 roku</string>
+                </f>
+                <f name="when">
+                  <string>1863</string>
+                </f>
+                <f name="certainty">
+                  <symbol value="high"/>
+                </f>
+              </fs>
+              <ptr target="ann_morphosyntax.xml#morph_28.62-seg"/>
+              <ptr target="ann_morphosyntax.xml#morph_28.63-seg"/>
+            </seg>
+          </s>
+        </p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>
