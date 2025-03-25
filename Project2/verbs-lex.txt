@@ -1,0 +1,57 @@
+Multichar_Symbols +Verb +Imp +Past +Cond +Inf +Fut +Ger +Sg +Pl +Pers1 +Pers2 +Pers3
+
+LEXICON Root
+Verbs ;
+
+LEXICON Verbs
+kąpa VerbConj ;
+drzema VerbConj ;
+
+LEXICON VerbConj
+ć+Verb+Inf:ć # ; ! bezokolicznik
+ę+Verb+Sg+Pers1:ę # ; ! ja kąpię
+esz+Verb+Sg+Pers2:esz # ; ! ty kąpiesz
+e+Verb+Sg+Pers3:e # ; ! on/ona kąpie
+emy+Verb+Pl+Pers1:emy # ; ! my kąpiemy
+ecie+Verb+Pl+Pers2:ecie # ; ! wy kąpiecie
+ą+Verb+Pl+Pers3:ą # ; ! oni/one kąpią
+
+LEXICON Past
+ł+Verb+Past+Sg+Pers1:łem # ; ! ja kąpałem
+ł+Verb+Past+Sg+Pers2:łeś # ; ! ty kąpałeś
+ł+Verb+Past+Sg+Pers3:ł # ; ! on kąpał
+ła+Verb+Past+Sg+Pers3:ła # ; ! ona kąpała
+ło+Verb+Past+Sg+Pers3:ło # ; ! ono kąpało
+li+Verb+Past+Pl+Pers1:liśmy # ; ! my kąpaliśmy
+li+Verb+Past+Pl+Pers2:liście # ; ! wy kąpaliście
+li+Verb+Past+Pl+Pers3:li # ; ! oni kąpali
+ły+Verb+Past+Pl+Pers3:ły # ; ! one kąpały
+
+LEXICON Fut
+będę+Verb+Fut+Sg+Pers1:będę kąpać # ; ! ja będę kąpać
+będziesz+Verb+Fut+Sg+Pers2:będziesz kąpać # ; ! ty będziesz kąpać
+będzie+Verb+Fut+Sg+Pers3:będzie kąpać # ; ! on/ona będzie kąpać
+będziemy+Verb+Fut+Pl+Pers1:będziemy kąpać # ; ! my będziemy kąpać
+będziecie+Verb+Fut+Pl+Pers2:będziecie kąpać # ; ! wy będziecie kąpać
+będą+Verb+Fut+Pl+Pers3:będą kąpać # ; ! oni/one będą kąpać
+
+LEXICON Cond
+łby+Verb+Cond:Sg+Pers1:łbym # ; ! ja kąpałbym
+łby+Verb+Cond:Sg+Pers2:łbyś # ; ! ty kąpałbyś
+łby+Verb+Cond:Sg+Pers3:łby # ; ! on kąpałby
+łaby+Verb+Cond:Sg+Pers3:łaby # ; ! ona kąpałaby
+łoby+Verb+Cond:Sg+Pers3:łoby # ; ! ono kąpałoby
+liby+Verb+Cond:Pl+Pers1:libyśmy # ; ! my kąpalibyśmy
+liby+Verb+Cond:Pl+Pers2:libyście # ; ! wy kąpalibyście
+liby+Verb+Cond:Pl+Pers3:liby # ; ! oni kąpaliby
+łyby+Verb+Cond:Pl+Pers3:łyby # ; ! one kąpałyby
+
+LEXICON Imp
+j+Verb+Imp:Sg+Pers2:j # ; ! kąp się!
+jmy+Verb+Imp:Pl+Pers1:jmy # ; ! kąpmy się!
+jcie+Verb+Imp:Pl+Pers2:jcie # ; ! kąpcie się!
+
+LEXICON Ger
+anie+Verb+Ger:anie # ; ! kąpanie
+ąc+Verb+Ger:ąc # ; ! kąpiąc
+awszy+Verb+Ger:awszy # ; ! kąpawszy
