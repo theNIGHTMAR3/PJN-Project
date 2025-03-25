@@ -1,0 +1,23 @@
+Multichar_Symbols +Noun +MasPer +MasAnim +MasNAnim +Fem +Neut +Sg +Pl +Nom +Gen +Dat +Acc +Ins +Loc +Voc
+
+LEXICON Root
+Nouns ;
+
+LEXICON Nouns
+klas NounEnds ;
+
+LEXICON NounEnds
+a+Noun+Fem+Sg+Nom:a # ;
+a+Noun+Fem+Sg+Gen:y # ;
+a+Noun+Fem+Sg+Dat:ie # ;
+a+Noun+Fem+Sg+Acc:ę # ;
+a+Noun+Fem+Sg+Ins:ą # ;
+a+Noun+Fem+Sg+Loc:ie # ;
+a+Noun+Fem+Sg+Voc:o # ;
+a+Noun+Fem+Pl+Nom:y # ;
+a+Noun+Fem+Pl+Gen:0 # ; ! morfem zerowy
+a+Noun+Fem+Pl+Dat:om # ;
+a+Noun+Fem+Pl+Acc:y # ;
+a+Noun+Fem+Pl+Ins:ami # ;
+a+Noun+Fem+Pl+Loc:ach # ;
+a+Noun+Fem+Pl+Voc:y # ;

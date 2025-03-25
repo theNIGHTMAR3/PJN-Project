@@ -1,0 +1,61 @@
+Multichar_Symbols +Noun +Fem +Sg +Pl +Nom +Gen +Dat +Acc +Ins +Loc +Voc
+
+LEXICON Root
+ Nouns ;
+
+LEXICON Nouns
+zamie FemNounEnds1 ;
+dło FemNounEnds2 ;
+
+LEXICON FemNounEnds1
+ć+Noun+Fem+Sg+Nom:ć # ;
+ć+Noun+Fem+Sg+Gen:ci # ;
+ć+Noun+Fem+Sg+Dat:ci # ;
+ć+Noun+Fem+Sg+Acc:ć # ;
+ć+Noun+Fem+Sg+Ins:cią # ;
+ć+Noun+Fem+Sg+Loc:ci # ;
+ć+Noun+Fem+Sg+Voc:ci # ;
+ć+Noun+Fem+Pl+Nom:cie # ;
+ć+Noun+Fem+Pl+Gen:ć # ; ! nieregularna forma
+ć+Noun+Fem+Pl+Dat:ciom # ;
+ć+Noun+Fem+Pl+Acc:cie # ;
+ć+Noun+Fem+Pl+Ins:ciami # ;
+ć+Noun+Fem+Pl+Loc:ciach # ;
+ć+Noun+Fem+Pl+Voc:cie # ;
+
+
+LEXICON FemNounEnds2
+ń+Noun+Fem+Sg+Nom:ń # ;
+ń+Noun+Fem+Sg+Gen:ni # ;
+ń+Noun+Fem+Sg+Dat:ni # ;
+ń+Noun+Fem+Sg+Acc:ń # ;
+ń+Noun+Fem+Sg+Ins:nią # ;
+ń+Noun+Fem+Sg+Loc:ni # ;
+ń+Noun+Fem+Sg+Voc:ni # ;
+ń+Noun+Fem+Pl+Nom:nie # ;
+ń+Noun+Fem+Pl+Gen:ń # ; ! nieregularna forma
+ń+Noun+Fem+Pl+Dat:niom # ;
+ń+Noun+Fem+Pl+Acc:nie # ;
+ń+Noun+Fem+Pl+Ins:niami # ;
+ń+Noun+Fem+Pl+Loc:niach # ;
+ń+Noun+Fem+Pl+Voc:nie # ;
+
+
+
+
+! M zamieć      zamieci
+! D zamieci     zamieci
+! C zamieci     zamieciom
+! B zamieć      zamiecie
+! N zamiecią    zamieciami
+! Msc zamieci   zamieciach
+! W zamiecio    zamiecie
+
+! M dłoń        dłonie
+! D dłoni       dłoni
+! C dłoni       dłoniom
+! B dłoń        dłonie
+! N dłonią      dłoniami
+! Msc dłoni     dłoniach
+! W dłoni       dłonie
+
