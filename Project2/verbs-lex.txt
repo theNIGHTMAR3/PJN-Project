@@ -4,48 +4,67 @@ LEXICON Root
 Verbs ;
 
 LEXICON Verbs
-kąp VerbConj ;
-drzem VerbConj ;
+kąp AllVerbs ;
+drzem AllVerbs ;
+
+LEXICON AllVerbs
+VerbConj ;
+Past ;
+Cond ;
+Imp ;
+Ger ;
 
 LEXICON VerbConj
-a+Verb+Inf:ać # ;               ! bezokolicznik
-a+Verb+Pres+Sg+Pers1:ę # ;     ! ja kąpię
-a+Verb+Pres+Sg+Pers2:esz # ;   ! ty kąpiesz
-a+Verb+Pres+Sg+Pers3:e # ;     ! on/ona kąpie
-a+Verb+Pres+Pl+Pers1:emy # ;   ! my kąpiemy
-a+Verb+Pres+Pl+Pers2:ecie # ;  ! wy kąpiecie
-a+Verb+Pres+Pl+Pers3:ą # ;     ! oni/one kąpią
+ać+Verb+Inf:ać # ;               ! bezokolicznik
+ać+Verb+Pres+Sg+Pers1:ię # ;     ! ja kąpię
+ać+Verb+Pres+Sg+Pers2:iesz # ;   ! ty kąpiesz
+ać+Verb+Pres+Sg+Pers3:ie # ;     ! on/ona kąpie
+ać+Verb+Pres+Pl+Pers1:iemy # ;   ! my kąpiemy
+ać+Verb+Pres+Pl+Pers2:iecie # ;  ! wy kąpiecie
+ać+Verb+Pres+Pl+Pers3:ią # ;     ! oni/one kąpią
 
 LEXICON Past
-a+Verb+Past+Sg+Pers1:ałem # ;       ! ja kąpałem
-a+Verb+Past+Sg+Pers2:ałeś # ;       ! ty kąpałeś
-a+Verb+Past+Sg+Pers3:ał # ;         ! on kąpał
-a+Verb+Past+Sg+Pers3:ała # ;        ! ona kąpała
-a+Verb+Past+Sg+Pers3:ało # ;        ! ono kąpało
-a+Verb+Past+Pl+Pers1:aliśmy # ;     ! my kąpaliśmy
-a+Verb+Past+Pl+Pers2:aliście # ;    ! wy kąpaliście
-a+Verb+Past+Pl+Pers3:ali # ;        ! oni kąpali
-a+Verb+Past+Pl+Pers3:ały # ;        ! one kąpały
+ać+Verb+Past+Sg+Pers1:ałem # ;       ! ja kąpałem
+ać+Verb+Past+Sg+Pers1:ałam # ;       ! ja kąpałam
+ać+Verb+Past+Sg+Pers1:ałom # ;       ! ja kąpałom
+ać+Verb+Past+Sg+Pers2:ałeś # ;       ! ty kąpałeś
+ać+Verb+Past+Sg+Pers2:ałaś # ;       ! ty kąpałaś
+ać+Verb+Past+Sg+Pers2:ałoś # ;       ! ty kąpałoś
+ać+Verb+Past+Sg+Pers3:ał # ;         ! on kąpał
+ać+Verb+Past+Sg+Pers3:ała # ;        ! ona kąpała
+ać+Verb+Past+Sg+Pers3:ało # ;        ! ono kąpało
+ać+Verb+Past+Pl+Pers1:aliśmy # ;     ! my kąpaliśmy
+ać+Verb+Past+Pl+Pers1:ałiśmy # ;     ! my kąpałiśmy
+ać+Verb+Past+Pl+Pers2:aliście # ;    ! wy kąpaliście
+ać+Verb+Past+Pl+Pers2:ałiście # ;    ! wy kąpałiście
+ać+Verb+Past+Pl+Pers3:ali # ;        ! oni kąpali
+ać+Verb+Past+Pl+Pers3:ały # ;        ! one kąpały
 
 LEXICON Cond
-a+Verb+Cond:Sg+Pers1:ałbym # ;       ! ja kąpałbym
-a+Verb+Cond:Sg+Pers2:ałbyś # ;       ! ty kąpałbyś
-a+Verb+Cond:Sg+Pers3:ałby # ;        ! on kąpałby
-a+Verb+Cond:Sg+Pers3:ałaby # ;       ! ona kąpałaby
-a+Verb+Cond:Sg+Pers3:ałoby # ;       ! ono kąpałoby
-a+Verb+Cond:Pl+Pers1:alibyśmy # ;    ! my kąpalibyśmy
-a+Verb+Cond:Pl+Pers2:alibyście # ;   ! wy kąpalibyście
-a+Verb+Cond:Pl+Pers3:aliby # ;       ! oni kąpaliby
-a+Verb+Cond:Pl+Pers3:ałyby # ;       ! one kąpałyby
+ać+Verb+Cond+Sg+Pers1:ałbym # ;       ! ja kąpałbym
+ać+Verb+Cond+Sg+Pers1:ałabym # ;      ! ja kąpałabym
+ać+Verb+Cond+Sg+Pers1:ałobym # ;      ! ja kąpałobym
+ać+Verb+Cond+Sg+Pers2:ałbyś # ;       ! ty kąpałbyś
+ać+Verb+Cond+Sg+Pers2:ałabyś # ;      ! ty kąpałabyś
+ać+Verb+Cond+Sg+Pers2:ałobyś # ;      ! ty kąpałobyś
+ać+Verb+Cond+Sg+Pers3:ałby # ;        ! on kąpałby
+ać+Verb+Cond+Sg+Pers3:ałaby # ;       ! ona kąpałaby
+ać+Verb+Cond+Sg+Pers3:ałoby # ;       ! ono kąpałoby
+ać+Verb+Cond+Pl+Pers1:alibyśmy # ;    ! my kąpalibyśmy
+ać+Verb+Cond+Pl+Pers1:ałybyśmy # ;    ! my kąpałybyśmy
+ać+Verb+Cond+Pl+Pers2:alibyście # ;   ! wy kąpalibyście
+ać+Verb+Cond+Pl+Pers2:ałybyście # ;   ! wy kąpałybyście
+ać+Verb+Cond+Pl+Pers3:aliby # ;       ! oni kąpaliby
+ać+Verb+Cond+Pl+Pers3:ałyby # ;       ! one kąpałyby
 
 LEXICON Imp
-+Verb+Imp:Sg+Pers2:0 # ;    ! kąp
-+Verb+Imp:Pl+Pers1:my # ;   ! kąpmy
-+Verb+Imp:Pl+Pers2:cie # ;  ! kąpcie
++Verb+Imp+Sg+Pers2:0 # ;    ! kąp
++Verb+Imp+Pl+Pers1:my # ;   ! kąpmy
++Verb+Imp+Pl+Pers2:cie # ;  ! kąpcie
 
 LEXICON Ger
-a+Verb+Ger:anie # ; ! kąpanie
-a+Verb+Ger:ąc # ; ! kąpiąc
-a+Verb+Ger:awszy # ; ! kąpawszy
-a+Verb+Ger+:ano # ; ! kąpano
+ać+Verb+Ger:anie # ;        ! kąpanie
+ać+Verb+Ger:iąc # ;         ! kąpiąc
+ać+Verb+Ger:awszy # ;       ! kąpawszy
+ać+Verb+Ger:ano # ;        ! kąpano
 
