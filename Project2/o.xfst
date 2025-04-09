@@ -1,0 +1,13 @@
+define Consonant b | c | {ch} | ć | d | {dz} | {dź} | {dż} | f | g | h | j | k
+        | l | ł | m | n | ń | p | r | {rz} | s | ś | {sz} | t | w | z
+        | ź | ż ;
+
+read regex ń i -> n i ;
+
+read regex ć i -> c i ;
+
+read lexc lex.txt
+
+compose net
+
+

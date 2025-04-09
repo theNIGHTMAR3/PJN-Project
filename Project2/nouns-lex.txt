@@ -8,20 +8,20 @@ zamieć FemNounEnds ;
 dłoń FemNounEnds ;
 
 LEXICON FemNounEnds
-+Noun+Fem+Sg+Nom:0 # ;
++Noun+Fem+Sg+Nom:^o # ;
 +Noun+Fem+Sg+Gen:i # ;
 +Noun+Fem+Sg+Dat:i # ;
-+Noun+Fem+Sg+Acc:0 # ;
-+Noun+Fem+Sg+Ins:ą # ;
++Noun+Fem+Sg+Acc:^o # ;
++Noun+Fem+Sg+Ins:ią # ;
 +Noun+Fem+Sg+Loc:i # ;
 +Noun+Fem+Sg+Voc:i # ;
-+Noun+Fem+Pl+Nom:e # ;
++Noun+Fem+Pl+Nom:ie # ;
 +Noun+Fem+Pl+Gen:i # ;
-+Noun+Fem+Pl+Dat:om # ;
-+Noun+Fem+Pl+Acc:e # ;
-+Noun+Fem+Pl+Ins:ami # ;
-+Noun+Fem+Pl+Loc:ach # ;
-+Noun+Fem+Pl+Voc:e # ;
++Noun+Fem+Pl+Dat:iom # ;
++Noun+Fem+Pl+Acc:ie # ;
++Noun+Fem+Pl+Ins:iami # ;
++Noun+Fem+Pl+Loc:iach # ;
++Noun+Fem+Pl+Voc:ie # ;
 
 
 
