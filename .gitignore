@@ -24,7 +24,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-Projekt3/Data
+Project3/Data
 
 
 .idea

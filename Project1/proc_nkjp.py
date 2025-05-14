@@ -118,7 +118,7 @@ if (__name__ == "__main__"):
     input =  '$NKJP/010-2-000000001'
     # for setname in input:
     #     print(setname)
-    #     mm = get_next_morph("C:/Users/micha/Desktop/Informatyka/PJN-Project/Projekt1/resources/ann_morphosyntax.xml")
+    #     mm = get_next_morph("C:/Users/micha/Desktop/Informatyka/PJN-Project/Project1/resources/ann_morphosyntax.xml")
     #     # mm = get_next_morph(setname + "/ann_morphosyntax.xml")
     #     for m in mm:
     #         orth, interps, disamb = m
