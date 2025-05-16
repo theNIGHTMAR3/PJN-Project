@@ -5,8 +5,23 @@ from spacy.language import Language
 from spacy.tokens import Token
 import re
 
+print("before herference import")
+import herference
+cr = herference.Herference()
 
+print("Herference loaded")
 nlp = spacy.load("pl_core_news_sm")
+nlp.add_pipe("herference")
+
+text = cr.predict('Twój przykładowy tekst, którego analizę chcesz przeprowadzić.')
+print(text)
+doc = nlp(text)
+
+for cluster in text.clusters:
+    for mention in cluster:
+        print(f"{mention.text} {mention.subtoken_indices}")
+
+print(text.tokenized)
 
 
 
@@ -88,8 +103,8 @@ def number_tokenizer(nlp):
 
 
 
-date_tokenizer(nlp)
-number_tokenizer(nlp)
+# date_tokenizer(nlp)
+# number_tokenizer(nlp)
 
 # Przykładowy tekst
 doc = nlp("W 13.11.2023 populacja wynosiła 1 234 567 osób.")

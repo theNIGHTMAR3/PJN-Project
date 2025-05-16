@@ -167,9 +167,9 @@ def mark_components(deps_parse, deps):
     for w1 in word_braks:
         for b1 in reversed(word_braks[w1].left):
             p1 = deps_parse["words"][b1]["tag"]
-            # Sprawdź, czy pierwszy token w składniku to przyimek (ADP)
             first_token_pos = deps[b1].lspan
             first_token_tag = deps_parse["words"][first_token_pos]["tag"]
+            # if we got ADP add [PP
             if first_token_tag == "ADP":
                 annot_sent += "[PP "
             else:
@@ -183,6 +183,7 @@ def mark_components(deps_parse, deps):
             # Sprawdź, czy pierwszy token w składniku to przyimek (ADP)
             first_token_pos = deps[b1].lspan
             first_token_tag = deps_parse["words"][first_token_pos]["tag"]
+            # close ADP with PP]
             if first_token_tag == "ADP":
                 annot_sent += " PP]"
             else:
@@ -199,6 +200,7 @@ def assemble_component(deps_parse, comp_root, deps):
         # Sprawdź, czy pierwszy token to przyimek (ADP)
         first_token_pos = deps[comp_root].lspan
         first_token_tag = deps_parse["words"][first_token_pos]["tag"]
+        # add PP label for ADP tag
         if first_token_tag == "ADP":
             root_label = "PP"
         else:

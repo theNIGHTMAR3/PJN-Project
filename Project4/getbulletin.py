@@ -17,8 +17,8 @@ nlp = spacy.load("pl_core_news_sm")
 
 # Add a custom entity ruler to match dates
 ruler = nlp.add_pipe("entity_ruler", before="ner")
-patterns = [{"label": "DATE", "pattern": [{"TEXT": {"REGEX": r"^\d{1,2}\.\d{1,2}\.\d{4}$"}}]}]
-ruler.add_patterns(patterns)
+date_pattern = [{"label": "DATE", "pattern": [{"TEXT": {"REGEX": r"^\d{1,2}\.\d{1,2}\.\d{4}$"}}]}]
+ruler.add_patterns(date_pattern)
 
 # date tokenizer
 def custom_tokenizer(nlp):
@@ -80,28 +80,32 @@ def process_text(text):
 
     # merge NUM tags into one token
     # ###################################################
-    indexes = []
+    saved_indexes = []
     i = 0
     while i < len(doc):
         token = doc[i]
-        if not indexes:
+        # first number
+        if not saved_indexes:
             if re.search(number_start_regex, token.text):
-                indexes = [i]
+                saved_indexes = [i]
+        # next numbers
         else:
             if re.search(number_group_regex, token.text):
-                indexes.append(i)
+                saved_indexes.append(i)
             else:
-                if len(indexes) > 1:
+                # finish, check if got any numbers
+                if len(saved_indexes) > 1:
                     with doc.retokenize() as retokenizer:
-                        span = doc[indexes[0]:indexes[-1]+1]
+                        span = doc[saved_indexes[0]:saved_indexes[-1]+1]
                         retokenizer.merge(span, attrs={"POS": "NUM"})
-                    i -= (len(indexes) - 1)
-                indexes = []
+                    i -= (len(saved_indexes) - 1)
+                saved_indexes = []
         i += 1
 
-    if len(indexes) > 1:
+    # last tokens, check if got any numbers
+    if len(saved_indexes) > 1:
         with doc.retokenize() as retokenizer:
-            span = doc[indexes[0]:indexes[-1]+1]
+            span = doc[saved_indexes[0]:saved_indexes[-1]+1]
             retokenizer.merge(span, attrs={"POS": "NUM"})
 
     # ###################################################
